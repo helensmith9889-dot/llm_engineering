@@ -1,3 +1,19 @@
+"""
+优惠交易（Deal）相关的数据结构与 RSS 抓取逻辑。
+
+在「Price is Right」多智能体扫货系统中，本模块负责「数据层」：
+  1. 从 DealNews 等 RSS 源拉取原始优惠条目（ScrapedDeal）
+  2. 用 Pydantic 模型定义结构化的 Deal / DealSelection / Opportunity
+     ——这些模型既给 Scanner Agent 做 Structured Outputs（结构化输出），
+       也在 Planning / Messaging 之间传递「值得通知用户的机会」
+
+教学关键词：
+  - RSS feed：网站发布的内容订阅源，适合周期性抓新优惠
+  - BeautifulSoup：解析 HTML，清洗摘要文本
+  - Pydantic BaseModel：带类型与 Field 描述的数据类，可直接作为 LLM 的
+    response_format，让模型按 schema 填字段
+"""
+
 from pydantic import BaseModel, Field
 from typing import List, Dict, Self
 from bs4 import BeautifulSoup
@@ -7,6 +23,7 @@ from tqdm import tqdm
 import requests
 import time
 
+# DealNews 上电子产品 / 电脑 / 智能家居 三类 RSS；Scanner 会轮询这些源
 feeds = [
     "https://www.dealnews.com/c142/Electronics/?rss=1",
     "https://www.dealnews.com/c39/Computers/?rss=1",
@@ -19,13 +36,22 @@ feeds = [
 
 def extract(html_snippet: str) -> str:
     """
-    Use Beautiful Soup to clean up this HTML snippet and extract useful text
+    用 BeautifulSoup 清洗 HTML 片段，提取可读的纯文本摘要。
+
+    参数:
+        html_snippet: RSS entry 里可能带标签的 summary HTML
+
+    返回:
+        去掉标签与换行后的一行纯文本；若找不到标准 snippet 结构则退回原文。
+
+    为什么要清洗：把脏 HTML 直接丢给 LLM 会浪费 token，还容易干扰价格解析。
     """
     soup = BeautifulSoup(html_snippet, "html.parser")
     snippet_div = soup.find("div", class_="snippet summary")
 
     if snippet_div:
         description = snippet_div.get_text(strip=True)
+        # 有时文本里还嵌着转义 HTML，再解析一次更干净
         description = BeautifulSoup(description, "html.parser").get_text()
         description = re.sub("<[^<]+?>", "", description)
         result = description.strip()
@@ -36,7 +62,14 @@ def extract(html_snippet: str) -> str:
 
 class ScrapedDeal:
     """
-    A class to represent a Deal retrieved from an RSS feed
+    从 RSS 抓取到的「原始优惠」对象（尚未经 LLM 精选）。
+
+    字段含义：
+      title / summary：列表页信息
+      url：优惠详情页链接（也用作 memory 去重键）
+      details / features：详情页正文拆分出的描述与特性
+
+    Scanner Agent 会批量 fetch，再交给 LLM 选出描述最清晰、价格最可信的几条。
     """
 
     category: str
@@ -48,11 +81,14 @@ class ScrapedDeal:
 
     def __init__(self, entry: Dict[str, str]):
         """
-        Populate this instance based on the provided dict
+        根据 feedparser 解析出的单条 entry 字典填充本实例。
+
+        步骤：读标题与摘要 → 请求详情页 → 拆分 Details/Features → 截断长度。
         """
         self.title = entry["title"]
         self.summary = extract(entry["summary"])
         self.url = entry["links"][0]["href"]
+        # 再请求详情页，拿到更完整的商品说明（给 LLM 写 product_description 用）
         stuff = requests.get(self.url).content
         soup = BeautifulSoup(stuff, "html.parser")
         content = soup.find("div", class_="content-section").get_text()
@@ -66,7 +102,7 @@ class ScrapedDeal:
 
     def truncate(self):
         """
-        Limit the fields to a sensible length to avoid sending too much info to the model
+        把各字段截到合理长度，避免一次 prompt 塞入过多文本（省 token、降噪声）。
         """
         self.title = self.title[:100]
         self.details = self.details[:500]
@@ -74,20 +110,28 @@ class ScrapedDeal:
 
     def __repr__(self):
         """
-        Return a string to describe this deal
+        简短字符串表示，便于在调试打印时识别是哪条优惠。
         """
         return f"<{self.title}>"
 
     def describe(self):
         """
-        Return a longer string to describe this deal for use in calling a model
+        生成给 LLM 阅读的较长描述（标题 + 详情 + 特性 + URL）。
+
+        Scanner 的 user prompt 会把多条 describe() 结果拼在一起。
         """
         return f"Title: {self.title}\nDetails: {self.details.strip()}\nFeatures: {self.features.strip()}\nURL: {self.url}"
 
     @classmethod
     def fetch(cls, show_progress: bool = False) -> List[Self]:
         """
-        Retrieve all deals from the selected RSS feeds
+        从 feeds 列表中的所有 RSS 源抓取优惠。
+
+        参数:
+            show_progress: True 时用 tqdm 显示进度条
+
+        返回:
+            ScrapedDeal 列表；每个源最多取前 10 条，条目间 sleep 以免请求过猛。
         """
         deals = []
         feed_iter = tqdm(feeds) if show_progress else feeds
@@ -101,7 +145,11 @@ class ScrapedDeal:
 
 class Deal(BaseModel):
     """
-    A class to Represent a Deal with a summary description
+    经 LLM 精选并结构化后的「一条优惠」。
+
+    Field(description=...) 里的英文说明会作为 Structured Outputs 的 schema
+    提示词一部分，引导模型如何填写 product_description / price / url。
+    注意：字面量保持英文（课程约定），勿改动这些 description 字符串。
     """
 
     product_description: str = Field(
@@ -115,7 +163,9 @@ class Deal(BaseModel):
 
 class DealSelection(BaseModel):
     """
-    A class to Represent a list of Deals
+    LLM 选出的一批 Deal（通常目标是 5 条高质量、价格清晰的优惠）。
+
+    ScannerAgent.scan() 把 response_format 设为本类型，模型必须返回符合 schema 的 JSON。
     """
 
     deals: List[Deal] = Field(
@@ -125,8 +175,13 @@ class DealSelection(BaseModel):
 
 class Opportunity(BaseModel):
     """
-    A class to represent a possible opportunity: a Deal where we estimate
-    it should cost more than it's being offered
+    「捡漏机会」：一条 Deal，加上我们估算的真价与折扣空间。
+
+    - deal: 原始优惠（描述、标价、链接）
+    - estimate: Ensemble 等模型估出的「大概值多少钱」
+    - discount: estimate - deal.price，越大越「划算」
+
+    Planning Agent 用 discount 排序，超过阈值才让 Messaging Agent 通知用户。
     """
 
     deal: Deal

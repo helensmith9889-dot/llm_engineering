@@ -1,3 +1,20 @@
+"""
+价格模型评估模块（Week 7）。
+
+与 Week 6 的 evaluator 同构：并行测一批样本，算 MAE / MSE / R²，
+并画「真实价 vs 预测价」散点与累计误差曲线。
+
+Week 7 重点是微调后的 LLM 定价器——用同一评估框架对比：
+  提示工程基线、传统 DNN、以及微调模型，才能客观看出 fine-tuning 是否更准。
+「感觉更好」不算数；同一测试集 + 同一指标才算公平对比。
+
+给初学者的指标速记：
+  - MAE / Error：平均 |猜 − 真|，单位美元，最直观
+  - MSE：误差平方的平均，惩罚离谱大错更狠
+  - R²：相对「永远猜训练集均价」好多少；越接近 1（或这里显示的 100%）越好
+  - 95% CI 误差带：累计均值旁边的不确定度示意，样本少时带宽通常更宽
+"""
+
 import re
 from sklearn.metrics import mean_squared_error, r2_score
 import pandas as pd
@@ -8,18 +25,35 @@ import math
 from tqdm.notebook import tqdm
 from concurrent.futures import ThreadPoolExecutor
 
+# 终端 ANSI 颜色：按误差好坏染色打印
 GREEN = "\033[92m"
 YELLOW = "\033[93m"
 RED = "\033[91m"
 RESET = "\033[0m"
 COLOR_MAP = {"red": RED, "orange": YELLOW, "green": GREEN}
 
+# 并行线程数：LLM/API 预测常在「等网络」，多线程可重叠等待、加快整批评估
 WORKERS = 5
 DEFAULT_SIZE = 200
 
 
 class Tester:
+    """
+    通用评估器：predictor 接收 Item，返回价格猜测（数字或字符串）。
+
+    适合评估微调后的推理函数、API 调用包装器等。
+    data[i] 需要具备 .price（真值）与 .title（展示用）。
+    """
+
     def __init__(self, predictor, data, title=None, size=DEFAULT_SIZE, workers=WORKERS):
+        """
+        参数:
+            predictor: 预测可调用对象，签名大致为 predictor(item) -> 价格
+            data: 带 .price / .title 的测试 Item 列表
+            title: 图表标题
+            size: 评估样本数
+            workers: 线程池大小（LLM 推理常受网络/API 限制，线程可重叠等待）
+        """
         self.predictor = predictor
         self.data = data
         self.title = title or self.make_title(predictor)
@@ -33,10 +67,17 @@ class Tester:
 
     @staticmethod
     def make_title(predictor) -> str:
+        """从函数名生成可读标题，并把 Gpt 规范成 GPT。"""
         return predictor.__name__.replace("__", ".").replace("_", " ").title().replace("Gpt", "GPT")
 
     @staticmethod
     def post_process(value):
+        """
+        统一把输出变成 float。
+
+        微调模型有时仍带「$」「逗号」或额外文字——用正则抓第一个数字。
+        解析失败返回 0，保证评估循环不中断（但会把该点记成大误差）。
+        """
         if isinstance(value, str):
             value = value.replace("$", "").replace(",", "")
             match = re.search(r"[-+]?\d*\.\d+|\d+", value)
@@ -45,6 +86,7 @@ class Tester:
             return value
 
     def color_for(self, error, truth):
+        """绿/橙/红：绝对误差或相对误差阈值（课程约定，便于扫一眼质量）。"""
         if error < 40 or error / truth < 0.2:
             return "green"
         elif error < 80 or error / truth < 0.4:
@@ -53,6 +95,11 @@ class Tester:
             return "red"
 
     def run_datapoint(self, i):
+        """
+        单点评估：预测、算绝对误差、着色、截断标题供图表显示。
+
+        此方法会被 ThreadPoolExecutor.map 并行调用，因此尽量自包含、只读 self.data[i]。
+        """
         datapoint = self.data[i]
         value = self.predictor(datapoint)
         guess = self.post_process(value)
@@ -63,6 +110,11 @@ class Tester:
         return title, guess, truth, error, color
 
     def chart(self, title):
+        """
+        散点图：点越靠近 y=x，定价越准。
+
+        横轴 Actual（真价）、纵轴 Predicted（猜价）；颜色来自 color_for。
+        """
         df = pd.DataFrame(
             {
                 "truth": self.truths,
@@ -119,6 +171,11 @@ class Tester:
         fig.show()
 
     def error_trend_chart(self):
+        """
+        累计平均误差 + 95% CI：看评估曲线是否随样本数稳定。
+
+        若曲线一直大幅抖动、带宽很宽，说明当前 size 下结论还不够稳，可加大评估量。
+        """
         n = len(self.errors)
 
         # Running mean and std (pure Python)
@@ -132,7 +189,7 @@ class Tester:
             for i, sq_sum, mean in zip(x, running_squares, running_means)
         ]
 
-        # 95% confidence interval for mean
+        # 95% confidence interval for mean：1.96 ≈ 正态分布双侧 95% 分位
         ci = [1.96 * (sd / math.sqrt(i)) if i > 1 else 0 for i, sd in zip(x, running_stds)]
         upper = [m + c for m, c in zip(running_means, ci)]
         lower = [m - c for m, c in zip(running_means, ci)]
@@ -193,6 +250,7 @@ class Tester:
         fig.show()
 
     def report(self):
+        """打印三项经典回归指标并出图。R² 这里乘 100 显示为百分比风格。"""
         average_error = sum(self.errors) / self.size
         mse = mean_squared_error(self.truths, self.guesses)
         r2 = r2_score(self.truths, self.guesses) * 100
@@ -201,6 +259,12 @@ class Tester:
         self.chart(title)
 
     def run(self):
+        """
+        线程池并行跑 size 个点，彩色打印逐步误差，最后 report。
+
+        ThreadPoolExecutor.map 保持结果顺序与 range(self.size) 一致，
+        因此 append 进列表时仍与样本下标对齐。
+        """
         with ThreadPoolExecutor(max_workers=self.workers) as ex:
             for title, guess, truth, error, color in tqdm(
                 ex.map(self.run_datapoint, range(self.size)), total=self.size
@@ -215,4 +279,5 @@ class Tester:
 
 
 def evaluate(function, data, size=DEFAULT_SIZE, workers=WORKERS):
+    """一键评估入口：构造 Tester 并 run()。"""
     Tester(function, data, size=size, workers=workers).run()

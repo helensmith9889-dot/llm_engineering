@@ -1,0 +1,1 @@
+../../../Vagz1216/week5-exercise/stayez-knowledge-base/properties/golden-mango.md

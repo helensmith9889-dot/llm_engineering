@@ -1,0 +1,2 @@
+# 中文注释版：下方为便于小白阅读的中文旁注；逻辑与标识符未改。
+# Agents for the Indie Publisher / Funding Matcher

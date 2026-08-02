@@ -1,0 +1,1 @@
+../../../Rama_AI_Core/Week1_Day2_OllamaStockFundamentals.py

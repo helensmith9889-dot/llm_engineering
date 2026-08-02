@@ -1,0 +1,30 @@
+import os
+from dotenv import load_dotenv
+from IPython.display import Markdown, display
+from openai import OpenAI
+
+# 核心步骤：加载 API 密钥
+load_dotenv(override=True)
+
+# 步骤 1：编写提示词
+
+system_prompt = "You are a helpful assistant that can help me with my stock fundamentals analysis."
+user_prompt = """
+    Give me the summary of ER report of stock AMZN whatever recent quarter you have access to. 
+    Give top 5 positive and top 5 negative points based on ER transcript with analysts.
+    It need not be the most recent ER report, but the most recent one you have access to.
+"""
+
+# 步骤 2：组装 messages 列表
+
+messages = [
+    {"role" : "system", "content" : system_prompt},
+    {"role" : "user", "content" : user_prompt}
+] # 在此填写
+
+# 步骤 3：调用 OpenAI
+openai = OpenAI()
+response = openai.chat.completions.create(model="gpt-5.2", messages=messages)
+
+# 步骤 4：打印结果
+print(response.choices[0].message.content)

@@ -89,6 +89,8 @@ https://edwarddonner.com/avatar/
 - **不是**官方 week1–8 主线教材  
 - 主课做完再有空翻着玩即可  
 
+中文整理版在 [`community-contributions_zh/`](community-contributions_zh/)：译文 + 注释，并已按周归类到 [`community-contributions_zh/按周浏览/`](community-contributions_zh/按周浏览/)（week1–8 / 跨周 / 未分类）。  
+
 #### `extras/`
 
 **官方额外加餐项目**，不算 8 周主进度。例如：  

@@ -1,0 +1,11 @@
+{
+  "agent": "wave6_agent2",
+  "done": [
+    "daniel-edim/网页摘要.ipynb",
+    "day1_Anthropic版_krispatel.ipynb",
+    "day1_Groq版.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "day1_Anthropic版_krispatel.ipynb",
+  "notes": "Teaching-annotate complete for 3 notebooks. Only cell source edited; outputs/execution_count/metadata restored from snapshot. Runnable English kept (prompts, model ids, URLs, print/error strings, identifiers). daniel-edim: line-by-line Chinese # comments on all code cells; empty cells get placeholder notes. Anthropic/Groq Day1 variants: remaining English markdown translated; code cells near line-by-line Chinese comments; AST-equivalent after comment stripping."
+}

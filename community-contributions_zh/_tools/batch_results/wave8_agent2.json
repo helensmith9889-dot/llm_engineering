@@ -1,0 +1,11 @@
+{
+  "agent": "wave8-agent2",
+  "done": [
+    "franzonia137/第2天_本地Ollama网页摘要.ipynb",
+    "gaurav-sha56/第1天练习1.ipynb",
+    "gaurisankar/普京演讲摘要示例.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "franzonia137/第2天_本地Ollama网页摘要.ipynb",
+  "notes": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged (incl. gaurav reponse typo & Hinglish prints). outputs/execution_count/metadata/id restored from snapshot. gaurav: inserted teaching MD intro (had no MD cells). ast.parse + comment-stripped logic compare OK. No progress.json edit."
+}

@@ -1,0 +1,11 @@
+{
+  "agent": "waveQ2-agent2",
+  "done": [
+    "larry/第7周练习.ipynb",
+    "mideseniordev/week5/第5周练习.ipynb",
+    "abdoul/第5周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "larry/第7周练习.ipynb",
+  "notes": "Teaching-annotate complete for 3 notebooks (larry week7 QLoRA severity classifier; mideseniordev week5 dynamic URL RAG; abdoul week5 local Drive Sage RAG). Only cell source edited; outputs/execution_count/metadata preserved from pre-edit snap. Runnable English kept (prompts, model ids, URLs, Gradio labels, error strings). Markdown expanded in Chinese teaching style; code cells given line-by-line Chinese # comments. abdoul CUSTOM_CSS selectors restored from broken \"# 【注】id\" to \"#id\" so they match elem_id (behavior-preserving fix of prior bad annotation)."
+}

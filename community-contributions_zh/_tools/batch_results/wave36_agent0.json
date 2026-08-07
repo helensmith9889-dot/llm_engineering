@@ -1,0 +1,11 @@
+{
+  "agent": "wave36-agent0",
+  "done": [
+    "电视剧推荐器.ipynb",
+    "诊所预约机器人.ipynb",
+    "预算旅行助手.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "电视剧推荐器.ipynb",
+  "notes": "Teaching-annotated 3 ROOT notebooks: near line-by-line Chinese # comments; markdown polished to teaching Chinese; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count/metadata preserved; ast+logic-strip validated."
+}

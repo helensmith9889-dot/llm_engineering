@@ -1,0 +1,11 @@
+{
+  "agent": "waveQ2-agent1",
+  "done": [
+    "ugomichael33/第6周_价格基线误差分析.ipynb",
+    "selenium_丝芙兰美妆顾问.ipynb",
+    "joxemi_works/week2/客服回复副驾驶_v2.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "joxemi_works/week2/客服回复副驾驶_v2.ipynb",
+  "notes": "Annotated 3 notebooks with Chinese teaching markdown + near line-by-line code comments; preserved outputs/execution_count/metadata/id via snapshot restore; prompts/model ids/URLs/UI strings/error prints kept English; ast.parse + comment-stripped logic compare passed. ugomichael=TF-IDF+Ridge price baseline & error analysis; selenium=Day1 Gemini warm-up + Sephora Selenium beauty advisor; joxemi=Support Reply Copilot v2 (compare/judge/SQLite macros/Gradio/TTS)."
+}

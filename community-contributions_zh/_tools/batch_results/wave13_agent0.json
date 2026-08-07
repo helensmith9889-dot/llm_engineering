@@ -1,0 +1,15 @@
+{
+  "agent": "wave13-agent0",
+  "done": [
+    "/home/dev/code/llm_engineering/community-contributions_zh/najeeb/第1周解答.ipynb",
+    "/home/dev/code/llm_engineering/community-contributions_zh/nate-lev/week1/第1天_歌词创作.ipynb"
+  ],
+  "failed": [
+    {
+      "path": "/home/dev/code/llm_engineering/community-contributions_zh/nate-lev/week1/第2天作业.ipynb",
+      "reason": "empty 0-byte file; not valid ipynb JSON; cannot annotate without inventing content"
+    }
+  ],
+  "sample_for_review": "/home/dev/code/llm_engineering/community-contributions_zh/najeeb/第1周解答.ipynb",
+  "notes": "Teaching-annotated 2/3 notebooks with Chinese markdown + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged. outputs/execution_count/metadata restored from snapshot. najeeb/第1周解答.ipynb: 7 cells annotated; outputs/exec OK; ast OK; logic OK | nate-lev/week1/第1天_歌词创作.ipynb: 9 cells annotated; outputs/exec OK; ast OK; logic OK | nate-lev/week1/第2天作业.ipynb: FAILED empty 0-byte notebook (left untouched). No progress.json edit."
+}

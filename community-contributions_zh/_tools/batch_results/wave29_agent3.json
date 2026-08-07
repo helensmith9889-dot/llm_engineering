@@ -1,0 +1,11 @@
+{
+  "agent": "wave29-agent3",
+  "done": [
+    "ugomichael33/第5周_公司知识库RAG.ipynb",
+    "NicholasDean/week6/第6周练习.ipynb",
+    "Vagz1216/week6-exercise/第6周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "ugomichael33/第5周_公司知识库RAG.ipynb",
+  "notes": "Annotated 3 notebooks (week5 RAG + two week6 fine-tune/pricing) with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip checks passed."
+}

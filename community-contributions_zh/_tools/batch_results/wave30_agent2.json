@@ -1,0 +1,11 @@
+{
+  "agent": "wave30-agent2",
+  "done": [
+    "mmaitsimwale/第6周练习.ipynb",
+    "mugisha_caleb_didier/week6/第6周练习.ipynb",
+    "muhammad_qasim_sheikh/Week 6/Day 5/微调改进前沿模型.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "mmaitsimwale/第6周练习.ipynb",
+  "notes": "Chinese teaching markdown + near line-by-line # comments; logic fingerprints unchanged; outputs/execution_count preserved."
+}

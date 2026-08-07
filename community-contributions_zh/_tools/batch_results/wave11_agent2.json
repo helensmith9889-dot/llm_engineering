@@ -1,0 +1,11 @@
+{
+  "agent": "wave11-agent2",
+  "done": [
+    "mani_bojja/第1周练习.ipynb",
+    "mani_bojja/第1周练习1.ipynb",
+    "mani_bojja/第1周练习2.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "mani_bojja/第1周练习.ipynb",
+  "notes": "Annotated 3/3: mani_bojja week1 weekend (gpt-4o-mini stream + ollama.chat llama3.2 code explainer with analogy prompts); 练习1 (gpt-4.1-nano email→calendar JSON); 练习2 (ollama pull llama3.2:1b + scraper → local OpenAI-compat summary). Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count/metadata/id restored from snapshot; ast.parse + comment-stripped logic compare passed. No progress.json edit."
+}

@@ -1,0 +1,11 @@
+{
+  "agent": "wave29-agent2",
+  "done": [
+    "solarinayo/week5/第5周练习.ipynb",
+    "spasquier/week5/第5周练习.ipynb",
+    "steve/第5周作业解答.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "solarinayo/week5/第5周练习.ipynb",
+  "notes": "solarinayo cell0 had nested notebook JSON dumped into source; restored intended install/import from nested N0 then teaching-annotated."
+}

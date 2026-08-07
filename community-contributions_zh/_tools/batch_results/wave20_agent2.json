@@ -1,0 +1,11 @@
+{
+  "agent": "wave20-agent2",
+  "done": [
+    "erybie222/week-2/第2周练习.ipynb",
+    "fbagire/第2周灵感项目.ipynb",
+    "gaurav-sha56/第2周第3天练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "erybie222/week-2/第2周练习.ipynb",
+  "notes": "Annotated 3 notebooks: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/auth/tool schemas left in English; outputs and execution_count unchanged; ast.parse OK."
+}

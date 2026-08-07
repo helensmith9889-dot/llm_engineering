@@ -1,0 +1,11 @@
+{
+  "agent": "wave25-agent2",
+  "done": [
+    "mmaitsimwale/第3周练习.ipynb",
+    "muhammad_qasim_sheikh/Week 3/Day 5/合成数据生成器.ipynb",
+    "muhammad_shahid/第3周.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "mmaitsimwale/第3周练习.ipynb",
+  "notes": "Annotated 3 Week3 synthetic-data notebooks; source-only; outputs/execution_count preserved; prompts/model ids unchanged."
+}

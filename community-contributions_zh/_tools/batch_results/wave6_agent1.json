@@ -1,0 +1,11 @@
+{
+  "agent": "wave6-agent1",
+  "done": [
+    "cma/第1周练习.ipynb",
+    "damien_sa/week1/第1周练习.ipynb",
+    "damien_sa/week1/第5天_企业宣传册.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "damien_sa/week1/第1周练习.ipynb",
+  "notes": "Annotated 3/3: cma Day1-style website summarizer (MD ZH + line-by-line code comments; chat-analysis exercise prompt preserved); damien_sa week1 GPT+Llama streaming explainer; damien_sa day5 brochure pipeline (scrape→JSON links→context→brochure→translate). prompts/model ids/URLs/error prints/identifiers unchanged; outputs/execution_count/metadata/id restored from snapshot; ast.parse + comment-stripped logic compare passed."
+}

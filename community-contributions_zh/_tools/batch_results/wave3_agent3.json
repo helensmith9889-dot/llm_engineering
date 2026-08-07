@@ -1,0 +1,11 @@
+{
+  "agent": "wave3-agent3",
+  "done": [
+    "Saransh_End_of_Week1/第1周练习.ipynb",
+    "Shafiq_Ur_Rehman/网站摘要器.ipynb",
+    "Shield01/Week1/第1周第2天练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "Shafiq_Ur_Rehman/网站摘要器.ipynb",
+  "notes": "Annotated 3 notebooks: MD→中文教学说明；code 逐行中文旁注；prompts/URLs/model ids/env 名保持英文可运行；outputs/execution_count 已对照改前快照校验一致。Shield01 无 MD 格，教学说明压进代码顶部注释。AST + 去注释逻辑对比通过。"
+}

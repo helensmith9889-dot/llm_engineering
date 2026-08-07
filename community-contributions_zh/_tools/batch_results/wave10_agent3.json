@@ -1,0 +1,28 @@
+{
+  "agent": "wave10-agent3",
+  "done": [
+    "kaiyuwei/week1/第2天练习.ipynb",
+    "karam_sayed/paper-summarizer/论文摘要器.ipynb",
+    "keinda/week1/day1/邮件更正模型.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "kaiyuwei/week1/第2天练习.ipynb",
+  "notes": "Annotated 3/3: kaiyuwei week1 day2 (Ollama HTTP / ollama pkg / OpenAI-compat + Website summarizer via deepseek-r1:1.5b); karam_sayed paper-summarizer (Jina Reader + local llama3.2:3b structured paper extract); keinda day1 email correction (system/user prompts → gpt-4.1-nano). Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count/metadata restored from snapshot; ast.parse + comment-stripped logic compare passed.",
+  "per_file": [
+    {
+      "path": "kaiyuwei/week1/第2天练习.ipynb",
+      "cells": 26,
+      "code_cells_annotated": 17
+    },
+    {
+      "path": "karam_sayed/paper-summarizer/论文摘要器.ipynb",
+      "cells": 12,
+      "code_cells_annotated": 12
+    },
+    {
+      "path": "keinda/week1/day1/邮件更正模型.ipynb",
+      "cells": 5,
+      "code_cells_annotated": 2
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "agent": "wave2-agent3",
+  "done": [
+    "LLaVA-For-Visually-Impared-People/LLaVA图像描述_第1周.ipynb",
+    "Manideep-codes/第1天.ipynb",
+    "Mesoj8/week1/day1/第1天.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "Mesoj8/week1/day1/第1天.ipynb",
+  "notes": "Annotated 3 notebooks: MD→中文教学说明；code 逐行中文旁注；prompts/URLs/model ids 保持英文可运行；outputs/execution_count 已对照改前快照还原（0/1/11）。AST 校验通过。"
+}

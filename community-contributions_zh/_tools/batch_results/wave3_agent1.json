@@ -1,0 +1,11 @@
+{
+  "agent": "wave3-agent1",
+  "done": [
+    "NehaBhoi/第1周练习.ipynb",
+    "NicholasDean/week1/第1周练习.ipynb",
+    "Nikhil/week1/实验1解答.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "NicholasDean/week1/第1周练习.ipynb",
+  "notes": "Annotated 3 notebooks: teaching Chinese markdown + near line-by-line code comments; preserved outputs/execution_count/metadata/id via snapshot restore; prompts/model ids/URLs/error strings kept English; ast.parse + comment-stripped logic compare passed. Neha GPT streaming cell remains comment-only (was incomplete)."
+}

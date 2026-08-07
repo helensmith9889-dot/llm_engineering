@@ -1,0 +1,9 @@
+{
+  "agent": "waveQ1-agent1",
+  "done": [
+    "juanr_youtubeVideoSummarizerDay2/YouTube视频摘要_第2天.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "juanr_youtubeVideoSummarizerDay2/YouTube视频摘要_第2天.ipynb",
+  "notes": "Annotated 1 notebook (24 cells): Chinese teaching markdown + near line-by-line code comments; preserved outputs/execution_count/metadata/id via snapshot restore; prompts/model ids/URLs/error strings kept English; ast.parse + comment-stripped logic compare passed. Flow: Gemini OpenAI-compatible client → YouTube transcript fetch → summarize_video; then Ollama llama3.2 and deepseek-r1:1.5b contrast runs."
+}

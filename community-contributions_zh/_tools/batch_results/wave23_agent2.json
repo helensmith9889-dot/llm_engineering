@@ -1,0 +1,10 @@
+{
+  "agent": "wave23-agent2",
+  "done": [
+    "denis-mutuma/第3周练习.ipynb",
+    "dhernandezgt/第3周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "denis-mutuma/第3周练习.ipynb",
+  "notes": "Teaching-annotated denis-mutuma (Colab HF+Gradio sensor CSV generator: Chinese markdown + near line-by-line # comments; prompts/model ids/UI strings unchanged) and dhernandezgt (markdown-only PDF poetry sentiment entry: expanded Chinese teaching, URLs preserved). outputs/execution_count untouched; ast/logic checks passed."
+}

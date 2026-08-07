@@ -1,0 +1,11 @@
+{
+  "agent": "wave14-agent1",
+  "done": [
+    "pradeep1955/week1/第2天练习.ipynb",
+    "pranav_jain/week1/邮件主题生成器.ipynb",
+    "rexdavinci/week1/练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "pranav_jain/week1/邮件主题生成器.ipynb",
+  "notes": "Annotated 3 week1 notebooks: near-line Chinese # comments on code; markdown teaching headers (目标/关系/怎么跑). Preserved outputs, execution_count, prompts, model ids, URLs. Logic-token compare vs 按周浏览 mirrors OK; AST parse OK."
+}

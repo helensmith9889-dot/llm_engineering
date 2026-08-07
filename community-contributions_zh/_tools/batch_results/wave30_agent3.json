@@ -1,0 +1,11 @@
+{
+  "agent": "wave30-agent3",
+  "done": [
+    "muhammad_shahid/第6周.ipynb",
+    "sach91-bootcamp/第6周练习.ipynb",
+    "samuel_remo/第6周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "muhammad_shahid/第6周.ipynb",
+  "notes": "Annotated 3 week6 notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip checks passed."
+}

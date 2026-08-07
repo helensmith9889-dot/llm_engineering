@@ -1,0 +1,11 @@
+{
+  "agent": "wave9-agent0",
+  "done": [
+    "ikemCodedIt/week 1/股票分析器.ipynb",
+    "jaden_anthony/第1周第2天作业.ipynb",
+    "jmanguru/week1/第1周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "股票分析器.ipynb",
+  "notes": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count restored from snapshot. ast.parse + comment-stripped logic compare OK. Failed: none."
+}

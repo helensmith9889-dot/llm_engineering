@@ -1,0 +1,11 @@
+{
+  "agent": "wave31-agent0",
+  "done": [
+    "softgeey/第6周练习解答.ipynb",
+    "solarinayo/week6/第6周练习.ipynb",
+    "spasquier/week6/第6周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "softgeey/第6周练习解答.ipynb",
+  "notes": "Teaching annotate: Chinese near line-by-line # comments + teaching markdown; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; ast.parse + strip_logic checks passed."
+}

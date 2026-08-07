@@ -1,0 +1,11 @@
+{
+  "agent": "wave11-agent0",
+  "done": [
+    "keshav_awasthi/Day 1/第1天_残酷真相.ipynb",
+    "kica/第1周解答.ipynb",
+    "kiharanjoroge/第1周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "keshav_awasthi/Day 1/第1天_残酷真相.ipynb",
+  "notes": "Teaching-annotated 3 week1 notebooks with Chinese markdown + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged. outputs/execution_count/metadata restored from snapshot. keshav_awasthi/Day 1/第1天_残酷真相.ipynb: 19 cells annotated; outputs/exec restored; logic+ast OK | kica/第1周解答.ipynb: 7 cells annotated; outputs/exec restored; logic+ast OK | kiharanjoroge/第1周练习.ipynb: 8 cells annotated; outputs/exec restored; logic+ast OK. No progress.json edit."
+}

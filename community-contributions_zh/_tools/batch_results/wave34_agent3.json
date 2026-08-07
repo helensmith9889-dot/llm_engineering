@@ -1,0 +1,11 @@
+{
+  "agent": "wave34-agent3",
+  "done": [
+    "alexandre-nkurunziza/第8周练习.ipynb",
+    "denis-mutuma/第8周练习.ipynb",
+    "kica/第8周解答.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "kica/第8周解答.ipynb",
+  "notes": "Annotated 3 week-8 notebooks: alexandre (lite scanner + OpenRouter estimator + Gradio timer), denis (full Modal/Ensemble/AutonomousPlanning stack), kica (real-estate domain-swap RAG tool loop). Near line-by-line Chinese teaching comments; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count untouched."
+}

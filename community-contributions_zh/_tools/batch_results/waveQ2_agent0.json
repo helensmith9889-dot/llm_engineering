@@ -1,0 +1,11 @@
+{
+  "agent": "waveQ2-agent0",
+  "done": [
+    "abdoul/第3周练习.ipynb",
+    "larry/第6周练习.ipynb",
+    "dng/week3/课程生成器.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "larry/第6周练习.ipynb",
+  "notes": "Annotated 3/3: dng/week3/课程生成器.ipynb, abdoul/第3周练习.ipynb, larry/第6周练习.ipynb. Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs kept English. outputs/execution_count restored from snapshot; ast.parse + comment-stripped logic OK. Failed: none."
+}

@@ -1,0 +1,11 @@
+{
+  "agent": "wave23-agent0",
+  "done": [
+    "NehaBhoi/第3周练习.ipynb",
+    "NicholasDean/week3/第3周练习.ipynb",
+    "Vagz1216/week3-exercise/第3周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "NicholasDean/week3/第3周练习.ipynb",
+  "notes": "Teaching-annotated 3/3 Week3 notebooks: Chinese near line-by-line # comments + Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ast + comment/docstring-stripped logic compare passed. NehaBhoi: Colab Llama-3.2-1B synthetic Indian ecommerce CSV. NicholasDean: tokenizer compare + Falconsai summarization meeting minutes (CPU). Vagz1216: Stayez Gradio synthetic data studio via HF InferenceClient/Groq/Gemini. No progress.json edit."
+}

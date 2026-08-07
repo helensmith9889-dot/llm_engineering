@@ -1,0 +1,11 @@
+{
+  "agent": "wave8-agent1",
+  "done": [
+    "erybie222/week-1/第2天作业.ipynb",
+    "eyosiyas/第1周练习_商业洞察讲解器.ipynb",
+    "fbrynmghni/第1天_课堂资产项目.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "eyosiyas/第1周练习_商业洞察讲解器.ipynb",
+  "notes": "Annotated 3/3: erybie222 week-1 day2 AI journalist (BBC scrape + Ollama OpenAI-compat llama3.2); eyosiyas business-insight explainer (OpenRouter GPT-4o-mini vs Ollama /api/chat llama3.2); fbrynmghni day1 asset-class compare (yfinance stats → Chat Completions). Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/error prints/identifiers unchanged; outputs/execution_count/metadata/id restored from snapshot; ast.parse + comment-stripped logic compare passed."
+}

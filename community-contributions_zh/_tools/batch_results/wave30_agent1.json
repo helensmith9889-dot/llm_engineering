@@ -1,0 +1,11 @@
+{
+  "agent": "wave30-agent1",
+  "done": [
+    "eliza_zadura/synthetic_data_generator/REST用JSON.ipynb",
+    "kica/第6周解答.ipynb",
+    "mideseniordev/week6/第6周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "eliza_zadura/synthetic_data_generator/REST用JSON.ipynb",
+  "notes": "Teaching-annotated 3 notebooks via rewrite scripts under _snap_wave30_agent1 (sources.json → annotated → apply). Source-only edits; outputs/execution_count restored from snap; logic strip + ast.parse verified; dense Chinese # comments + Chinese markdown. Prompts/model ids/URLs unchanged."
+}

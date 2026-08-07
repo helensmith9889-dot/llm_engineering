@@ -1,0 +1,11 @@
+{
+  "agent": "wave3-agent2",
+  "done": [
+    "Prashanth/Week 1/day1_测试_ollama.ipynb",
+    "Prashanth/Week 1/day2_本地ollama.ipynb",
+    "Prashanth/Week 1/第1周我的解答.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "Prashanth/Week 1/第1周我的解答.ipynb",
+  "notes": "Near line-by-line Chinese teaching comments on all three Prashanth Week 1 notebooks. Prompts, model ids, URLs, identifiers unchanged. No cells added/removed. outputs/execution_count/metadata/id verified identical to pre-edit snapshots; ast.parse passed; executable-line logic compare passed."
+}

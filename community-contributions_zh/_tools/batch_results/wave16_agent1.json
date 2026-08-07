@@ -1,0 +1,11 @@
+{
+  "agent": "wave16-agent1",
+  "done": [
+    "spasquier/week1/第5天挑战.ipynb",
+    "steph_moyo/week_1/第1天.ipynb",
+    "steph_moyo/week_1/第2周第1天_自闭症四角色对话.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "spasquier/week1/第5天挑战.ipynb",
+  "notes": "Annotated 3/3: spasquier week1 day5 brochure+Spanish stream translate; steph_moyo week1 day1 autism sleep Q&A + WHO scrape (TypeError path preserved); steph_moyo week2 day1 four-role autism dialogue (OpenAI+Ollama). Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/error strings/identifiers unchanged; outputs/execution_count/metadata/id verified vs snapshot; ast.parse + string-literal/AST logic compare OK. No progress.json edit."
+}

@@ -1,0 +1,9 @@
+{
+  "agent": "wave31-agent1",
+  "done": [
+    "steve/第6周作业解答.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "steve/第6周作业解答.ipynb",
+  "notes": "Teaching-annotated 1 large notebook (21 cells) via _snap_wave31_agent1/annotate_wave31_agent1.py. Source-only edits; outputs/execution_count unchanged; logic strip + ast.parse verified; dense Chinese # comments + Chinese markdown (练习目标/Week6/怎么跑). Prompts/model ids/URLs/paths unchanged. Shallow 小白提示 banners replaced."
+}

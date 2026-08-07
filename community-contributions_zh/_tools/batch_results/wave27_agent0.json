@@ -1,0 +1,11 @@
+{
+  "agent": "wave27-agent0",
+  "done": [
+    "bmuk/第4周练习.ipynb",
+    "denis-mutuma/第4周练习.ipynb",
+    "joxemi_works/week4/上传笔记本文档化.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "bmuk/第4周练习.ipynb",
+  "notes": "Teaching-annotated 3/3 week4 notebooks: Chinese near line-by-line # comments + Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ast + comment/docstring-stripped logic compare passed. bmuk: OpenRouter multi-model Gradio Code Documentation Assistant. denis-mutuma: OpenAI+Ollama sensor telemetry MQTT-style JSON+SUMMARY Gradio simulator. joxemi_works: upload .ipynb → extract code → HF/Llama/GPT dual-call comments+summary Gradio tool. No progress.json edit."
+}

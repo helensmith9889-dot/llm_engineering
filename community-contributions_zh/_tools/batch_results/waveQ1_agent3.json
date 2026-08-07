@@ -1,0 +1,9 @@
+{
+  "agent": "waveQ1-agent3",
+  "done": [
+    "营销手册生成.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "营销手册生成.ipynb",
+  "notes": "Teaching-annotated 营销手册生成.ipynb (22 cells): near line-by-line Chinese # comments on code; markdown expanded with Week1 concept table and run steps. Prompt/model/URL strings kept English. Snapshot-restore verified: outputs=9, execution_count/metadata/id unchanged; AST + comment-stripped logic match. Snap/tools under _tools/batch_results/_snap_waveQ1_agent3/."
+}

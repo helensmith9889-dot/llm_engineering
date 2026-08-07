@@ -1,0 +1,11 @@
+{
+  "agent": "wave9-agent2",
+  "done": [
+    "jmanguru/week1/第1天.ipynb",
+    "joxemi_works/week1/Selenium网页抓取.ipynb",
+    "joxemi_works/week1/生成式GPT树.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "joxemi_works/week1/Selenium网页抓取.ipynb",
+  "notes": "Annotated 3/3: jmanguru week1 day1 Springplat bootcamp JSON + streaming marketing (scraper + json_object + stream); joxemi_works Selenium headless Chrome scrape→gpt-4o-mini summary; joxemi_works generative GPT token tree (logprobs/top_logprobs + networkx). Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/error strings/identifiers unchanged; mid-module Selenium English docstring expression preserved; outputs/execution_count/metadata/id untouched; ast.parse + comment/docstring-stripped logic compare passed."
+}

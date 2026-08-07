@@ -1,0 +1,11 @@
+{
+  "agent": "wave22-agent1",
+  "done": [
+    "nancieliu/三方聊天机器人.ipynb",
+    "oluwatosinjegede/第2周练习.ipynb",
+    "paleris/w2-d2-荷兰侨民新闻_gradio.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "paleris/w2-d2-荷兰侨民新闻_gradio.ipynb",
+  "notes": "Annotated all 3 via _snap_wave22_agent1/annotate_wave22_agent1.py. Source-only edits; outputs/execution_count preserved; AST logic fingerprints match pre-annotation (including nancieliu literal \\\\n in stream verbose print). Markdown teaching Chinese; prompts/model ids/URLs/identifiers unchanged. Dense near-line # comments on code cells."
+}

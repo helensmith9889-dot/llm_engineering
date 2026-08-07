@@ -1,0 +1,11 @@
+{
+  "agent": "wave5-agent0",
+  "done": [
+    "ashutosh/Week1/第1周练习.ipynb",
+    "azam/week-1/day1.ipynb",
+    "azam/week-1/day2.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "azam/week-1/day1.ipynb",
+  "notes": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count restored from snapshot. ast.parse + comment-stripped logic compare OK. Failed: none."
+}

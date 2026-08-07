@@ -1,0 +1,11 @@
+{
+  "agent": "wave8-agent0",
+  "done": [
+    "第1天_简历摘要器.ipynb",
+    "第1周第1天_网站摘要器.ipynb",
+    "第1周练习_技术问答.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "第1天_简历摘要器.ipynb",
+  "notes": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count restored from snapshot. ast.parse + comment-stripped logic compare OK. Failed: none. No progress.json edit."
+}

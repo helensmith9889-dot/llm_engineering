@@ -1,0 +1,11 @@
+{
+  "agent": "wave29-agent1",
+  "done": [
+    "sach91-bootcamp/第5周练习.ipynb",
+    "samuel_remo/第5周练习.ipynb",
+    "softgeey/第5周练习解答.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "samuel_remo/第5周练习.ipynb",
+  "notes": "Annotated 3 week5 RAG notebooks: sach91 (Ollama+SQLite+Gradio), samuel_remo (LLM chunking+rerank+query rewrite, 50 cells), softgeey (Chroma+Claude personal KB). Source-only edits; outputs/execution_count preserved; AST+logic-strip checks passed."
+}

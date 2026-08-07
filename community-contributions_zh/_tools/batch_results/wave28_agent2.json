@@ -1,0 +1,11 @@
+{
+  "agent": "wave28-agent2",
+  "done": [
+    "Vagz1216/week5-exercise/第5周练习.ipynb",
+    "alexandre-nkurunziza/第5周练习.ipynb",
+    "denis-mutuma/第5周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "Vagz1216/week5-exercise/第5周练习.ipynb",
+  "notes": "Teaching-annotated 3 week5 RAG notebooks: Chinese markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; ast.parse + comment-stripped logic fingerprint checked."
+}

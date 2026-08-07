@@ -1,0 +1,11 @@
+{
+  "agent": "wave21-agent3",
+  "done": [
+    "mmaitsimwale/第2周练习.ipynb",
+    "mugisha_caleb_didier/week2/第1天练习_三方AI辩论.ipynb",
+    "mugisha_caleb_didier/week2/第2周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "mugisha_caleb_didier/week2/第2周练习.ipynb",
+  "notes": "Teaching-annotated 3/3 notebooks with Chinese near line-by-line # comments and Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ast + comment/docstring-stripped logic compare passed. mmaitsimwale: Week2 Gradio multi-provider tutor + KB tool loop + local pyttsx3 TTS. mugisha day1: three-way Alex/John/Peter debate (OpenAI+OpenRouter). mugisha week2: Country Explorer Blocks+REST Countries+SVG maps+TTS. No progress.json edit."
+}

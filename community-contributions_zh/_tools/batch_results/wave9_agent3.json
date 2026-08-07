@@ -1,0 +1,11 @@
+{
+  "agent": "wave9-agent3",
+  "done": [
+    "joxemi_works/week1/第1周_LLM对比测试与评判器_v2.ipynb",
+    "jp/第1周第1天.ipynb",
+    "jp/第1周第2天.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "joxemi_works/week1/第1周_LLM对比测试与评判器_v2.ipynb",
+  "notes": "Annotated 3/3: joxemi week1 LLM A/B + Judge (cloud gpt-4.1-nano vs local deepseek-r1:8b, judge gpt-4.1-mini, stream+json_object); jp day1 Manna Today encouragement via OpenAI gpt-4.1-nano; jp day2 same prompts via Ollama OpenAI-compat deepseek-r1:1.5b. Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments; prompts/model ids/URLs/error prints/identifiers unchanged; outputs/execution_count/metadata/id restored from snapshot; ast.parse + comment-stripped logic compare passed."
+}

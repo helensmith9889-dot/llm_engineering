@@ -1,0 +1,11 @@
+{
+  "agent": "wave22-agent3",
+  "done": [
+    "simnsh/week2/第1天实验.ipynb",
+    "softgeey/第2周练习解答.ipynb",
+    "solarinayo/第2周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "softgeey/第2周练习解答.ipynb",
+  "notes": "Teaching-annotated 3 notebooks: Chinese near-line comments + markdown; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; AST logic fingerprint OK. softgeey is the richest Gradio multimodal sample."
+}

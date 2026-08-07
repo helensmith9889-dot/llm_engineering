@@ -1,0 +1,9 @@
+{
+  "agent": "wave10-agent1",
+  "done": [
+    "juanr_youtubeVideosSummarizerDay2/YouTube视频摘要_第2天.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "juanr_youtubeVideosSummarizerDay2/YouTube视频摘要_第2天.ipynb",
+  "notes": "Teaching-annotated juanr_youtubeVideosSummarizerDay2/YouTube视频摘要_第2天.ipynb (24 cells). Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged. outputs/execution_count/metadata restored from snapshot; ast.parse OK; comment-stripped logic compare passed. No progress.json edit."
+}

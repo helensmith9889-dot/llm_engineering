@@ -1,0 +1,11 @@
+{
+  "agent": "wave34-agent0",
+  "done": [
+    "victorConqueror/week7_finetuning/notebooks/01_数据准备.ipynb",
+    "victorConqueror/week7_finetuning/notebooks/02_基座模型测试.ipynb",
+    "victorConqueror/week7_finetuning/notebooks/02_基线模型.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "victorConqueror/week7_finetuning/notebooks/01_数据准备.ipynb",
+  "notes": "Chinese teaching markdown + near line-by-line # comments; logic/outputs/execution_count unchanged; AST-checked."
+}

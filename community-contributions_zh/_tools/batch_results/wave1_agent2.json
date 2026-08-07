@@ -1,0 +1,11 @@
+{
+  "agent": "wave1-agent2",
+  "done": [
+    "D/第1周第1天_网站摘要.ipynb",
+    "D/第1周练习.ipynb",
+    "Devika/每日新闻摘要器.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "Devika/每日新闻摘要器.ipynb",
+  "notes": "Deepened near-line-by-line teaching Chinese comments; expanded Devika markdown to full teaching intro (目标/对照表/怎么跑). Prompts, model ids, URLs, identifiers unchanged. outputs/execution_count verified identical to pre-edit snapshots; ast.parse passed on concatenated code cells."
+}

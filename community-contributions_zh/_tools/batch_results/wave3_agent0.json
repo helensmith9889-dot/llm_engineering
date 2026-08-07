@@ -1,0 +1,11 @@
+{
+  "agent": "wave3-agent0",
+  "done": [
+    "Muhammad_Bilal/Week1/Day2_excecise/练习.ipynb",
+    "NehaBhoi/第1周业务方案.ipynb",
+    "NehaBhoi/第1周第2天实验.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "Muhammad_Bilal/Week1/Day2_excecise/练习.ipynb",
+  "notes": "Annotated 3/3 notebooks: teaching Chinese markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers unchanged. outputs/execution_count restored from snapshot. ast.parse OK. Failed: none. Fixed machine-translation glitches in NehaBhoi markdown (法学硕士→LLM; broken HTML width/</table>; ```蟒蛇→```python)."
+}

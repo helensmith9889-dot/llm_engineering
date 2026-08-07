@@ -2,7 +2,14 @@
 
 本目录是 [`community-contributions/`](../community-contributions/) 的**中文学习副本**，方便小白浏览同学作品。
 
-## 按周浏览（推荐入口）
+## 推荐入口
+
+1. **[`优质练习/`](优质练习/)**：精选练习型作品 +「为什么优质 / 锻炼什么」（优先跟做）
+2. **[`按周浏览/`](按周浏览/)**：按周索引的练习/项目向作品（已剔除与官方 `day*` 高重合的课内翻版）
+
+官方课内实验请用仓库根目录 `week1`–`week8` 的 `day*_zh.ipynb`。
+
+### 按周浏览（全量练习索引）
 
 已按课程周次整理到：**[`按周浏览/`](按周浏览/)**
 
@@ -25,10 +32,11 @@
 ## 整理规则
 
 1. **源目录不动**：英文原版仍在 `community-contributions/`。
-2. **文本类已翻译 / 加注**：
+2. **文本类已翻译 / 加注（教学版标准，进行中）**：
    - `.md`：全文译为简体中文
-   - `.ipynb`：Markdown 单元格翻译；代码格加中文 `#` 旁注（不改可执行逻辑与字符串字面量）
+   - `.ipynb`：Markdown / 理念全中文；代码**逐行教学中文注释**；仅保留可运行英文（标识符、prompt、model id 等）；**不改逻辑、不清空 outputs**。标准见 [`_tools/teaching_annotate_STYLE.md`](_tools/teaching_annotate_STYLE.md)，进度见 [`_tools/teaching_annotate_progress.json`](_tools/teaching_annotate_progress.json)。样板：`abdoul/第1周练习.ipynb`
    - `.py`：加小白向中文注释 / docstring（不改逻辑与标识符）
+   - 旧版「浅旁注」正按上述标准加深；未改完的文件仍可能是浅注释
 3. **非文本资源**：图片、音频、数据库、锁文件等尽量原样复制（或跳过超大文件）。
 4. **命名**：
    - **贡献者人名目录**通常保留原文（如 `Ahmed-Hafez`）

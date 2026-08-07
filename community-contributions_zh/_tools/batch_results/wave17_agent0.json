@@ -1,0 +1,11 @@
+{
+  "agent": "wave17-agent0",
+  "done": [
+    "tigeress/第1周练习.ipynb",
+    "tigeress/第1天邮件项目.ipynb",
+    "ugomichael33/第1周_解释堆栈跟踪.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "tigeress/第1周练习.ipynb",
+  "notes": "Annotated 3/3: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/print strings kept; outputs/execution_count untouched; ast.dump matches pre-annotate. week1=GPT stream+Ollama llama3.2; day1 email=4 OpenAI helpers; stacktrace=OpenRouter explain with stream/non-stream."
+}

@@ -1,0 +1,11 @@
+{
+  "agent": "wave15-agent2",
+  "done": [
+    "simnsh/week1/第1天实验.ipynb",
+    "simnsh/week1/第2天实验.ipynb",
+    "sneha/week1/用playwright与anthropic总结网站.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "sneha/week1/用playwright与anthropic总结网站.ipynb",
+  "notes": "Annotated 3/3. Source-only edits; outputs/execution_count preserved; prompts/model ids/URLs untouched. Replaced shallow 小白提示 with near line-by-line Chinese teaching comments; polished sneha markdown to clearer teaching Chinese. AST OK on all code cells."
+}

@@ -1,0 +1,11 @@
+{
+  "agent": "wave32-agent0",
+  "done": [
+    "合成数据生成器_PT.ipynb",
+    "NicholasDean/week7/第7周练习.ipynb",
+    "Vagz1216/week7-exercise/第7周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "NicholasDean/week7/第7周练习.ipynb",
+  "notes": "Annotated 3 notebooks (synthetic data generator PT, NicholasDean week7 QLoRA, Vagz1216 week7 price-bucket QLoRA) with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/print strings; outputs/execution_count/metadata untouched; ast + logic-strip checks passed."
+}

@@ -1,0 +1,11 @@
+{
+  "agent": "wave18-agent3",
+  "done": [
+    "LLaVA-For-Visually-Impared-People/LLaVA实时字幕生成链_第2周.ipynb",
+    "NehaBhoi/第2周票务预订.ipynb",
+    "NehaBhoi/第2周第1天实验.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "LLaVA-For-Visually-Impared-People/LLaVA实时字幕生成链_第2周.ipynb",
+  "notes": "Teaching-annotated 3/3 notebooks with Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ast/logic compare (comment/docstring-stripped) passed. LLaVA: encode→stream caption→TOOL_CALL tool loop; NehaBhoi tickets: SQLite+JSON agent+Gradio logs; NehaBhoi day1: 3-bot Ollama debate. No progress.json edit."
+}

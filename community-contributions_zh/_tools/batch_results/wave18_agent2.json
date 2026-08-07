@@ -1,0 +1,11 @@
+{
+  "agent": "wave18-agent2",
+  "done": [
+    "D/第2周第1天_三角色对话.ipynb",
+    "D/第2周第2天_量子百科问答.ipynb",
+    "D/第2周第3天_樟宜免税店助手.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "D/第2周第1天_三角色对话.ipynb",
+  "notes": "Annotated 3/3. Added Chinese teaching intro markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers/error strings unchanged; outputs/execution_count/metadata/id preserved; ast OK (shell magic skipped). Day1: Ti/Teo/Bi 3-role Ollama dialogue; Day2: Wikipedia quantum RAG + Gradio stream; Day3: iShopChangi duty-free ChatInterface with iphone system append. No progress.json edit."
+}

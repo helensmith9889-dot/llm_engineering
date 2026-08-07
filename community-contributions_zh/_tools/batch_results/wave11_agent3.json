@@ -1,0 +1,11 @@
+{
+  "agent": "wave11-agent3",
+  "done": [
+    "manish_tiwari/第1周练习解答.ipynb",
+    "mariam_janati_第1天_API示例.ipynb",
+    "meeting_summarizer/会议摘要器.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "mariam_janati_第1天_API示例.ipynb",
+  "notes": "Annotated 3/3: manish_tiwari week1 solution stub (constants + question; import/env/stream cells were comment-only headers — teaching notes added, no invented executable logic); mariam_janati day1 API explainer (load_dotenv + OpenAI gpt-4.1-mini temperature=0.7); meeting_summarizer (docx transcript → Ollama OpenAI-compat llama3.2:1b MoM). Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count/metadata/id restored from snapshot; ast.parse + comment-stripped logic compare passed. No progress.json edit."
+}

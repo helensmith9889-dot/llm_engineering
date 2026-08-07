@@ -1,0 +1,11 @@
+{
+  "agent": "wave17-agent3",
+  "done": [
+    "vireshh22/第1天.ipynb",
+    "vkovalenk0/week1/第2天.ipynb",
+    "vlalez/第1周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "vireshh22/第1天.ipynb",
+  "notes": "Teaching-annotated 3/3 notebooks with Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ast/logic compare (comment-stripped) passed. vireshh22: Guerilla Search via Gemini OpenAI-compatible endpoint; vkovalenk0 day2: raw HTTP→OpenAI SDK→Gemini→Ollama homework scraper; vlalez week1 exercise: Anthropic Claude streaming + local Llama3.2. No progress.json edit."
+}

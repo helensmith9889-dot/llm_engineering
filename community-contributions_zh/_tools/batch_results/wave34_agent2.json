@@ -1,0 +1,11 @@
+{
+  "agent": "wave34-agent2",
+  "done": [
+    "NicholasDean/week8/第8周练习.ipynb",
+    "Vagz1216/week8-exercise/第8周练习.ipynb",
+    "abdoul/第8周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "Vagz1216/week8-exercise/第8周练习.ipynb",
+  "notes": "Teaching-annotate 3 week8 notebooks: Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/print strings; only cell source edited; outputs/execution_count/metadata untouched; ast + logic-strip checks passed."
+}

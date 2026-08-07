@@ -1,0 +1,11 @@
+{
+  "agent": "wave22-agent2",
+  "done": [
+    "pradeep1955/week2/智能体对话_莎士比亚.ipynb",
+    "raheem_yaqub_adesola/AI航空助手.ipynb",
+    "sach91-bootcamp/第2周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "raheem_yaqub_adesola/AI航空助手.ipynb",
+  "notes": "Annotated 3 notebooks: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/tool schemas left in English; outputs and execution_count unchanged; ast.parse OK; logic unchanged after comment/docstring strip."
+}

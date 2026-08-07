@@ -1,0 +1,11 @@
+{
+  "agent": "wave8-agent3",
+  "done": [
+    "global-market-news-summarizer/第1天作业_全球市场新闻摘要.ipynb",
+    "gonzalo_benito/第1周练习_技术问答助手.ipynb",
+    "gurender/第1周第1天_飞机性能对比.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "gonzalo_benito/第1周练习_技术问答助手.ipynb",
+  "notes": "Teaching-annotate 3/3. Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments. Runnable English kept: prompts, model ids (gpt-4o-mini, llama3.2), URLs (Yahoo Finance, OpenRouter, Wikipedia), print/error/input strings, identifiers. global-market: cell0 English prose→Chinese teaching comments; incomplete cell13 `response = ` left as-is. gonzalo: dual-client stream+update_display tech Q&A. gurender: empty MD filled with Day1 aircraft Wiki compare intro. outputs/execution_count/metadata/id verified vs pre-edit snapshot; ast.parse OK where original parsed; comment/docstring-stripped logic compare passed. No progress.json edit."
+}

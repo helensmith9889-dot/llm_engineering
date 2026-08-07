@@ -1,0 +1,11 @@
+{
+  "agent": "wave16-agent0",
+  "done": [
+    "spasquier/week1/第1周练习.ipynb",
+    "spasquier/week1/第1天作业.ipynb",
+    "spasquier/week1/第2天作业.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "spasquier/week1/第1周练习.ipynb",
+  "notes": "Annotated 3/3: Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments; prompts/model ids/URLs/print strings kept; outputs/execution_count untouched; ast.dump logic matches pre-annotate mirrors. exercise=GPT stream+Ollama explain; day1=OpenAI email from subject; day2=Ollama llama3.2 email from subject."
+}

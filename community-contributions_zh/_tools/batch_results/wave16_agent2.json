@@ -1,0 +1,11 @@
+{
+  "agent": "wave16-agent2",
+  "done": [
+    "steve/第1周作业解答.ipynb",
+    "steve/第1周第1天任务.ipynb",
+    "steve/第1周第2天任务.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "steve/第1周作业解答.ipynb",
+  "notes": "Annotated 3/3. Source-only edits; outputs/execution_count preserved; prompts/model ids/URLs/print strings untouched. Replaced shallow 小白提示 with near line-by-line Chinese teaching comments. AST + logic-fingerprint OK."
+}

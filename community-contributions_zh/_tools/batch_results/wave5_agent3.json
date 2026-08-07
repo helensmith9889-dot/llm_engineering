@@ -1,0 +1,11 @@
+{
+  "agent": "wave5-agent3",
+  "done": [
+    "bojan-playwright-scraper/notebooks/runwayml_com_Summary.ipynb",
+    "bojan-playwright-scraper/notebooks/www_anthropic_com_Summary.ipynb",
+    "brandon_lopez/第1天_Brandon示例.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "brandon_lopez/第1天_Brandon示例.ipynb",
+  "notes": "Annotated 3/3: two Playwright Summary notebooks are markdown-only — intro expanded with 这是什么/对照表/怎么读; analysis cells translated to Chinese (URLs/entity/product names preserved). brandon: empty MD→教学目标说明; code cells near line-by-line Chinese # comments; prompts/model ids/URLs/error print strings/identifiers unchanged. outputs/execution_count/metadata/id verified vs pre-edit snapshot; ast.parse OK; comment-stripped logic compare passed."
+}

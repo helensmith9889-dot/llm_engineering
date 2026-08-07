@@ -1,0 +1,11 @@
+{
+  "agent": "waveQ3-agent0",
+  "done": [
+    "uchebuzz/第4周_Python转C++转换器.ipynb",
+    "abdoul/第2周练习.ipynb",
+    "Suyash/python_teacher/Python老师.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "abdoul/第2周练习.ipynb",
+  "notes": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/tool schemas/error strings unchanged. outputs/execution_count restored from snapshot. uchebuzz cell 5 keeps pre-existing nested-triple-quote SyntaxError in embedded Python sample strings (unchanged from original). Failed: none."
+}

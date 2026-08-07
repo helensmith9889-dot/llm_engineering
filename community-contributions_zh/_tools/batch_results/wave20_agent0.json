@@ -1,0 +1,11 @@
+{
+  "agent": "wave20-agent0",
+  "done": [
+    "denis-mutuma/第2周练习.ipynb",
+    "dhernandezgt/第2周第1天练习.ipynb",
+    "dhernandezgt/第2周第4天练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "denis-mutuma/第2周练习.ipynb",
+  "notes": "Annotated 3 Week2 notebooks: denis-mutuma embedded-engineer Gradio assistant (SQLite component prices + suggest_project tools + DALL·E + TTS); dhernandezgt Day1 three-person A/B/C conversation (Ollama llama3.2/deepseek + Gemma); dhernandezgt Day4 travel ticket Gradio chat (get_ticket_prices/set_price_ticket via GenAI tools). Only cell sources edited; outputs/execution_count untouched; prompts/model ids/URLs preserved; Chinese teaching markdown + near line-by-line # comments; ast.parse OK. Day4 call_gemma had broken docstring quotes (SyntaxError); minimal fix to a valid Chinese teaching docstring."
+}

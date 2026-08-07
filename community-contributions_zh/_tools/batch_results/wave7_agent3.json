@@ -1,0 +1,11 @@
+{
+  "agent": "wave7-agent3",
+  "done": [
+    "earljonas/第1周_职位帖分析.ipynb",
+    "earljonas/Week1/第1天_职位帖分析.ipynb",
+    "earljonas/Week1/第2天_本地模型职位分析.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "earljonas/Week1/第2天_本地模型职位分析.ipynb",
+  "notes": "Teaching-annotate 3/3 earljonas Week1 job-post notebooks. Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments. Runnable English kept: system/user prompts, model ids (llama-3.1-8b-instant, deepseek-r1:1.5b), URLs, print/error strings, identifiers. outputs/execution_count/metadata/id verified vs pre-edit snapshot; ast.parse OK (shell-magic !ollama handled); comment-stripped logic compare passed. No progress.json edit."
+}

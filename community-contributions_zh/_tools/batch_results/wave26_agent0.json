@@ -1,0 +1,11 @@
+{
+  "agent": "wave26-agent0",
+  "done": [
+    "softgeey/第3周练习解答.ipynb",
+    "solarinayo/week3/第3周练习.ipynb",
+    "spasquier/week3/第3周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "softgeey/第3周练习解答.ipynb",
+  "notes": "Teaching-annotated 3/3 week3 notebooks: Chinese near line-by-line # comments + Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ast + comment/docstring-stripped logic compare passed. softgeey: multi-provider (Claude/GPT/Gemini) Nigeria synthetic CSV Gradio app with domain schemas. solarinayo: HF 4bit local Instruct + NigerianGenerator rules fallback + Gradio Blocks. spasquier: markdown-only Colab pointer for inventory-bot seed data exercise (URL kept). No progress.json edit."
+}

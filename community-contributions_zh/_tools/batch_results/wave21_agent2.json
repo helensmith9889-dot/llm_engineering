@@ -1,0 +1,11 @@
+{
+  "agent": "wave21-agent2",
+  "done": [
+    "minhngoncoding/week2/第1天_三方聊天机器人.ipynb",
+    "minhngoncoding/week2/第2周练习.ipynb",
+    "minhngoncoding/week2/第4天_工具调用.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "minhngoncoding/week2/第1天_三方聊天机器人.ipynb",
+  "notes": "Annotated 3 notebooks: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/tool schemas left in English; outputs and execution_count unchanged; ast.parse OK (shell magics skipped)."
+}

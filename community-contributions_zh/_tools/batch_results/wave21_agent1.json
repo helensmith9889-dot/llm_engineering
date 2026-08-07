@@ -1,0 +1,11 @@
+{
+  "agent": "wave21-agent1",
+  "done": [
+    "lukas/week2/会说话的英雄_类版.ipynb",
+    "mani_bojja/第2周第1天实验.ipynb",
+    "mani_bojja/第2周第3天_股票信息.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "mani_bojja/第2周第1天实验.ipynb",
+  "notes": "Annotated 3/3. lukas: Chinese teaching markdown for Talking Heroes class/Gradio/LiteLLM multi-agent DnD demo + commented %run entry. mani day1: Anthropic Alex / GPT Blake / Gemini Charlie debate with OpenAI-compatible clients; near line-by-line # comments. mani day3: Excel stock DataFrame + Gradio ChatInterface streaming assistant; prompts/model ids/URLs/auth/print strings unchanged. outputs/execution_count/metadata/id preserved; ast.parse OK; AST logic match after stripping comment-only lines. No progress.json edit."
+}

@@ -1,0 +1,11 @@
+{
+  "agent": "wave4-agent1",
+  "done": [
+    "adeyemi-kayode/第1周练习.ipynb",
+    "aditya-soni-contributions/第1周第2天.ipynb",
+    "ahmed_sohail/day1.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "ahmed_sohail/day1.ipynb",
+  "notes": "Annotated 3 notebooks: Chinese teaching markdown + near line-by-line code comments; preserved outputs/execution_count/metadata/id via snapshot restore; prompts/model ids/URLs/error print strings kept English; ast.parse + comment-stripped logic compare passed. adeyemi=DevOps Q&A helpers; aditya=Ollama chunked study-roadmap summarizer; ahmed=Day1 website summary + email subject exercise + local Ollama homework."
+}

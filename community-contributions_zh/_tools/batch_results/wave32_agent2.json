@@ -1,0 +1,11 @@
+{
+  "agent": "wave32-agent2",
+  "done": [
+    "denis-mutuma/第7周练习_训练.ipynb",
+    "denis-mutuma/第7周练习_评估.ipynb",
+    "dng/week7/合适价格.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "denis-mutuma/第7周练习_训练.ipynb",
+  "notes": "Chinese teaching markdown + near line-by-line # comments on denis-mutuma week7 train/eval (Llama-3.2-3B QLoRA) and dng/week7 合适价格 (Qwen2.5 SFT+Tester); logic fingerprints unchanged; outputs/execution_count preserved."
+}

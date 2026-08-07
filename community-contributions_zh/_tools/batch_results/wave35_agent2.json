@@ -1,0 +1,11 @@
+{
+  "agent": "wave35-agent2",
+  "done": [
+    "书店助手.ipynb",
+    "代码讲解助手_psu.ipynb",
+    "商业.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "书店助手.ipynb",
+  "notes": "Teaching-annotate 3 unclassified root notebooks: Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs; source-only edits; outputs/execution_count/metadata untouched; ast + logic-strip checks passed. 商业.ipynb remains empty-placeholder (original buisness.ipynb was 0 bytes)."
+}

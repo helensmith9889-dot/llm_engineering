@@ -1,0 +1,11 @@
+{
+  "agent": "wave13-agent2",
+  "done": [
+    "/home/dev/code/llm_engineering/community-contributions_zh/omer-gamie/week1/第2天练习.ipynb",
+    "/home/dev/code/llm_engineering/community-contributions_zh/orthogonal/day1-YouTube视频摘要.ipynb",
+    "/home/dev/code/llm_engineering/community-contributions_zh/pacov/W1_第1天练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "/home/dev/code/llm_engineering/community-contributions_zh/orthogonal/day1-YouTube视频摘要.ipynb",
+  "notes": "Annotated 3/3: omer-gamie week1 day2 Ollama OpenAI-compat website summarizer (llama3.2 + week1.scraper); orthogonal day1 YouTube transcript→chunk→gpt-4o-mini summary; pacov W1 day1 Delivery/PM assistant (Spanish prompts kept, Chinese teaching MD+comments, model gpt-5.5). Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers/error strings unchanged; outputs/execution_count/metadata/id preserved (pacov gained leading MD cell); ast.parse OK (pip magic skipped); comment-stripped logic compare passed. No progress.json edit."
+}

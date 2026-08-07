@@ -1,0 +1,11 @@
+{
+  "agent": "wave25-agent1",
+  "done": [
+    "mideseniordev/week3/第3周练习.ipynb",
+    "minhngoncoding/week3/合成数据集生成.ipynb",
+    "minhngoncoding/week3/第5天_会议智能体.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "mideseniordev/week3/第3周练习.ipynb",
+  "notes": "All 3 notebooks teaching-annotated via rewrite script; source-only edits; outputs/execution_count restored from snap; AST+logic strip checks passed. Empty trailing code cell in 第5天_会议智能体 left empty."
+}

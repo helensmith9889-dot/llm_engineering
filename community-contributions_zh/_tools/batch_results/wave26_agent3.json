@@ -1,0 +1,11 @@
+{
+  "agent": "wave26-agent3",
+  "done": [
+    "abdoul/第4周练习.ipynb",
+    "alexandre-nkurunziza/第4周练习.ipynb",
+    "ashutosh/Week4/第4周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "abdoul/第4周练习.ipynb",
+  "notes": "Annotated 3 week4 notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip checks passed."
+}

@@ -1,0 +1,11 @@
+{
+  "agent": "wave21-agent0",
+  "done": [
+    "kica/第2周解答.ipynb",
+    "kiharanjoroge/第2周练习.ipynb",
+    "larry/第2周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "kiharanjoroge/第2周练习.ipynb",
+  "notes": "Annotated 3 Week2 notebooks: kica OpenRouter Gradio Q&A (GPT/Claude/Gemini switch + streaming); kiharanjoroge Code Explainer (Anthropic tools lookup_python_docs + Ollama llama3.2 stream + Blocks UI); larry full prototype (OpenRouter/Ollama multi-model, execute_python_code/search_documentation tools, basic + audio Whisper/TTS Gradio). Only cell sources edited; outputs/execution_count untouched; prompts/model ids/URLs preserved; Chinese teaching markdown + near line-by-line # comments; ast.parse OK; stripped-AST logic match vs pre-annotation sources."
+}

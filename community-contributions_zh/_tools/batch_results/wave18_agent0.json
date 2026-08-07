@@ -1,0 +1,11 @@
+{
+  "agent": "wave18-agent0",
+  "done": [
+    "vlalez/第1天.ipynb",
+    "wakanda-okkerjohn/第1周练习.ipynb",
+    "研究论文摘要器.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "wakanda-okkerjohn/第1周练习.ipynb",
+  "notes": "Annotated 3 notebooks: Day1 Anthropic website summarizer (vlalez), Week1 dual-backend streaming game-design Q&A via OpenRouter+Ollama (wakanda), and PDF literature-survey Excel pipeline (研究论文摘要器). Only cell sources edited; outputs/execution_count untouched; prompts/model ids/URLs preserved; Chinese teaching markdown + near line-by-line # comments; ast.parse OK."
+}

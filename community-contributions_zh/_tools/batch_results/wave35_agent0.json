@@ -1,0 +1,11 @@
+{
+  "agent": "wave35-agent0",
+  "done": [
+    "mideseniordev/week8/第8周练习.ipynb",
+    "mrpeski/week_eight_exercise/第8周练习.ipynb",
+    "muhammad_qasim_sheikh/Week 8/集成模型.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "mideseniordev/week8/第8周练习.ipynb",
+  "notes": "Chinese teaching markdown + near line-by-line # comments; logic/outputs/execution_count unchanged; AST-checked."
+}

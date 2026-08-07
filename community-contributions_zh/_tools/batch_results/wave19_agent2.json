@@ -1,0 +1,11 @@
+{
+  "agent": "wave19-agent2",
+  "done": [
+    "Vagz1216/week2-exercise/第2周练习.ipynb",
+    "alessandro-fugazza/有状态聊天机器人.ipynb",
+    "alexandre-nkurunziza/第2周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "Vagz1216/week2-exercise/第2周练习.ipynb",
+  "notes": "Annotated 3/3. Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers/error strings unchanged; outputs/execution_count/metadata preserved; ast OK. Vagz: Stayez Chiku Gradio multi-model tools; alessandro: stateful Ollama chat with recursive do_chat (commented GPT path kept disabled); alexandre: OpenRouter Claude technical tutor + get_current_date tool. No progress.json edit."
+}

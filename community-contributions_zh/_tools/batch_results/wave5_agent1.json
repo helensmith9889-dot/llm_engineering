@@ -1,0 +1,11 @@
+{
+  "agent": "wave5-agent1",
+  "done": [
+    "biomedical-article-summariser/文章摘要器.ipynb",
+    "bishara-selenium-fix/第1天_Selenium爬虫.ipynb",
+    "bjayzee_week1/第1周作业.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "bjayzee_week1/第1周作业.ipynb",
+  "notes": "Annotated 3 notebooks: Chinese teaching markdown + near line-by-line code comments; preserved outputs/execution_count/metadata/id via snapshot restore; prompts/model ids/URLs/error print strings kept English; ast.parse passed. biomedical=Europe PMC XML→Ollama abstract summarizer; bishara=Selenium headless Chrome scrape→snarky GPT summary; bjayzee=OpenRouter gpt-4o-mini + local Ollama streaming tech Q&A."
+}

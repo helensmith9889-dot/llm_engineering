@@ -1,0 +1,1 @@
+../../../wakanda-okkerjohn/week-8-EXERCISE/game-publisher-kb/platforms/platform_requirements.md

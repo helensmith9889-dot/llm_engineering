@@ -1,0 +1,11 @@
+{
+  "agent": "wave28-agent1",
+  "done": [
+    "steve/第4周作业解答.ipynb",
+    "ugomichael33/第4周_Python转C++优化器.ipynb",
+    "NicholasDean/week5/第5周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "NicholasDean/week5/第5周练习.ipynb",
+  "notes": "All 3 annotated with near line-by-line Chinese teaching comments; outputs/execution_count restored from snap; logic strip+ast checks passed. Steve Gradio docstring tool (Colab userdata+multi-model); ugo Python→C++ via OpenRouter streaming; Nicholas week5 RAG+Chroma. progress.json not touched."
+}

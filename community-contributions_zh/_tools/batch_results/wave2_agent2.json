@@ -1,0 +1,11 @@
+{
+  "agent": "wave2-agent2",
+  "done": [
+    "Khaldoon-Ziad-Saqallah/使用Selenium抓取.ipynb",
+    "LKikwei/week1/第1周周末练习.ipynb",
+    "LKikwei/week1/第1周第2天_Ollama.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "LKikwei/week1/第1周周末练习.ipynb",
+  "notes": "Deepened near-line-by-line Chinese teaching comments; expanded markdown intros (目标/对照表/怎么跑). Prompts, model ids, URLs, identifiers, error strings unchanged. outputs/execution_count verified identical to pre-edit snapshots; ast.parse passed; ast.unparse logic compare passed after stripping comments/docstrings."
+}

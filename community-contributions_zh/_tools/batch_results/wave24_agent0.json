@@ -1,0 +1,11 @@
+{
+  "agent": "wave24-agent0",
+  "done": [
+    "spasquier/week2/第1天作业.ipynb",
+    "spasquier/week2/第2周练习.ipynb",
+    "spasquier/week2/第2天作业.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "spasquier/week2/第2周练习.ipynb",
+  "notes": "Teaching-annotated 3/3 spasquier week2 notebooks: Chinese near line-by-line # comments + Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ast + comment/docstring-stripped logic compare passed. 第1天作业: 3-party chat GPT/Gemini/Ollama-compatible clients. 第2周练习: Gradio multimodal tech explainer with tool calling + TTS + DALL·E. 第2天作业: Ollama brochure pipeline (link select JSON → scrape → ES stream translate) + Gradio. No progress.json edit."
+}

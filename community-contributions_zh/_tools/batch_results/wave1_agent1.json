@@ -1,0 +1,11 @@
+{
+  "agent": "wave1-agent1",
+  "done": [
+    "Vadiraj_第1天_playwright网页抓取.ipynb",
+    "Arjav014/Website_Summarizer/main.ipynb",
+    "CodeMaestroMS/擎天柱网站摘要器.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "Vadiraj_第1天_playwright网页抓取.ipynb",
+  "notes": "Annotated 3 notebooks: full teaching Chinese markdown + near line-by-line code comments; preserved outputs/execution_count; prompts/model ids/URLs kept English; ast.parse checked per code cell (await cells wrapped). Inserted teaching markdown intro for Arjav and Optimus notebooks that lacked MD cells."
+}

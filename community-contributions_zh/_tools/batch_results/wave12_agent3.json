@@ -1,0 +1,11 @@
+{
+  "agent": "wave12-agent3",
+  "done": [
+    "/home/dev/code/llm_engineering/community-contributions_zh/muhammad_mahmood/week_1/第1周练习.ipynb",
+    "/home/dev/code/llm_engineering/community-contributions_zh/muhammad_qasim_sheikh/Week 1/Day 5/宣传册生成.ipynb",
+    "/home/dev/code/llm_engineering/community-contributions_zh/muhammad_shahid/第1周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "muhammad_qasim_sheikh/Week 1/Day 5/宣传册生成.ipynb",
+  "notes": "Annotated 3/3: mahmood=system-design interview coach via Ollama OpenAI-compat phi3 (generate question + grade answer); qasim=Day5 research brief (link JSON filter → scrape → streamed Markdown brief; no MD cells—intro in first code comments); shahid=NL→SQL gpt-4o-mini stream vs ollama llama3.2. Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/error prints/identifiers unchanged; outputs/execution_count/metadata/id restored from snapshot; ast.parse + comment-stripped logic compare passed. No progress.json edit."
+}

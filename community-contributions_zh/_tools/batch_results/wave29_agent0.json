@@ -1,0 +1,11 @@
+{
+  "agent": "wave29-agent0",
+  "done": [
+    "mmaitsimwale/第5周练习.ipynb",
+    "muhammad_qasim_sheikh/Week 5/Day 5/RAG检索增强.ipynb",
+    "muhammad_shahid/第5周.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "mmaitsimwale/第5周练习.ipynb",
+  "notes": "Teaching-annotated 3/3 week5 notebooks: Chinese near line-by-line # comments on code; markdown polished to teaching Chinese; prompts/model ids/URLs untouched; outputs/execution_count preserved; ast logic check passed."
+}

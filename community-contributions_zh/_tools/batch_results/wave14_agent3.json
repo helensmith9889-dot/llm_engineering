@@ -1,0 +1,11 @@
+{
+  "agent": "wave14-agent3",
+  "done": [
+    "ruipinto/week1/第1周第5天练习.ipynb",
+    "sach91-bootcamp/第1周练习.ipynb",
+    "sanjana_madupoju/第1周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "ruipinto/week1/第1周第5天练习.ipynb",
+  "notes": "Annotated 3 week1 notebooks: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/logic unchanged; outputs and execution_count preserved; ast.parse OK."
+}

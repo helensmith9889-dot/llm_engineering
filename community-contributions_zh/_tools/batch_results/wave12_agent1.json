@@ -1,0 +1,11 @@
+{
+  "agent": "wave12-agent1",
+  "done": [
+    "/home/dev/code/llm_engineering/community-contributions_zh/mideseniordev/week1/第5天.ipynb",
+    "/home/dev/code/llm_engineering/community-contributions_zh/minhngoncoding/week1/第1周练习.ipynb",
+    "/home/dev/code/llm_engineering/community-contributions_zh/mjfrancoo/第1天.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "/home/dev/code/llm_engineering/community-contributions_zh/mideseniordev/week1/第5天.ipynb",
+  "notes": "Annotated 3/3: mideseniordev week1 day5 ExpertSystem (OpenRouter gpt-4o-mini link-pick + gpt-5-nano streamed Q&A with cache); minhngoncoding week1 JD skill ranker (CareerViet scrape → llama3.2 via Ollama /v1); mjfrancoo day1 website summarizer (gpt-5-nano warm-up, tone demos, gpt-4.1-mini summarize + LinkedIn Colombia exercise). Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/error strings/identifiers unchanged; outputs/execution_count/metadata/id restored from snapshot; ast.parse OK; comment-stripped logic compare passed. No progress.json edit."
+}

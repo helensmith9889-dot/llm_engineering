@@ -1,0 +1,11 @@
+{
+  "agent": "wave7-agent2",
+  "done": [
+    "denis-mutuma/第1周练习.ipynb",
+    "divinebuddha/网站摘要.ipynb",
+    "dubala_lee/金融网页抓取器.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "denis-mutuma/第1周练习.ipynb",
+  "notes": "Annotated 3/3: denis-mutuma week1 technical Q&A (MD ZH + line-by-line code comments; stream+display path preserved; llama-branch / ollama provider strings unchanged); divinebuddha website scrape→gpt-4.1-nano summary; dubala_lee Yahoo Finance scrape + financial briefing prompts. prompts/model ids/URLs/error prints/identifiers unchanged; outputs/execution_count/metadata/id restored from snapshot; ast.parse + comment-stripped logic compare passed."
+}

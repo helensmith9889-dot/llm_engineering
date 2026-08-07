@@ -1,0 +1,11 @@
+{
+  "agent": "wave30-agent0",
+  "done": [
+    "abdoul/第6周练习.ipynb",
+    "alexandre-nkurunziza/第6周练习.ipynb",
+    "dng/week6/供应链.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "abdoul/第6周练习.ipynb",
+  "notes": "Annotated 3 week6 notebooks (abdoul pricing FT pipeline, alexandre OpenAI FT pricer, dng supply-chain FT) with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip checks passed."
+}

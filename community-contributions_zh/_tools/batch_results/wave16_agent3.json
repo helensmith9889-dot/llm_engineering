@@ -1,0 +1,11 @@
+{
+  "agent": "wave16-agent3",
+  "done": [
+    "suman_day5/宣传册生成器.ipynb",
+    "taktaiev/Week1/第1周探索.ipynb",
+    "tarun/第1天任务.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "taktaiev/Week1/第1周探索.ipynb",
+  "notes": "Teaching-annotated 3/3 notebooks with Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata restored from snapshot; ast.parse OK; comment-stripped logic compare passed. suman_day5: brochure scrape→LLM filter→stream generate→optional translate; taktaiev Week1: Figma link select + tutorial guide with URL validation; tarun day1: ATS resume gap analyzer via Responses API gpt-4.1-mini. No progress.json edit."
+}

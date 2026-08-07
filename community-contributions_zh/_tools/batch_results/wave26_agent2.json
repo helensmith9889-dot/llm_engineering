@@ -1,0 +1,11 @@
+{
+  "agent": "wave26-agent2",
+  "done": [
+    "wakanda-okkerjohn/第3周练习.ipynb",
+    "NicholasDean/week4/第4周练习.ipynb",
+    "Vagz1216/week4-exercise/第4周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "wakanda-okkerjohn/第3周练习.ipynb",
+  "notes": "Source-only teaching annotate: Chinese markdown + near line-by-line # comments; prompts/model-ids/URLs/logic unchanged; AST fingerprint + outputs/execution_count preserved. wakanda 8 cells outs all 0; NicholasDean 8 cells outs=[0,1,0,0,0,1,0,2]; Vagz1216 7 cells outs all 0."
+}

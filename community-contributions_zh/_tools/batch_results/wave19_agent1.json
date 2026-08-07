@@ -1,0 +1,11 @@
+{
+  "agent": "wave19-agent1",
+  "done": [
+    "NicholasDean/week2/第2周练习.ipynb",
+    "Ragab0t/第2周第1天.ipynb",
+    "Ragab0t/第2周第4天.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "NicholasDean/week2/第2周练习.ipynb",
+  "notes": "Annotated 3/3. NicholasDean: Gradio technical tutor with OpenAI/Anthropic/Ollama streaming + model dropdown. Ragab0t day1: multi-provider APIs, reasoning_effort, prompt caching, dual/triple chatbot dialogue. Ragab0t day4: FlightAI Gradio assistant with tools + SQLite ticket prices (get/set/get_all). Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/print strings/identifiers unchanged; outputs/execution_count/metadata/id preserved; ast.parse OK (shell-magic cells skipped). No progress.json edit."
+}

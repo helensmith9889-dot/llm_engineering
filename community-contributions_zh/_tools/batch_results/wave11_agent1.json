@@ -1,0 +1,11 @@
+{
+  "agent": "wave11-agent1",
+  "done": [
+    "larry/第1周练习.ipynb",
+    "lukas/week1/DND角色刻画.ipynb",
+    "madhurashinde/第1天_邮件主题行.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "lukas/week1/DND角色刻画.ipynb",
+  "notes": "Teaching-annotated 3 notebooks: larry/第1周练习.ipynb, lukas/week1/DND角色刻画.ipynb, madhurashinde/第1天_邮件主题行.ipynb. Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged. outputs/execution_count/metadata restored from snapshot; ast.parse OK; comment-stripped logic compare passed. No progress.json edit."
+}

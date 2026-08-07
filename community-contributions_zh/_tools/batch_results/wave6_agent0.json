@@ -1,0 +1,11 @@
+{
+  "agent": "wave6-agent0",
+  "done": [
+    "brunodietrich/第1周_个性化技术导师.ipynb",
+    "carl-grp/第1周第2天作业.ipynb",
+    "carl-grp/第1周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "brunodietrich/第1周_个性化技术导师.ipynb",
+  "notes": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count restored from snapshot. ast.parse + comment-stripped logic compare OK. Failed: none."
+}

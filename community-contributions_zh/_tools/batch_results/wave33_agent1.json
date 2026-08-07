@@ -1,0 +1,11 @@
+{
+  "agent": "wave33-agent1",
+  "done": [
+    "sach91-bootcamp/第7周练习.ipynb",
+    "samuel_remo/第7周_微调模型测试.ipynb",
+    "solarinayo/week7/第7周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "samuel_remo/第7周_微调模型测试.ipynb",
+  "notes": "Annotated 3 week7 notebooks: sach91 traditional ML price baselines (83 cells), samuel_remo QLoRA Peft evaluate, solarinayo medical SFT+OpenRouter+Gradio. Source-only edits; outputs/execution_count preserved; logic checked via comment-stripped AST dump."
+}

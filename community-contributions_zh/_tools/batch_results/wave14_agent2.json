@@ -1,0 +1,11 @@
+{
+  "agent": "wave14-agent2",
+  "done": [
+    "ronnyp/第1周第2天.ipynb",
+    "ruipinto/week1/第1周第1天_体育数据.ipynb",
+    "ruipinto/week1/第1周第2天_开源模型.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "ronnyp/第1周第2天.ipynb",
+  "notes": "Annotated 3/3: ronnyp W1D2 Kubernetes Pod docs summarizer (scraper + gpt-5-nano); ruipinto W1D1 Primeira Liga fake stats→gpt-5-nano analyst; ruipinto W1D2 Ollama OpenAI-compat website summarize (llama3.2 + deepseek-r1:1.5b). Added leading Chinese teaching MD each; near line-by-line # comments; prompts/model ids/URLs/identifiers/error strings unchanged; outputs/execution_count preserved; ast.parse OK. No progress.json edit."
+}

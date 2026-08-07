@@ -1,0 +1,11 @@
+{
+  "agent": "wave24-agent2",
+  "done": [
+    "suman_week2/day4/航空公司客服.ipynb",
+    "ugomichael33/第2周_API文档问答.ipynb",
+    "victorConqueror/airline_price_detection2/应用.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "suman_week2/day4/航空公司客服.ipynb",
+  "notes": "Teaching-annotated 3 notebooks: suman airline SQLite+tools+Gradio, ugomichael33 API docs Q&A with search_docs tool, victorConqueror Travelwings Playwright+function-calling Gradio. Chinese markdown + near line-by-line # comments; prompts/model ids/URLs/UI strings unchanged; outputs/execution_count untouched; ast/logic checks passed."
+}

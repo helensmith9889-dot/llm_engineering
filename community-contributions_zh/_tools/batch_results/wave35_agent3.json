@@ -1,0 +1,11 @@
+{
+  "agent": "wave35-agent3",
+  "done": [
+    "市场调研智能体.ipynb",
+    "梵语翻译.ipynb",
+    "用llama3.2总结作品集网站.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "市场调研智能体.ipynb",
+  "notes": "Teaching annotate for 3 unclassified root notebooks: denser Chinese # comments, markdown teaching polish; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; logic checked via ast strip."
+}

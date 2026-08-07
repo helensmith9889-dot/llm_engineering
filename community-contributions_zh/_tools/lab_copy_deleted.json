@@ -1,0 +1,233 @@
+{
+  "deleted": [
+    "sharanya_第2天.ipynb",
+    "sherin_第1天_翻译与摘要.ipynb",
+    "deep_第1周第1天解答.ipynb",
+    "day1_偏执机器人马文摘要维基百科.ipynb",
+    "day1_讲座摘要器_kasethuraman.ipynb",
+    "nancieliu_第1周第1天.ipynb",
+    "denis-mutuma/第6周练习.ipynb",
+    "bmuk/第6周练习.ipynb",
+    "manish/第1天.ipynb",
+    "biplabro/week1/day1.ipynb",
+    "vkovalenk0/week1/第1天.ipynb",
+    "biplabro/week1/day2.ipynb",
+    "manish_tiwari/第2天练习_网页摘要.ipynb",
+    "erybie222/第1天.ipynb",
+    "ashutosh/Week1/day5.ipynb",
+    "dinesh-contributions/week1/第1天.ipynb",
+    "ashutosh/Week1/day2.ipynb",
+    "minhngoncoding/week1/第2天.ipynb",
+    "minhngoncoding/week1/第1天.ipynb",
+    "faraz/第1天.ipynb",
+    "asribhas/day1.ipynb",
+    "biplabro/week1/day4.ipynb",
+    "manish_tiwari/第1天练习.ipynb",
+    "ashutosh/Week1/day1.ipynb",
+    "hasnat/第1天.ipynb",
+    "nancieliu/nancieliu_第1周第1天.ipynb",
+    "doreen_tumuhairwe/第1天.ipynb",
+    "jasonkhaw/第1天.ipynb",
+    "ashutosh/Week2/day5.ipynb",
+    "ashutosh/Week2/day3.ipynb",
+    "NehaBhoi/第2周第4天实验.ipynb",
+    "ashutosh/Week2/day1.ipynb"
+  ],
+  "planned": [
+    {
+      "path": "sharanya_第2天.ipynb",
+      "reason": "near_identical_100%_vs_week1/day4_zh.ipynb",
+      "ratio": 1.0,
+      "best": "week1/day4_zh.ipynb"
+    },
+    {
+      "path": "sherin_第1天_翻译与摘要.ipynb",
+      "reason": "near_identical_93%_vs_week1/day1.ipynb",
+      "ratio": 0.9285714285714286,
+      "best": "week1/day1.ipynb"
+    },
+    {
+      "path": "deep_第1周第1天解答.ipynb",
+      "reason": "near_identical_100%_vs_week1/day1.ipynb",
+      "ratio": 1.0,
+      "best": "week1/day1.ipynb"
+    },
+    {
+      "path": "day1_偏执机器人马文摘要维基百科.ipynb",
+      "reason": "high_overlap_86%_vs_week1/day1.ipynb",
+      "ratio": 0.8571428571428571,
+      "best": "week1/day1.ipynb"
+    },
+    {
+      "path": "day1_讲座摘要器_kasethuraman.ipynb",
+      "reason": "near_identical_93%_vs_week1/day1.ipynb",
+      "ratio": 0.9285714285714286,
+      "best": "week1/day1.ipynb"
+    },
+    {
+      "path": "nancieliu_第1周第1天.ipynb",
+      "reason": "daylab_overlap_83%_vs_week1/day1.ipynb",
+      "ratio": 0.8333333333333334,
+      "best": "week1/day1.ipynb"
+    },
+    {
+      "path": "denis-mutuma/第6周练习.ipynb",
+      "reason": "high_overlap_89%_vs_week6/day4_zh.ipynb",
+      "ratio": 0.8913043478260869,
+      "best": "week6/day4_zh.ipynb"
+    },
+    {
+      "path": "bmuk/第6周练习.ipynb",
+      "reason": "near_identical_90%_vs_week6/day4_zh.ipynb",
+      "ratio": 0.9,
+      "best": "week6/day4_zh.ipynb"
+    },
+    {
+      "path": "manish/第1天.ipynb",
+      "reason": "high_overlap_86%_vs_week1/day1.ipynb",
+      "ratio": 0.8571428571428571,
+      "best": "week1/day1.ipynb"
+    },
+    {
+      "path": "biplabro/week1/day1.ipynb",
+      "reason": "daylab_overlap_71%_vs_week1/day1.ipynb",
+      "ratio": 0.7142857142857143,
+      "best": "week1/day1.ipynb"
+    },
+    {
+      "path": "vkovalenk0/week1/第1天.ipynb",
+      "reason": "daylab_overlap_71%_vs_week1/day1.ipynb",
+      "ratio": 0.7142857142857143,
+      "best": "week1/day1.ipynb"
+    },
+    {
+      "path": "biplabro/week1/day2.ipynb",
+      "reason": "daylab_overlap_80%_vs_week1/day4_zh.ipynb",
+      "ratio": 0.8,
+      "best": "week1/day4_zh.ipynb"
+    },
+    {
+      "path": "manish_tiwari/第2天练习_网页摘要.ipynb",
+      "reason": "near_identical_100%_vs_week1/day4_zh.ipynb",
+      "ratio": 1.0,
+      "best": "week1/day4_zh.ipynb"
+    },
+    {
+      "path": "erybie222/第1天.ipynb",
+      "reason": "near_identical_93%_vs_week1/day1.ipynb",
+      "ratio": 0.9285714285714286,
+      "best": "week1/day1.ipynb"
+    },
+    {
+      "path": "ashutosh/Week1/day5.ipynb",
+      "reason": "near_identical_95%_vs_week1/day5.ipynb",
+      "ratio": 0.9545454545454546,
+      "best": "week1/day5.ipynb"
+    },
+    {
+      "path": "dinesh-contributions/week1/第1天.ipynb",
+      "reason": "high_overlap_86%_vs_week1/day1.ipynb",
+      "ratio": 0.8571428571428571,
+      "best": "week1/day1.ipynb"
+    },
+    {
+      "path": "ashutosh/Week1/day2.ipynb",
+      "reason": "near_identical_92%_vs_week1/day4_zh.ipynb",
+      "ratio": 0.9166666666666666,
+      "best": "week1/day4_zh.ipynb"
+    },
+    {
+      "path": "minhngoncoding/week1/第2天.ipynb",
+      "reason": "daylab_overlap_73%_vs_week1/day4_zh.ipynb",
+      "ratio": 0.7333333333333333,
+      "best": "week1/day4_zh.ipynb"
+    },
+    {
+      "path": "minhngoncoding/week1/第1天.ipynb",
+      "reason": "high_overlap_87%_vs_week1/day1.ipynb",
+      "ratio": 0.8666666666666667,
+      "best": "week1/day1.ipynb"
+    },
+    {
+      "path": "faraz/第1天.ipynb",
+      "reason": "daylab_overlap_81%_vs_week1/day1.ipynb",
+      "ratio": 0.8125,
+      "best": "week1/day1.ipynb"
+    },
+    {
+      "path": "asribhas/day1.ipynb",
+      "reason": "daylab_overlap_85%_vs_week1/day1.ipynb",
+      "ratio": 0.8461538461538461,
+      "best": "week1/day1.ipynb"
+    },
+    {
+      "path": "biplabro/week1/day4.ipynb",
+      "reason": "daylab_overlap_80%_vs_week1/day4_zh.ipynb",
+      "ratio": 0.8,
+      "best": "week1/day4_zh.ipynb"
+    },
+    {
+      "path": "manish_tiwari/第1天练习.ipynb",
+      "reason": "near_identical_93%_vs_week1/day1.ipynb",
+      "ratio": 0.9285714285714286,
+      "best": "week1/day1.ipynb"
+    },
+    {
+      "path": "ashutosh/Week1/day1.ipynb",
+      "reason": "high_overlap_87%_vs_week1/day1.ipynb",
+      "ratio": 0.8666666666666667,
+      "best": "week1/day1.ipynb"
+    },
+    {
+      "path": "hasnat/第1天.ipynb",
+      "reason": "high_overlap_86%_vs_week1/day1.ipynb",
+      "ratio": 0.8571428571428571,
+      "best": "week1/day1.ipynb"
+    },
+    {
+      "path": "nancieliu/nancieliu_第1周第1天.ipynb",
+      "reason": "daylab_overlap_71%_vs_week1/day1.ipynb",
+      "ratio": 0.7142857142857143,
+      "best": "week1/day1.ipynb"
+    },
+    {
+      "path": "doreen_tumuhairwe/第1天.ipynb",
+      "reason": "near_identical_93%_vs_week1/day1.ipynb",
+      "ratio": 0.9285714285714286,
+      "best": "week1/day1.ipynb"
+    },
+    {
+      "path": "jasonkhaw/第1天.ipynb",
+      "reason": "daylab_overlap_77%_vs_week1/day1.ipynb",
+      "ratio": 0.7692307692307693,
+      "best": "week1/day1.ipynb"
+    },
+    {
+      "path": "ashutosh/Week2/day5.ipynb",
+      "reason": "daylab_overlap_73%_vs_week2/day5.ipynb",
+      "ratio": 0.7272727272727273,
+      "best": "week2/day5.ipynb"
+    },
+    {
+      "path": "ashutosh/Week2/day3.ipynb",
+      "reason": "near_identical_95%_vs_week2/day3.ipynb",
+      "ratio": 0.9523809523809523,
+      "best": "week2/day3.ipynb"
+    },
+    {
+      "path": "NehaBhoi/第2周第4天实验.ipynb",
+      "reason": "near_identical_92%_vs_week2/day4_zh.ipynb",
+      "ratio": 0.9166666666666666,
+      "best": "week2/day4_zh.ipynb"
+    },
+    {
+      "path": "ashutosh/Week2/day1.ipynb",
+      "reason": "near_identical_91%_vs_week2/day1.ipynb",
+      "ratio": 0.9130434782608695,
+      "best": "week2/day1.ipynb"
+    }
+  ],
+  "errors": [],
+  "broken_links_removed": 0,
+  "at": "2026-08-07T04:43:34.301848+00:00"
+}

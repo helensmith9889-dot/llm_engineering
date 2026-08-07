@@ -1,0 +1,9 @@
+{
+  "agent": "waveQ1-agent2",
+  "done": [
+    "steve/第8周作业解答.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "steve/第8周作业解答.ipynb",
+  "notes": "Teaching-annotate complete for steve week8 multi-agent cyber threat notebook (23 cells). Only cell source edited; outputs/execution_count/cell metadata/notebook metadata untouched (snapshot+hash verified). Removed shallow「小白提示」headers; added near line-by-line Chinese # comments (what/why) and expanded Chinese teaching markdown (goals/architecture/how-to-run). Runnable English kept: prompts, model ids (gpt-5-mini, text-embedding-3-small), dataset id, URLs, risk_level strings, Gradio labels/titles, alert templates, print strings. AST-equivalent to pre-edit after docstring strip. No progress.json edit."
+}

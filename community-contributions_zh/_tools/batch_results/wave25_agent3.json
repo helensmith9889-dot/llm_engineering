@@ -1,0 +1,11 @@
+{
+  "agent": "wave25-agent3",
+  "done": [
+    "sach91-bootcamp/第3周练习.ipynb",
+    "samuel_remo/第3周练习_调用HuggingFace开源模型.ipynb",
+    "shabsi4u/synthetic-data-generator/合成数据生成器_colab.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "sach91-bootcamp/第3周练习.ipynb",
+  "notes": "Annotated 3 notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip checks passed."
+}

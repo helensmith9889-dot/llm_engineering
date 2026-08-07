@@ -1,0 +1,11 @@
+{
+  "agent": "wave20-agent3",
+  "done": [
+    "himanshu-ai-engineer/第2周作业.ipynb",
+    "joxemi_works/week2/多模型聊天机器人_第1天.ipynb",
+    "joxemi_works/week2/第4天_Pythonista.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "joxemi_works/week2/第4天_Pythonista.ipynb",
+  "notes": "Teaching-annotated 3/3 notebooks with Chinese near line-by-line # comments. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ast + comment/docstring-stripped logic compare passed. himanshu: Ollama website summary in Hindi via scraper; joxemi day1: 3-agent Alex/Blake/Charlie round-robin (GPT+Ollama); Pythonista: FlightAI Gradio+SQLite get/set ticket tools. No progress.json edit."
+}

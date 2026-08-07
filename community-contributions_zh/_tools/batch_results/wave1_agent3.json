@@ -1,0 +1,10 @@
+{
+  "agent": "wave1-agent3",
+  "done": [
+    "Dharma/伟大建筑与宣传册生成.ipynb",
+    "Emil/Week1/第1周练习_开发错误助手.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "Emil/Week1/第1周练习_开发错误助手.ipynb",
+  "notes": "Both notebooks annotated: teaching Chinese markdown + near line-by-line code comments; prompts/model ids/URLs/Gradio labels kept English; outputs/execution_count preserved (all code cells had 0 outputs); ast.parse OK. Dharma cell 3 was code-in-markdown duplicate—rewrote as teaching markdown explaining fetch helpers."
+}

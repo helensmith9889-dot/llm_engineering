@@ -1,0 +1,22 @@
+[
+  [
+    "victorConqueror/week7_finetuning/notebooks/01_数据准备.ipynb",
+    "victorConqueror/week7_finetuning/notebooks/02_基座模型测试.ipynb",
+    "victorConqueror/week7_finetuning/notebooks/02_基线模型.ipynb"
+  ],
+  [
+    "victorConqueror/week7_finetuning/notebooks/03_QLoRA训练.ipynb",
+    "victorConqueror/week7_finetuning/notebooks/04_评估.ipynb",
+    "wakanda-okkerjohn/第7周练习.ipynb"
+  ],
+  [
+    "NicholasDean/week8/第8周练习.ipynb",
+    "Vagz1216/week8-exercise/第8周练习.ipynb",
+    "abdoul/第8周练习.ipynb"
+  ],
+  [
+    "alexandre-nkurunziza/第8周练习.ipynb",
+    "denis-mutuma/第8周练习.ipynb",
+    "kica/第8周解答.ipynb"
+  ]
+]

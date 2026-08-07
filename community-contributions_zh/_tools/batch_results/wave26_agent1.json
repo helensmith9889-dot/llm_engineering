@@ -1,0 +1,11 @@
+{
+  "agent": "wave26-agent1",
+  "done": [
+    "steve/第3周作业解答.ipynb",
+    "ugomichael33/第3周_分词器与提示预算.ipynb",
+    "victorConqueror/week7_finetuning/notebooks/03_Colab微调.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "steve/第3周作业解答.ipynb",
+  "notes": "All 3 notebooks teaching-annotated via rewrite script; source-only edits; outputs/execution_count restored from snap; AST+logic strip checks passed (UGO cell7 has historically invalid multiline string literals—preserved exactly; tokenize fallback used for logic compare)."
+}

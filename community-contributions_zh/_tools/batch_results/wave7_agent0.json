@@ -1,0 +1,11 @@
+{
+  "agent": "wave7-agent0",
+  "done": [
+    "day1_社区版_网站摘要.ipynb",
+    "day1_高中经济学老师.ipynb",
+    "day2_Ollama开源模型.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "day1_社区版_网站摘要.ipynb",
+  "notes": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count restored from snapshot. ast.parse + comment-stripped logic compare OK. Failed: none."
+}

@@ -1,0 +1,11 @@
+{
+  "agent": "wave33-agent0",
+  "done": [
+    "mugisha_caleb_didier/week7/第7周练习.ipynb",
+    "muhammad_qasim_sheikh/Week 7/微调开源模型.ipynb",
+    "muhammad_shahid/第7周.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "mugisha_caleb_didier/week7/第7周练习.ipynb",
+  "notes": "Annotated 3 week7 notebooks (mugisha decoding tricks + frontier compare, qasim QLoRA SFT+TopK eval, shahid day2 prompts + MAE chart) with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/print strings; outputs/execution_count/metadata untouched; ast + logic-strip checks passed."
+}

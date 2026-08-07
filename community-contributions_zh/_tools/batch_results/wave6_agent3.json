@@ -1,0 +1,11 @@
+{
+  "agent": "wave6-agent3",
+  "done": [
+    "day1_Ollama测试.ipynb",
+    "day1_Playwright网页抓取.ipynb",
+    "day1_产品对比_OpenAI与Ollama.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "day1_产品对比_OpenAI与Ollama.ipynb",
+  "notes": "Teaching-annotate 3/3. Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments on code. Runnable English kept: prompts, model ids (llama3.2, gpt-4o-mini, gpt-5-nano, gpt-4.1-mini, gpt-5), URLs, error print strings, identifiers. Playwright leftover English MD translated. outputs/execution_count/metadata/id verified vs pre-edit snapshot; ast.parse OK (shell-magic / await cells handled); comment-stripped logic compare passed. No progress.json edit."
+}

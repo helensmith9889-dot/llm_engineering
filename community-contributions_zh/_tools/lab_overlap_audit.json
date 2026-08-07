@@ -1,0 +1,3546 @@
+[
+  {
+    "path": "sharanya_第2天.ipynb",
+    "ratio": 1.0,
+    "matched": 11,
+    "cells": 11,
+    "best": "week1/day4_zh.ipynb",
+    "delete": "high_overlap_100%_vs_week1/day4_zh.ipynb"
+  },
+  {
+    "path": "营销手册生成.ipynb",
+    "ratio": 0.35294117647058826,
+    "matched": 6,
+    "cells": 17,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "电视剧推荐器.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 9,
+    "best": "week2/extra.ipynb",
+    "delete": null
+  },
+  {
+    "path": "市场调研智能体.ipynb",
+    "ratio": 0.15789473684210525,
+    "matched": 3,
+    "cells": 19,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "预算旅行助手.ipynb",
+    "ratio": 0.3333333333333333,
+    "matched": 2,
+    "cells": 6,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "书店助手.ipynb",
+    "ratio": 0.16666666666666666,
+    "matched": 1,
+    "cells": 6,
+    "best": "week2/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "代码讲解助手_psu.ipynb",
+    "ratio": 0.08333333333333333,
+    "matched": 1,
+    "cells": 12,
+    "best": "week1/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "梵语翻译.ipynb",
+    "ratio": 0.16666666666666666,
+    "matched": 1,
+    "cells": 6,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "用llama3.2总结作品集网站.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week1/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "诊所预约机器人.ipynb",
+    "ratio": 0.09090909090909091,
+    "matched": 1,
+    "cells": 11,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Cosmus第3周练习_合成数据集生成器.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 7,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "day1_产品对比_OpenAI与Ollama.ipynb",
+    "ratio": 0.14285714285714285,
+    "matched": 1,
+    "cells": 7,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "sherin_第1天_翻译与摘要.ipynb",
+    "ratio": 0.9285714285714286,
+    "matched": 13,
+    "cells": 14,
+    "best": "week1/day1.ipynb",
+    "delete": "high_overlap_93%_vs_week1/day1.ipynb"
+  },
+  {
+    "path": "JonasThamane_第1周_PR评估.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "deep_第1周第1天解答.ipynb",
+    "ratio": 1.0,
+    "matched": 13,
+    "cells": 13,
+    "best": "week1/day1.ipynb",
+    "delete": "high_overlap_100%_vs_week1/day1.ipynb"
+  },
+  {
+    "path": "day1_偏执机器人马文摘要维基百科.ipynb",
+    "ratio": 0.8571428571428571,
+    "matched": 12,
+    "cells": 14,
+    "best": "week1/day1.ipynb",
+    "delete": "high_overlap_86%_vs_week1/day1.ipynb"
+  },
+  {
+    "path": "day2_Ollama测试.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "day1_Groq版.ipynb",
+    "ratio": 0.38461538461538464,
+    "matched": 5,
+    "cells": 13,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "P_ANIL_KUMAR_Ollama泰卢固语摘要.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "day1_社区版_网站摘要.ipynb",
+    "ratio": 0.25,
+    "matched": 4,
+    "cells": 16,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "day1_讲座摘要器_kasethuraman.ipynb",
+    "ratio": 0.9285714285714286,
+    "matched": 13,
+    "cells": 14,
+    "best": "week1/day1.ipynb",
+    "delete": "high_overlap_93%_vs_week1/day1.ipynb"
+  },
+  {
+    "path": "day1_Playwright网页抓取.ipynb",
+    "ratio": 0.7222222222222222,
+    "matched": 13,
+    "cells": 18,
+    "best": "week1/day1.ipynb",
+    "delete": "daylab_overlap_72%_vs_week1/day1.ipynb"
+  },
+  {
+    "path": "day1_Anthropic版_krispatel.ipynb",
+    "ratio": 0.5,
+    "matched": 7,
+    "cells": 14,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Nithya_第1天_JIRA摘要.ipynb",
+    "ratio": 0.7857142857142857,
+    "matched": 11,
+    "cells": 14,
+    "best": "week1/day1.ipynb",
+    "delete": "daylab_overlap_79%_vs_week1/day1.ipynb"
+  },
+  {
+    "path": "Vadiraj_第1天_playwright网页抓取.ipynb",
+    "ratio": 0.7222222222222222,
+    "matched": 13,
+    "cells": 18,
+    "best": "week1/day1.ipynb",
+    "delete": "daylab_overlap_72%_vs_week1/day1.ipynb"
+  },
+  {
+    "path": "mariam_janati_第1天_API示例.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 2,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "研究论文摘要器.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 3,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "selenium_丝芙兰美妆顾问.ipynb",
+    "ratio": 0.4375,
+    "matched": 7,
+    "cells": 16,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "第1周第2天练习_职位帖分析器.ipynb",
+    "ratio": 0.16666666666666666,
+    "matched": 1,
+    "cells": 6,
+    "best": "week1/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "day1_Ollama测试.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 2,
+    "best": "week1/day1_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "nancieliu_第1周第1天.ipynb",
+    "ratio": 0.8333333333333334,
+    "matched": 5,
+    "cells": 6,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "day1_高中经济学老师.ipynb",
+    "ratio": 0.3,
+    "matched": 3,
+    "cells": 10,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "day2_Ollama开源模型.ipynb",
+    "ratio": 0.5833333333333334,
+    "matched": 7,
+    "cells": 12,
+    "best": "week1/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "合成数据生成器_PT.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "sach91-bootcamp/第3周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week7/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "joxemi_works/week3/安全意识合成问答生成器.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week7/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "muhammad_shahid/第3周.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 12,
+    "best": "week6/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "joxemi_works/week3/本地CPU测试.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week7/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "NehaBhoi/第3周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 3,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "minhngoncoding/week3/第5天_会议智能体.ipynb",
+    "ratio": 1.0,
+    "matched": 1,
+    "cells": 1,
+    "best": "week3/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "abdoul/第3周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 4,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "denis-mutuma/第3周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 7,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "larry/第3周练习.ipynb",
+    "ratio": 0.14285714285714285,
+    "matched": 1,
+    "cells": 7,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "kica/第3周解答.ipynb",
+    "ratio": 0.14285714285714285,
+    "matched": 1,
+    "cells": 7,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ugomichael33/第3周_分词器与提示预算.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week7/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "minhngoncoding/week3/合成数据集生成.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week8/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mideseniordev/week3/第3周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week2/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "shabsi4u/synthetic-data-generator/合成数据生成器_colab.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 11,
+    "best": "week5/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ashutosh/Week3/第3周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 32,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "steve/第3周作业解答.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 12,
+    "best": "week2/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mmaitsimwale/第3周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 3,
+    "best": "week7/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "erybie222/week-3/第3周作业.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week7/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "alexandre-nkurunziza/第3周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 12,
+    "best": "week6/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "dng/week3/课程生成器.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 11,
+    "best": "week6/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "wakanda-okkerjohn/第3周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "victorConqueror/week7_finetuning/notebooks/03_Colab微调.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 11,
+    "best": "week6/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Vagz1216/week3-exercise/第3周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "samuel_remo/第3周练习_调用HuggingFace开源模型.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 11,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "bmuk/第3周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 9,
+    "best": "week2/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "muhammad_qasim_sheikh/Week 3/Day 5/合成数据生成器.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 7,
+    "best": "week2/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "NicholasDean/week3/第3周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 3,
+    "best": "week7/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "solarinayo/week3/第3周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 7,
+    "best": "week6/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "softgeey/第3周练习解答.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week2/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "larry/第8周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 11,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "NicholasDean/week8/第8周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 2,
+    "best": "week5/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "muhammad_qasim_sheikh/Week 8/集成模型.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 21,
+    "best": "week8/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "steve/第8周作业解答.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 21,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ugomichael33/第8周_智能体交易定价.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 9,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mideseniordev/week8/第8周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "spasquier/week8/第8周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week5/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "abdoul/第8周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week2/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "solarinayo/week8/第8周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 13,
+    "best": "week5/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mrpeski/week_eight_exercise/第8周练习.ipynb",
+    "ratio": 0.1,
+    "matched": 1,
+    "cells": 10,
+    "best": "week8/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Vagz1216/week8-exercise/第8周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 11,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "kica/第8周解答.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 10,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "alexandre-nkurunziza/第8周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "denis-mutuma/第8周练习.ipynb",
+    "ratio": 0.21052631578947367,
+    "matched": 4,
+    "cells": 19,
+    "best": "week8/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "softgeey/第8周练习解答.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 11,
+    "best": "week5/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "eliza_zadura/synthetic_data_generator/REST用JSON.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 11,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "synthetic-dataset-generator/合成数据生成.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 13,
+    "best": "week4/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "denis-mutuma/第6周练习.ipynb",
+    "ratio": 0.8913043478260869,
+    "matched": 41,
+    "cells": 46,
+    "best": "week6/day4_zh.ipynb",
+    "delete": "high_overlap_89%_vs_week6/day4_zh.ipynb"
+  },
+  {
+    "path": "NicholasDean/week6/第6周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week8/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "kica/第6周解答.ipynb",
+    "ratio": 0.07692307692307693,
+    "matched": 2,
+    "cells": 26,
+    "best": "week6/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "alexandre-nkurunziza/第6周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week6/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "dng/week6/供应链.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 16,
+    "best": "week6/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "muhammad_qasim_sheikh/Week 6/Day 5/微调改进前沿模型.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 12,
+    "best": "week6/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "steve/第6周作业解答.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 20,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ugomichael33/第7周_置信度感知定价.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 9,
+    "best": "week6/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "samuel_remo/第6周练习.ipynb",
+    "ratio": 0.7222222222222222,
+    "matched": 13,
+    "cells": 18,
+    "best": "week6/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "larry/第6周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 12,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "solarinayo/week6/第6周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 15,
+    "best": "week6/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ugomichael33/第6周_价格基线误差分析.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week6/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "softgeey/第6周练习解答.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 11,
+    "best": "week6/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mugisha_caleb_didier/week6/第6周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 16,
+    "best": "week6/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "muhammad_shahid/第6周.ipynb",
+    "ratio": 0.043478260869565216,
+    "matched": 1,
+    "cells": 23,
+    "best": "week6/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "spasquier/week6/第6周练习.ipynb",
+    "ratio": 0.8333333333333334,
+    "matched": 15,
+    "cells": 18,
+    "best": "week6/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mideseniordev/week6/第6周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 15,
+    "best": "week6/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mmaitsimwale/第6周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 9,
+    "best": "week6/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Vagz1216/week6-exercise/第6周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week6/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "abdoul/第6周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 41,
+    "best": "week6/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "sach91-bootcamp/第6周练习.ipynb",
+    "ratio": 0.07272727272727272,
+    "matched": 4,
+    "cells": 55,
+    "best": "week6/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "wakanda-okkerjohn/第6周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 10,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "bmuk/第6周练习.ipynb",
+    "ratio": 0.9,
+    "matched": 18,
+    "cells": 20,
+    "best": "week6/day4_zh.ipynb",
+    "delete": "high_overlap_90%_vs_week6/day4_zh.ipynb"
+  },
+  {
+    "path": "bishara-selenium-fix/第1天_Selenium爬虫.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Vagz1216/week1-interactive-exercise/交互式视觉工具.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "lukas/week1/DND角色刻画.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 4,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "franzonia137/第2天_本地Ollama网页摘要.ipynb",
+    "ratio": 0.25,
+    "matched": 2,
+    "cells": 8,
+    "best": "week1/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "vimal_ramnarain_week_1/第1天.ipynb",
+    "ratio": 0.14285714285714285,
+    "matched": 1,
+    "cells": 7,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "steve/第1周第1天任务.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "unnamedxaer/第1周第1天_英语时态老师.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 9,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ruipinto/week1/第1周第2天_开源模型.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Devika/每日新闻摘要器.ipynb",
+    "ratio": 0.14285714285714285,
+    "matched": 1,
+    "cells": 7,
+    "best": "week1/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "manish/第1天.ipynb",
+    "ratio": 0.8571428571428571,
+    "matched": 12,
+    "cells": 14,
+    "best": "week1/day1.ipynb",
+    "delete": "high_overlap_86%_vs_week1/day1.ipynb"
+  },
+  {
+    "path": "mjfrancoo/第1天.ipynb",
+    "ratio": 0.631578947368421,
+    "matched": 12,
+    "cells": 19,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "muhammad_shahid/第1周练习.ipynb",
+    "ratio": 0.4,
+    "matched": 2,
+    "cells": 5,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "JasuTech/第1天.ipynb",
+    "ratio": 0.6875,
+    "matched": 11,
+    "cells": 16,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "tigeress/第1天邮件项目.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "juniardy_setiowidayoga/week1/第2天练习.ipynb",
+    "ratio": 0.5,
+    "matched": 2,
+    "cells": 4,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Mesoj8/week1/day1/第1天.ipynb",
+    "ratio": 0.3333333333333333,
+    "matched": 4,
+    "cells": 12,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mugisha_caleb_didier/week1/第1周练习.ipynb",
+    "ratio": 0.2222222222222222,
+    "matched": 2,
+    "cells": 9,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mideseniordev/week1/第1周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "jayman/week1/第2天练习.ipynb",
+    "ratio": 0.6666666666666666,
+    "matched": 2,
+    "cells": 3,
+    "best": "week1/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "spasquier/week1/第5天挑战.ipynb",
+    "ratio": 0.8,
+    "matched": 8,
+    "cells": 10,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "vidit-jain/第1天作业.ipynb",
+    "ratio": 0.6153846153846154,
+    "matched": 8,
+    "cells": 13,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "biplabro/week1/day1.ipynb",
+    "ratio": 0.7142857142857143,
+    "matched": 10,
+    "cells": 14,
+    "best": "week1/day1.ipynb",
+    "delete": "daylab_overlap_71%_vs_week1/day1.ipynb"
+  },
+  {
+    "path": "deepanshu-gaur/day1_博客摘要转LinkedIn帖子.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "simnsh/week1/第2天实验.ipynb",
+    "ratio": 0.14285714285714285,
+    "matched": 1,
+    "cells": 7,
+    "best": "week1/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "shivam/第1周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week4/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "abdoul/第1周练习.ipynb",
+    "ratio": 0.3333333333333333,
+    "matched": 2,
+    "cells": 6,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Gyana/第1周练习_技术问答.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 7,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "steve/第1周第2天任务.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "bmuk/第1周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "playwright-bojan/Playwright方案_Jupyter异步.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 3,
+    "best": null,
+    "delete": null
+  },
+  {
+    "path": "alexandre-nkurunziza/第1周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 7,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "vkovalenk0/week1/第1天.ipynb",
+    "ratio": 0.7142857142857143,
+    "matched": 10,
+    "cells": 14,
+    "best": "week1/day1.ipynb",
+    "delete": "daylab_overlap_71%_vs_week1/day1.ipynb"
+  },
+  {
+    "path": "jaden_anthony/第1周第2天作业.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "biplabro/week1/day2.ipynb",
+    "ratio": 0.8,
+    "matched": 16,
+    "cells": 20,
+    "best": "week1/day4_zh.ipynb",
+    "delete": "daylab_overlap_80%_vs_week1/day4_zh.ipynb"
+  },
+  {
+    "path": "manish_tiwari/第1周练习解答.ipynb",
+    "ratio": 1.0,
+    "matched": 2,
+    "cells": 2,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "adeyemi-kayode/第1周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ruipinto/week1/第1周第1天_体育数据.ipynb",
+    "ratio": 0.25,
+    "matched": 1,
+    "cells": 4,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "tarun/第1天任务.ipynb",
+    "ratio": 0.1,
+    "matched": 1,
+    "cells": 10,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "manish_tiwari/第2天练习_网页摘要.ipynb",
+    "ratio": 1.0,
+    "matched": 11,
+    "cells": 11,
+    "best": "week1/day4_zh.ipynb",
+    "delete": "high_overlap_100%_vs_week1/day4_zh.ipynb"
+  },
+  {
+    "path": "ashu/week1/第1周练习1.ipynb",
+    "ratio": 0.125,
+    "matched": 2,
+    "cells": 16,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Kalpesh_rajput/第1周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "erybie222/第1天.ipynb",
+    "ratio": 0.9285714285714286,
+    "matched": 13,
+    "cells": 14,
+    "best": "week1/day1.ipynb",
+    "delete": "high_overlap_93%_vs_week1/day1.ipynb"
+  },
+  {
+    "path": "ashutosh/Week1/day5.ipynb",
+    "ratio": 0.9545454545454546,
+    "matched": 21,
+    "cells": 22,
+    "best": "week1/day5.ipynb",
+    "delete": "high_overlap_95%_vs_week1/day5.ipynb"
+  },
+  {
+    "path": "dinesh-contributions/week1/第1天.ipynb",
+    "ratio": 0.8571428571428571,
+    "matched": 12,
+    "cells": 14,
+    "best": "week1/day1.ipynb",
+    "delete": "high_overlap_86%_vs_week1/day1.ipynb"
+  },
+  {
+    "path": "Saransh_End_of_Week1/第1周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "joxemi_works/week1/生成式GPT树.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 9,
+    "best": "week1/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "sharifKiberu/第1周_LLM提示器.ipynb",
+    "ratio": 0.2857142857142857,
+    "matched": 2,
+    "cells": 7,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "steve/第1周作业解答.ipynb",
+    "ratio": 0.14285714285714285,
+    "matched": 1,
+    "cells": 7,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "anadi_sharma_15/day1.ipynb",
+    "ratio": 0.3333333333333333,
+    "matched": 1,
+    "cells": 3,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "jp/第1周第2天.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 2,
+    "best": "week1/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Muhammad_Bilal/Week1/Day2_excecise/练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "shiva-week1project/第1天练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 7,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "earljonas/第1周_职位帖分析.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 7,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "kiharanjoroge/第1周练习.ipynb",
+    "ratio": 0.14285714285714285,
+    "matched": 1,
+    "cells": 7,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Arjav014/Website_Summarizer/main.ipynb",
+    "ratio": 0.25,
+    "matched": 1,
+    "cells": 4,
+    "best": "week1/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "earljonas/Week1/第1天_职位帖分析.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 7,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "omer-gamie/week1/第2天练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "kica/第1周解答.ipynb",
+    "ratio": 0.3333333333333333,
+    "matched": 2,
+    "cells": 6,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "vlalez/第1周练习.ipynb",
+    "ratio": 0.16666666666666666,
+    "matched": 1,
+    "cells": 6,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "sanjana_madupoju/第1周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week6/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "keinda/week1/day1/邮件更正模型.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mani_bojja/第1周练习1.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "azam/week-1/day2.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mani_bojja/第1周练习.ipynb",
+    "ratio": 0.16666666666666666,
+    "matched": 1,
+    "cells": 6,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ashutosh/Week1/第1周练习.ipynb",
+    "ratio": 0.125,
+    "matched": 1,
+    "cells": 8,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ashutosh/Week1/day2.ipynb",
+    "ratio": 0.9166666666666666,
+    "matched": 11,
+    "cells": 12,
+    "best": "week1/day4_zh.ipynb",
+    "delete": "high_overlap_92%_vs_week1/day4_zh.ipynb"
+  },
+  {
+    "path": "D/第1周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week4/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "peter-retro/day1.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week5/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "vireshh22/第1天.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 9,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "FarrasEzra/第1周_足球比赛综述.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "carl-grp/第1周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "fbrynmghni/第1天_课堂资产项目.ipynb",
+    "ratio": 0.2222222222222222,
+    "matched": 2,
+    "cells": 9,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "sneha/week1/用playwright与anthropic总结网站.ipynb",
+    "ratio": 0.4,
+    "matched": 6,
+    "cells": 15,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "solarinayo/第1周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "kaiyuwei/week1/第2天练习.ipynb",
+    "ratio": 0.13333333333333333,
+    "matched": 2,
+    "cells": 15,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "minhngoncoding/week1/第2天.ipynb",
+    "ratio": 0.7333333333333333,
+    "matched": 11,
+    "cells": 15,
+    "best": "week1/day4_zh.ipynb",
+    "delete": "daylab_overlap_73%_vs_week1/day4_zh.ipynb"
+  },
+  {
+    "path": "mmaitsimwale/第1周练习.ipynb",
+    "ratio": 0.1111111111111111,
+    "matched": 1,
+    "cells": 9,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "brandon_lopez/第1天_Brandon示例.ipynb",
+    "ratio": 0.3333333333333333,
+    "matched": 2,
+    "cells": 6,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "soni_gh_(2jyo7)/第1天_ollama.ipynb",
+    "ratio": 0.07142857142857142,
+    "matched": 1,
+    "cells": 14,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "jmanguru/week1/第1天.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 3,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "minhngoncoding/week1/第1天.ipynb",
+    "ratio": 0.8666666666666667,
+    "matched": 13,
+    "cells": 15,
+    "best": "week1/day1.ipynb",
+    "delete": "high_overlap_87%_vs_week1/day1.ipynb"
+  },
+  {
+    "path": "faraz/第1天.ipynb",
+    "ratio": 0.8125,
+    "matched": 13,
+    "cells": 16,
+    "best": "week1/day1.ipynb",
+    "delete": "daylab_overlap_81%_vs_week1/day1.ipynb"
+  },
+  {
+    "path": "biomedical-article-summariser/文章摘要器.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week1/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "aditya-soni-contributions/第1周第2天.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "larry/第1周练习.ipynb",
+    "ratio": 0.16666666666666666,
+    "matched": 1,
+    "cells": 6,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "gaurisankar/普京演讲摘要示例.ipynb",
+    "ratio": 0.2,
+    "matched": 1,
+    "cells": 5,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Shield01/Week1/第1周第2天练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "vanshika-mahajan/时尚网页摘要.ipynb",
+    "ratio": 0.08333333333333333,
+    "matched": 1,
+    "cells": 12,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "minhngoncoding/week1/第1周练习.ipynb",
+    "ratio": 0.1,
+    "matched": 1,
+    "cells": 10,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "LKikwei/week1/第1周第2天_Ollama.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "LLaVA-For-Visually-Impared-People/LLaVA图像描述_第1周.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "orthogonal/day1-YouTube视频摘要.ipynb",
+    "ratio": 0.1111111111111111,
+    "matched": 1,
+    "cells": 9,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Prashanth/Week 1/day2_本地ollama.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 10,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "divinebuddha/网站摘要.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "keshav_awasthi/Day 1/第1天_残酷真相.ipynb",
+    "ratio": 0.2222222222222222,
+    "matched": 2,
+    "cells": 9,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "day5-compound-llm-calls/企业宣传册.ipynb",
+    "ratio": 0.68,
+    "matched": 17,
+    "cells": 25,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ashu/week1/解析GeekforGeeks教程.ipynb",
+    "ratio": 0.1111111111111111,
+    "matched": 1,
+    "cells": 9,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "steph_moyo/week_1/第2周第1天_自闭症四角色对话.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "NehaBhoi/第1周练习.ipynb",
+    "ratio": 0.2,
+    "matched": 1,
+    "cells": 5,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "damien_sa/week1/第1周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "pacov/W1_第1天练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week4/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "asribhas/day1.ipynb",
+    "ratio": 0.8461538461538461,
+    "matched": 11,
+    "cells": 13,
+    "best": "week1/day1.ipynb",
+    "delete": "daylab_overlap_85%_vs_week1/day1.ipynb"
+  },
+  {
+    "path": "juniardy_setiowidayoga/week1/第1周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "akhilasaiteja/第1周_宣传册生成器.ipynb",
+    "ratio": 0.23809523809523808,
+    "matched": 5,
+    "cells": 21,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ikemCodedIt/week 1/股票分析器.ipynb",
+    "ratio": 0.2222222222222222,
+    "matched": 2,
+    "cells": 9,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Shafiq_Ur_Rehman/网站摘要器.ipynb",
+    "ratio": 0.5,
+    "matched": 4,
+    "cells": 8,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "brunodietrich/第1周_个性化技术导师.ipynb",
+    "ratio": 0.14285714285714285,
+    "matched": 1,
+    "cells": 7,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Manideep-codes/第1天.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week2/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "muhammad_qasim_sheikh/Week 1/Day 5/宣传册生成.ipynb",
+    "ratio": 0.125,
+    "matched": 1,
+    "cells": 8,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "azam/week-1/day1.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 15,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "tigeress/第1周练习.ipynb",
+    "ratio": 0.14285714285714285,
+    "matched": 1,
+    "cells": 7,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "omer-gamie/week1/第1周练习.ipynb",
+    "ratio": 0.3333333333333333,
+    "matched": 2,
+    "cells": 6,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "earljonas/Week1/第2天_本地模型职位分析.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 7,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Prashanth/Week 1/day1_测试_ollama.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "denis-mutuma/第1周练习.ipynb",
+    "ratio": 0.2857142857142857,
+    "matched": 2,
+    "cells": 7,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "simnsh/week1/第1周练习.ipynb",
+    "ratio": 0.2222222222222222,
+    "matched": 2,
+    "cells": 9,
+    "best": "week1/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "daniel-edim/网页摘要.ipynb",
+    "ratio": 0.125,
+    "matched": 1,
+    "cells": 8,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Prashanth/Week 1/第1周我的解答.ipynb",
+    "ratio": 0.08333333333333333,
+    "matched": 1,
+    "cells": 12,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "jmanguru/week1/第1周练习.ipynb",
+    "ratio": 0.16666666666666666,
+    "matched": 1,
+    "cells": 6,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "akhilasaiteja/第1周_技术导师.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "jp/第1周第1天.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ahmed_sohail/day1.ipynb",
+    "ratio": 0.5652173913043478,
+    "matched": 13,
+    "cells": 23,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "victorConqueror/podcast_summarizer/播客摘要器.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 14,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "rexdavinci/week1/练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 3,
+    "best": "week1/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "biplabro/week1/day4.ipynb",
+    "ratio": 0.8,
+    "matched": 8,
+    "cells": 10,
+    "best": "week1/day4_zh.ipynb",
+    "delete": "daylab_overlap_80%_vs_week1/day4_zh.ipynb"
+  },
+  {
+    "path": "Khaldoon-Ziad-Saqallah/使用Selenium抓取.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 4,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "jpolonska/第1周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Emil/Week1/第1周练习_开发错误助手.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 2,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "spasquier/week1/第2天作业.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "damien_sa/week1/第5天_企业宣传册.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "emilyohnavarro/第1天_简历摘要器.ipynb",
+    "ratio": 0.8461538461538461,
+    "matched": 11,
+    "cells": 13,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "softgeey/第1周练习解答.ipynb",
+    "ratio": 0.2,
+    "matched": 1,
+    "cells": 5,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "suman_day5/宣传册生成器.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 11,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "meeting_summarizer/会议摘要器.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week4/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "NehaBhoi/第1周业务方案.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 2,
+    "best": "week4/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "pradeep1955/第1周练习.ipynb",
+    "ratio": 0.3333333333333333,
+    "matched": 2,
+    "cells": 6,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "juniardy_setiowidayoga/week1/第1天练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 4,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "manish_tiwari/第1天练习.ipynb",
+    "ratio": 0.9285714285714286,
+    "matched": 13,
+    "cells": 14,
+    "best": "week1/day1.ipynb",
+    "delete": "high_overlap_93%_vs_week1/day1.ipynb"
+  },
+  {
+    "path": "jayman/week1/第1天练习.ipynb",
+    "ratio": 0.25,
+    "matched": 1,
+    "cells": 4,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mani_bojja/第1周练习2.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "D/第1周第1天_网站摘要.ipynb",
+    "ratio": 0.18181818181818182,
+    "matched": 2,
+    "cells": 11,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mideseniordev/week1/第5天.ipynb",
+    "ratio": 0.2,
+    "matched": 1,
+    "cells": 5,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ashutosh/Week1/day1.ipynb",
+    "ratio": 0.8666666666666667,
+    "matched": 13,
+    "cells": 15,
+    "best": "week1/day1.ipynb",
+    "delete": "high_overlap_87%_vs_week1/day1.ipynb"
+  },
+  {
+    "path": "oluwatosinjegede/第1周练习.ipynb",
+    "ratio": 0.16666666666666666,
+    "matched": 1,
+    "cells": 6,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "gurender/第1周第1天_飞机性能对比.ipynb",
+    "ratio": 0.125,
+    "matched": 1,
+    "cells": 8,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Dharma/伟大建筑与宣传册生成.ipynb",
+    "ratio": 0.4166666666666667,
+    "matched": 5,
+    "cells": 12,
+    "best": "week1/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "vkovalenk0/week1/第2天.ipynb",
+    "ratio": 0.6666666666666666,
+    "matched": 8,
+    "cells": 12,
+    "best": "week1/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "steph_moyo/week_1/第1天.ipynb",
+    "ratio": 0.1111111111111111,
+    "matched": 1,
+    "cells": 9,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "erybie222/week-1/第1周练习_技术问答.ipynb",
+    "ratio": 0.2,
+    "matched": 1,
+    "cells": 5,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "madhurashinde/第1天_邮件主题行.ipynb",
+    "ratio": 0.25,
+    "matched": 1,
+    "cells": 4,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "hasnat/第1天.ipynb",
+    "ratio": 0.8571428571428571,
+    "matched": 12,
+    "cells": 14,
+    "best": "week1/day1.ipynb",
+    "delete": "high_overlap_86%_vs_week1/day1.ipynb"
+  },
+  {
+    "path": "wakanda-okkerjohn/第1周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "playwright-enhanced-scraper/增强网页爬虫.ipynb",
+    "ratio": 0.29411764705882354,
+    "matched": 5,
+    "cells": 17,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "nate-lev/week1/第1天_歌词创作.ipynb",
+    "ratio": 0.3333333333333333,
+    "matched": 2,
+    "cells": 6,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "gonzalo_benito/第1周练习_技术问答助手.ipynb",
+    "ratio": 0.125,
+    "matched": 1,
+    "cells": 8,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "carl-grp/第1周第2天作业.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 4,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "sach91-bootcamp/第1周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 7,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "jayman/week1/第1周练习.ipynb",
+    "ratio": 0.2857142857142857,
+    "matched": 2,
+    "cells": 7,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "shabsi4u/Website_brochure_generator/网站宣传册生成器.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 17,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "sf-patient-brochure/患者宣传册.ipynb",
+    "ratio": 0.08333333333333333,
+    "matched": 1,
+    "cells": 12,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mideseniordev/week1/第1天.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "taktaiev/Week1/第1周探索.ipynb",
+    "ratio": 0.2857142857142857,
+    "matched": 4,
+    "cells": 14,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "nancieliu/nancieliu_第1周第1天.ipynb",
+    "ratio": 0.7142857142857143,
+    "matched": 5,
+    "cells": 7,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "LKikwei/week1/第1周周末练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Shield01/Week1/第1周练习.ipynb",
+    "ratio": 0.16666666666666666,
+    "matched": 1,
+    "cells": 6,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mugisha_caleb_didier/week1/第1天_Playwright爬虫.ipynb",
+    "ratio": 0.25,
+    "matched": 2,
+    "cells": 8,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "bjayzee_week1/第1周作业.ipynb",
+    "ratio": 0.16666666666666666,
+    "matched": 1,
+    "cells": 6,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "simnsh/week1/第1天实验.ipynb",
+    "ratio": 0.5,
+    "matched": 1,
+    "cells": 2,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "muhammad_mahmood/week_1/第1周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "cma/第1周练习.ipynb",
+    "ratio": 0.8,
+    "matched": 12,
+    "cells": 15,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Sylvie/第1周练习.ipynb",
+    "ratio": 0.25,
+    "matched": 1,
+    "cells": 4,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "CodeMaestroMS/擎天柱网站摘要器.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ruipinto/week1/第1周第5天练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "NicholasDean/week1/第1周练习.ipynb",
+    "ratio": 0.2,
+    "matched": 1,
+    "cells": 5,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "erybie222/week-1/第2天作业.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ronnyp/第1周第2天.ipynb",
+    "ratio": 0.4,
+    "matched": 2,
+    "cells": 5,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "emmelie/第1周第1天_网站摘要器.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 4,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "NehaBhoi/第1周第2天实验.ipynb",
+    "ratio": 0.55,
+    "matched": 11,
+    "cells": 20,
+    "best": "week1/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "pradeep1955/week1/第2天练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 15,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "doreen_tumuhairwe/第1天.ipynb",
+    "ratio": 0.9285714285714286,
+    "matched": 13,
+    "cells": 14,
+    "best": "week1/day1.ipynb",
+    "delete": "high_overlap_93%_vs_week1/day1.ipynb"
+  },
+  {
+    "path": "spasquier/week1/第1周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "dubala_lee/金融网页抓取器.ipynb",
+    "ratio": 0.25,
+    "matched": 1,
+    "cells": 4,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "karam_sayed/paper-summarizer/论文摘要器.ipynb",
+    "ratio": 0.2222222222222222,
+    "matched": 2,
+    "cells": 9,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "joxemi_works/week1/第1周_LLM对比测试与评判器_v2.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 12,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "juanr_youtubeVideoSummarizerDay2/YouTube视频摘要_第2天.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 12,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "global-market-news-summarizer/第1天作业_全球市场新闻摘要.ipynb",
+    "ratio": 0.07692307692307693,
+    "matched": 1,
+    "cells": 13,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "jasonkhaw/第1天.ipynb",
+    "ratio": 0.7692307692307693,
+    "matched": 10,
+    "cells": 13,
+    "best": "week1/day1.ipynb",
+    "delete": "daylab_overlap_77%_vs_week1/day1.ipynb"
+  },
+  {
+    "path": "pranav_jain/week1/邮件主题生成器.ipynb",
+    "ratio": 0.16666666666666666,
+    "matched": 1,
+    "cells": 6,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "vamsisaigarapati/第1周练习.ipynb",
+    "ratio": 0.2,
+    "matched": 2,
+    "cells": 10,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "eyosiyas/第1周练习_商业洞察讲解器.ipynb",
+    "ratio": 0.125,
+    "matched": 1,
+    "cells": 8,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Nikhil/week1/实验1解答.ipynb",
+    "ratio": 0.6666666666666666,
+    "matched": 4,
+    "cells": 6,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "spasquier/week1/第1天作业.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "vlalez/第1天.ipynb",
+    "ratio": 0.5,
+    "matched": 7,
+    "cells": 14,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mideseniordev/week1/第2天.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "padmaja/day1/Google_API.ipynb",
+    "ratio": 0.6,
+    "matched": 3,
+    "cells": 5,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "juanr_studyHelperDay1/学习助手_第1天.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "juanr_youtubeVideosSummarizerDay2/YouTube视频摘要_第2天.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 12,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "joxemi_works/week1/Selenium网页抓取.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "najeeb/第1周解答.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week1/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "gaurav-sha56/第1天练习1.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 4,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ugomichael33/第1周_解释堆栈跟踪.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 9,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "sach91-bootcamp/第4周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week7/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "steve/第4周作业解答.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 12,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "uchebuzz/第4周_Python转C++转换器.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ugomichael33/第4周_Python转C++优化器.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mideseniordev/week4/第4周练习.ipynb",
+    "ratio": 0.14285714285714285,
+    "matched": 1,
+    "cells": 7,
+    "best": "week2/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "samuel_remo/week4/第4周练习.ipynb",
+    "ratio": 0.3,
+    "matched": 3,
+    "cells": 10,
+    "best": "week4/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "kica/第4周解答.ipynb",
+    "ratio": 0.2857142857142857,
+    "matched": 2,
+    "cells": 7,
+    "best": "week4/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mugisha_caleb_didier/week4/OpenRouter笔记本转换器.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 9,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "solarinayo/week4/第4周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 3,
+    "best": "week6/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "joxemi_works/week4/上传笔记本文档化_基准测试.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 9,
+    "best": "week2/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "muhammad_shahid/第4周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 13,
+    "best": "week2/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "muhammad_qasim_sheikh/Week 4/Day 5/模型性能检查.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 12,
+    "best": "week4/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "alexandre-nkurunziza/第4周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 7,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "bmuk/第4周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week2/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "abdoul/第4周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 7,
+    "best": "week5/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Vagz1216/week4-exercise/第4周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week4/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "larry/第4周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 9,
+    "best": "week4/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "denis-mutuma/第4周练习.ipynb",
+    "ratio": 0.14285714285714285,
+    "matched": 1,
+    "cells": 7,
+    "best": "week4/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "NicholasDean/week4/第4周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week8/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "softgeey/第4周练习解答.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 4,
+    "best": "week2/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ashutosh/Week4/第4周练习.ipynb",
+    "ratio": 0.1,
+    "matched": 1,
+    "cells": 10,
+    "best": "week4/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "spasquier/week4/第4周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 3,
+    "best": "week2/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "joxemi_works/week4/上传笔记本文档化.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 7,
+    "best": "week2/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "NicholasDean/week7/第7周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 4,
+    "best": "week6/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "alexandre-nkurunziza/第7周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 10,
+    "best": "week8/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "steve/第7周作业解答.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 15,
+    "best": "week6/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "sach91-bootcamp/第7周练习.ipynb",
+    "ratio": 0.05357142857142857,
+    "matched": 3,
+    "cells": 56,
+    "best": "week6/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Vagz1216/week7-exercise/第7周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 16,
+    "best": "week7/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "wakanda-okkerjohn/第7周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "solarinayo/week7/第7周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 12,
+    "best": "week6/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "victorConqueror/week7_finetuning/notebooks/04_评估.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 9,
+    "best": "week7/results_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mrpeski/第7周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 13,
+    "best": "week7/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mugisha_caleb_didier/week7/第7周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 10,
+    "best": "week6/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "denis-mutuma/第7周练习_训练.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 13,
+    "best": "week7/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "dng/week7/合适价格.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 12,
+    "best": "week8/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "denis-mutuma/第7周练习_评估.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 10,
+    "best": "week6/results_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "muhammad_qasim_sheikh/Week 7/微调开源模型.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 18,
+    "best": "week6/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "victorConqueror/week7_finetuning/notebooks/01_数据准备.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 12,
+    "best": "week7/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "larry/第7周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 14,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "kica/第7周解答.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 19,
+    "best": "week7/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "muhammad_shahid/第7周.ipynb",
+    "ratio": 0.3333333333333333,
+    "matched": 5,
+    "cells": 15,
+    "best": "week7/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "samuel_remo/第7周_微调模型测试.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 9,
+    "best": "week6/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "victorConqueror/week7_finetuning/notebooks/02_基座模型测试.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week6/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "abdoul/第7周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 16,
+    "best": "week7/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mideseniordev/week7/第7周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 16,
+    "best": "week6/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "victorConqueror/week7_finetuning/notebooks/02_基线模型.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 7,
+    "best": "week7/results_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "softgeey/第7周练习解答.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 19,
+    "best": "week6/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Vagz1216/week2-exercise/第2周练习.ipynb",
+    "ratio": 0.1111111111111111,
+    "matched": 1,
+    "cells": 9,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "multi-agent_gui_with_gradio/智能体语音文本客服.ipynb",
+    "ratio": 0.1111111111111111,
+    "matched": 1,
+    "cells": 9,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "NehaBhoi/第2周第1天实验.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "spasquier/week2/第4天作业.ipynb",
+    "ratio": 0.2222222222222222,
+    "matched": 2,
+    "cells": 9,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ashutosh/Week2/第2周练习.ipynb",
+    "ratio": 0.125,
+    "matched": 2,
+    "cells": 16,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "pradeep1955/week2/智能体对话_莎士比亚.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 11,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "muhammad_qasim_sheikh/Week 2/day 5/第5天_多模态助手.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 12,
+    "best": "week5/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "sach91-bootcamp/第2周练习.ipynb",
+    "ratio": 0.125,
+    "matched": 1,
+    "cells": 8,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "alexandre-nkurunziza/第2周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 9,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mugisha_caleb_didier/week2/第2周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 15,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "larry/第2周练习.ipynb",
+    "ratio": 0.1,
+    "matched": 1,
+    "cells": 10,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ashutosh/Week2/day5.ipynb",
+    "ratio": 0.7272727272727273,
+    "matched": 16,
+    "cells": 22,
+    "best": "week2/day5.ipynb",
+    "delete": "daylab_overlap_73%_vs_week2/day5.ipynb"
+  },
+  {
+    "path": "D/第2周第3天_樟宜免税店助手.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week2/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Ahmed-Hafez/Week-2/day1.ipynb",
+    "ratio": 0.1,
+    "matched": 1,
+    "cells": 10,
+    "best": "week2/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "solarinayo/第2周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 7,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "FarrasEzra/第2周_伦敦房价GPT.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 7,
+    "best": "week2/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ugomichael33/第2周_API文档问答.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 9,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "D/第2周第1天_三角色对话.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 7,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "joxemi_works/week2/客服回复副驾驶_v2.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 12,
+    "best": "week2/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "NehaBhoi/第2周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "kiharanjoroge/第2周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "bmuk/第2周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 10,
+    "best": "week2/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mani_bojja/第2周第1天实验.ipynb",
+    "ratio": 0.6,
+    "matched": 3,
+    "cells": 5,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "softgeey/第2周练习解答.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 7,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "NehaBhoi/第2周第2天实验.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "minhngoncoding/week2/第4天_工具调用.ipynb",
+    "ratio": 0.8421052631578947,
+    "matched": 16,
+    "cells": 19,
+    "best": "week2/day4_zh.ipynb",
+    "delete": "daylab_overlap_84%_vs_week2/day4_zh.ipynb"
+  },
+  {
+    "path": "gaurav-sha56/第2周第3天练习.ipynb",
+    "ratio": 0.3333333333333333,
+    "matched": 1,
+    "cells": 3,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mani_bojja/第2周第3天_股票信息.ipynb",
+    "ratio": 0.42857142857142855,
+    "matched": 3,
+    "cells": 7,
+    "best": "week2/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "minhngoncoding/week2/第1天_三方聊天机器人.ipynb",
+    "ratio": 0.8269230769230769,
+    "matched": 43,
+    "cells": 52,
+    "best": "week2/day1.ipynb",
+    "delete": "daylab_overlap_83%_vs_week2/day1.ipynb"
+  },
+  {
+    "path": "erybie222/week-2/第2周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 10,
+    "best": "week2/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "spasquier/week2/第2周练习.ipynb",
+    "ratio": 0.1,
+    "matched": 1,
+    "cells": 10,
+    "best": "week2/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ashutosh/Week2/day3.ipynb",
+    "ratio": 0.9523809523809523,
+    "matched": 20,
+    "cells": 21,
+    "best": "week2/day3.ipynb",
+    "delete": "high_overlap_95%_vs_week2/day3.ipynb"
+  },
+  {
+    "path": "kica/第2周解答.ipynb",
+    "ratio": 0.14285714285714285,
+    "matched": 1,
+    "cells": 7,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "muhammad_shahid/第2周练习.ipynb",
+    "ratio": 0.09090909090909091,
+    "matched": 1,
+    "cells": 11,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "steve/第2周作业解答.ipynb",
+    "ratio": 0.09090909090909091,
+    "matched": 1,
+    "cells": 11,
+    "best": "week1/week1 EXERCISE.ipynb",
+    "delete": null
+  },
+  {
+    "path": "wakanda-okkerjohn/第2周练习.ipynb",
+    "ratio": 0.125,
+    "matched": 1,
+    "cells": 8,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "NicholasDean/week2/第2周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 4,
+    "best": "week2/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "minhngoncoding/week2/第2周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week2/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "spasquier/week2/第2天作业.ipynb",
+    "ratio": 0.6,
+    "matched": 6,
+    "cells": 10,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "nancieliu/三方聊天机器人.ipynb",
+    "ratio": 0.2857142857142857,
+    "matched": 2,
+    "cells": 7,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Ahmed-Hafez/Week-2/Day2.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 12,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "abdoul/第2周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ashutosh/Week2/day4.ipynb",
+    "ratio": 0.6666666666666666,
+    "matched": 16,
+    "cells": 24,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "alessandro-fugazza/有状态聊天机器人.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "NehaBhoi/第2周第4天实验.ipynb",
+    "ratio": 0.9166666666666666,
+    "matched": 22,
+    "cells": 24,
+    "best": "week2/day4_zh.ipynb",
+    "delete": "high_overlap_92%_vs_week2/day4_zh.ipynb"
+  },
+  {
+    "path": "ashutosh/Week2/day1.ipynb",
+    "ratio": 0.9130434782608695,
+    "matched": 42,
+    "cells": 46,
+    "best": "week2/day1.ipynb",
+    "delete": "high_overlap_91%_vs_week2/day1.ipynb"
+  },
+  {
+    "path": "mmaitsimwale/第2周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "diljeet/week2/第1天.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 14,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "vnrtumu/第2周第1天_免费OpenRouter.ipynb",
+    "ratio": 0.2,
+    "matched": 1,
+    "cells": 5,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "dhernandezgt/第2周第1天练习.ipynb",
+    "ratio": 0.1111111111111111,
+    "matched": 1,
+    "cells": 9,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "NehaBhoi/第2周票务预订.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 5,
+    "best": "week2/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "oluwatosinjegede/第2周练习.ipynb",
+    "ratio": 0.14285714285714285,
+    "matched": 1,
+    "cells": 7,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "himanshu-ai-engineer/第2周作业.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "simnsh/week2/第1天实验.ipynb",
+    "ratio": 0.09090909090909091,
+    "matched": 1,
+    "cells": 11,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "paleris/w2-d2-荷兰侨民新闻_gradio.ipynb",
+    "ratio": 0.1,
+    "matched": 1,
+    "cells": 10,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "NehaBhoi/第2周第3天实验.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 1,
+    "best": "week2/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Ragab0t/第2周第4天.ipynb",
+    "ratio": 0.75,
+    "matched": 18,
+    "cells": 24,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "victorConqueror/airline_price_detection2/应用.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 4,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "joxemi_works/week2/多模型聊天机器人_第1天.ipynb",
+    "ratio": 0.14285714285714285,
+    "matched": 1,
+    "cells": 7,
+    "best": "week2/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "fbagire/第2周灵感项目.ipynb",
+    "ratio": 0.1,
+    "matched": 1,
+    "cells": 10,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mugisha_caleb_didier/week2/第1天练习_三方AI辩论.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 13,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "denis-mutuma/第2周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 11,
+    "best": "week1/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "joxemi_works/week2/第4天_Pythonista.ipynb",
+    "ratio": 0.18181818181818182,
+    "matched": 2,
+    "cells": 11,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "raheem_yaqub_adesola/AI航空助手.ipynb",
+    "ratio": 0.6111111111111112,
+    "matched": 11,
+    "cells": 18,
+    "best": "week2/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "dng/week2/第1天.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 4,
+    "best": "week1/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "spasquier/week2/第3天作业.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 4,
+    "best": "week5/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Ragab0t/第2周第1天.ipynb",
+    "ratio": 0.8333333333333334,
+    "matched": 35,
+    "cells": 42,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "dhernandezgt/第2周第4天练习.ipynb",
+    "ratio": 0.25,
+    "matched": 2,
+    "cells": 8,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "LLaVA-For-Visually-Impared-People/LLaVA实时字幕生成链_第2周.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 12,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "erybie222/week-2/第1天练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 7,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "spasquier/week2/第1天作业.ipynb",
+    "ratio": 0.2,
+    "matched": 1,
+    "cells": 5,
+    "best": "week2/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "suman_week2/day4/航空公司客服.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 9,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "D/第2周第2天_量子百科问答.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 6,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "minhngoncoding/week5/简历冲浪助手.ipynb",
+    "ratio": 0.3,
+    "matched": 3,
+    "cells": 10,
+    "best": "week5/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "muhammad_qasim_sheikh/Week 5/Day 5/RAG检索增强.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week2/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "spasquier/week5/第5周练习.ipynb",
+    "ratio": 0.5,
+    "matched": 4,
+    "cells": 8,
+    "best": "week5/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "denis-mutuma/第5周练习.ipynb",
+    "ratio": 0.3333333333333333,
+    "matched": 6,
+    "cells": 18,
+    "best": "week5/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "steve/第5周作业解答.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 19,
+    "best": "week5/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "Vagz1216/week5-exercise/第5周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 10,
+    "best": "week5/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "kica/第5周解答.ipynb",
+    "ratio": 0.2222222222222222,
+    "matched": 2,
+    "cells": 9,
+    "best": "week5/day3.ipynb",
+    "delete": null
+  },
+  {
+    "path": "larry/第5周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week2/day4_zh.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mmaitsimwale/第5周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 11,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "samuel_remo/第5周练习.ipynb",
+    "ratio": 0.8484848484848485,
+    "matched": 28,
+    "cells": 33,
+    "best": "week5/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "ugomichael33/第5周_公司知识库RAG.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 8,
+    "best": "week2/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "abdoul/第5周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 14,
+    "best": "week5/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "NicholasDean/week5/第5周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 3,
+    "best": "week5/day1.ipynb",
+    "delete": null
+  },
+  {
+    "path": "softgeey/第5周练习解答.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 11,
+    "best": "week2/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "solarinayo/week5/第5周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 10,
+    "best": "week5/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "sach91-bootcamp/第5周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 4,
+    "best": "week8/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "alexandre-nkurunziza/第5周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 11,
+    "best": "week5/day2.ipynb",
+    "delete": null
+  },
+  {
+    "path": "mideseniordev/week5/第5周练习.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 10,
+    "best": "week5/day5.ipynb",
+    "delete": null
+  },
+  {
+    "path": "muhammad_shahid/第5周.ipynb",
+    "ratio": 0.0,
+    "matched": 0,
+    "cells": 10,
+    "best": "week5/day2.ipynb",
+    "delete": null
+  }
+]

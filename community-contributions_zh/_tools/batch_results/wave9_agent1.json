@@ -1,0 +1,11 @@
+{
+  "agent": "wave9-agent1",
+  "done": [
+    "jayman/week1/第1天练习.ipynb",
+    "jayman/week1/第2天练习.ipynb",
+    "jmanguru/week1/第1周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "jmanguru/week1/第1周练习.ipynb",
+  "notes": "Annotated 3/3: jayman week1 day1 (scraper.py → gpt-4o-mini code explainer); jayman week1 day2 (Anthropic scrape → Ollama OpenAI-compat llama3.2:1b summary); jmanguru week1 weekend (streamed tech Q&A: gpt-4o-mini vs llama3.2:3b via /v1). Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/error prints/identifiers unchanged; outputs/execution_count/metadata/id restored from snapshot; ast.parse + comment-stripped logic compare passed."
+}

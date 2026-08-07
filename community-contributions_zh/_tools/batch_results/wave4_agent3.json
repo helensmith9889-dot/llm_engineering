@@ -1,0 +1,11 @@
+{
+  "agent": "wave4-agent3",
+  "done": [
+    "anadi_sharma_15/day1.ipynb",
+    "ashu/week1/第1周练习1.ipynb",
+    "ashu/week1/解析GeekforGeeks教程.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "ashu/week1/第1周练习1.ipynb",
+  "notes": "Annotated 3/3 notebooks: teaching Chinese markdown (目标/对照表/怎么跑) + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged (incl. prompt-interior # 【注】 in Ollama system prompt). outputs/execution_count/metadata/id verified vs pre-edit snapshot. ast.parse OK; comment-stripped logic compare passed. anadi had no MD cells—teaching intro in first code-cell comments."
+}

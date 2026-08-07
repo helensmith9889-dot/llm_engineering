@@ -1,0 +1,11 @@
+{
+  "agent": "wave2-agent1",
+  "done": [
+    "Gyana/第1周练习_技术问答.ipynb",
+    "JasuTech/第1天.ipynb",
+    "Kalpesh_rajput/第1周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "Gyana/第1周练习_技术问答.ipynb",
+  "notes": "Annotated 3 notebooks: teaching Chinese markdown + near line-by-line code comments; preserved outputs/execution_count/metadata; prompts/model ids/URLs/error strings kept English; ast.parse + comment-stripped logic compare; inserted teaching MD intro for Kalpesh (had no MD cells)."
+}

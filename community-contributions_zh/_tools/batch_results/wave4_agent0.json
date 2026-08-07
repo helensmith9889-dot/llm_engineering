@@ -1,0 +1,11 @@
+{
+  "agent": "wave4-agent0",
+  "done": [
+    "Shield01/Week1/第1周练习.ipynb",
+    "Sylvie/第1周练习.ipynb",
+    "Vagz1216/week1-interactive-exercise/交互式视觉工具.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "Shield01/Week1/第1周练习.ipynb",
+  "notes": "Annotated 3/3 notebooks: teaching Chinese markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count restored from snapshot. ast.parse OK. Failed: none."
+}

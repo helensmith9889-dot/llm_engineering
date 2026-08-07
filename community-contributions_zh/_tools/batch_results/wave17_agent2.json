@@ -1,0 +1,11 @@
+{
+  "agent": "wave17-agent2",
+  "done": [
+    "victorConqueror/podcast_summarizer/播客摘要器.ipynb",
+    "vidit-jain/第1天作业.ipynb",
+    "vimal_ramnarain_week_1/第1天.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "victorConqueror/podcast_summarizer/播客摘要器.ipynb",
+  "notes": "Annotated 3/3. Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers/error strings unchanged; outputs/execution_count/metadata/id preserved; ast/logic-fingerprint OK (pip magic skipped). victor: Whisper pipeline + 4bit Llama podcast summarizer; vidit: Day1 Nike/sneaker site summarizer + email subject-line exercise; vimal: Allrecipes scrape → cooking assistant with air-fryer instructions (gpt-5-nano). No progress.json edit."
+}

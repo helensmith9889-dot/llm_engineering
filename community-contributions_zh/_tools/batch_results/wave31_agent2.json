@@ -1,0 +1,9 @@
+{
+  "agent": "wave31-agent2",
+  "done": [
+    "synthetic-dataset-generator/合成数据生成.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "synthetic-dataset-generator/合成数据生成.ipynb",
+  "notes": "Chinese teaching markdown + near line-by-line # comments on SynthGen Gradio+LLaMA notebook; logic fingerprints unchanged; outputs/execution_count preserved."
+}

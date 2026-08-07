@@ -1,0 +1,11 @@
+{
+  "agent": "wave12-agent2",
+  "done": [
+    "/home/dev/code/llm_engineering/community-contributions_zh/mmaitsimwale/第1周练习.ipynb",
+    "/home/dev/code/llm_engineering/community-contributions_zh/mugisha_caleb_didier/week1/第1周练习.ipynb",
+    "/home/dev/code/llm_engineering/community-contributions_zh/mugisha_caleb_didier/week1/第1天_Playwright爬虫.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "/home/dev/code/llm_engineering/community-contributions_zh/mmaitsimwale/第1周练习.ipynb",
+  "notes": "Annotated 3/3: mmaitsimwale week1 (OpenRouter gpt-4o-mini stream + Groq gpt-oss-120b + SmartLLMClient keyword router); mugisha week1 Chat class (stateful history, ask_stream, Ollama/OpenRouter Gemini); mugisha day1 Playwright async scrape → BeautifulSoup clean → gpt-4.1-mini summary. Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers/error strings unchanged; outputs/execution_count/metadata/id restored from snapshot; ast.parse + comment-stripped logic compare passed. No progress.json edit."
+}

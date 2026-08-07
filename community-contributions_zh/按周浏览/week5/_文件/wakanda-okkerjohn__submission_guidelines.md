@@ -1,0 +1,1 @@
+../../../wakanda-okkerjohn/week-5-RAG-EXERCISE/game-publisher-kb/submission/submission_guidelines.md

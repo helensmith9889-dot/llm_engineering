@@ -1,0 +1,11 @@
+{
+  "agent": "wave4_agent2",
+  "done": [
+    "akhilasaiteja/第1周_宣传册生成器.ipynb",
+    "akhilasaiteja/第1周_技术导师.ipynb",
+    "alexandre-nkurunziza/第1周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "akhilasaiteja/第1周_宣传册生成器.ipynb",
+  "notes": "Teaching-annotate complete for 3 week1 notebooks. Only cell source edited; outputs/execution_count/metadata untouched (alexandre cell1 execution_count=14 preserved). Runnable English kept (prompts, model ids, URLs, print/input strings). Markdown translated/expanded in Chinese teaching style; code cells given line-by-line Chinese # comments (what/why). AST-equivalent to pre-edit code after comment stripping; shell-magic cells (!ollama / !uv) skipped for ast.parse. Empty trailing cells in alexandre left empty."
+}

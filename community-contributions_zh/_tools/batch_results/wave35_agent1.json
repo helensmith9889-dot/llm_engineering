@@ -1,0 +1,11 @@
+{
+  "agent": "wave35-agent1",
+  "done": [
+    "softgeey/第8周练习解答.ipynb",
+    "solarinayo/week8/第8周练习.ipynb",
+    "spasquier/week8/第8周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "spasquier/week8/第8周练习.ipynb",
+  "notes": "All 3 notebooks annotated source-only with near line-by-line Chinese # comments and improved Chinese markdown. Logic/AST checks passed; outputs and execution_count preserved. softgeey is the largest (22 cells, multi-agent job search capstone); spasquier is the smallest dual-agent Rails codegen demo — recommended for review."
+}

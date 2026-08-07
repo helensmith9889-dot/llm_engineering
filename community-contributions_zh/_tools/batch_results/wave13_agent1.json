@@ -1,0 +1,15 @@
+{
+  "agent": "wave13-agent1",
+  "done": [
+    "/home/dev/code/llm_engineering/community-contributions_zh/oluwatosinjegede/第1周练习.ipynb",
+    "/home/dev/code/llm_engineering/community-contributions_zh/omer-gamie/week1/第1周练习.ipynb"
+  ],
+  "failed": [
+    {
+      "path": "/home/dev/code/llm_engineering/community-contributions_zh/ndahan/网页摘要.ipynb",
+      "reason": "empty 0-byte ipynb (upstream community-contributions/ndahan/webpageSummary.ipynb also empty); no cells to annotate"
+    }
+  ],
+  "sample_for_review": "/home/dev/code/llm_engineering/community-contributions_zh/oluwatosinjegede/第1周练习.ipynb",
+  "notes": "Annotated 2/3: oluwatosinjegede week1 tech Q&A (gpt-5-nano stream + update_display; Llama cell stub only); omer-gamie week1 dual-client (gpt-4o-mini streaming + llama3.2 via Ollama /v1). Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/error strings/identifiers unchanged; outputs/execution_count/metadata/id restored from snapshot; ast.parse OK; comment-stripped logic compare passed. Failed: ndahan/网页摘要.ipynb empty 0-byte (upstream also empty). No progress.json edit."
+}

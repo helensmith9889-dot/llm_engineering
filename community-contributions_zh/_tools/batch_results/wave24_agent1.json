@@ -1,0 +1,11 @@
+{
+  "agent": "wave24-agent1",
+  "done": [
+    "spasquier/week2/第3天作业.ipynb",
+    "spasquier/week2/第4天作业.ipynb",
+    "steve/第2周作业解答.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "steve/第2周作业解答.ipynb",
+  "notes": "Annotated 3 notebooks with Chinese teaching markdown + near line-by-line # comments via rewrite script. Preserved outputs/execution_count; AST + comment-stripped logic checks passed. Prompts, model ids, URLs, tool schemas, and Gradio UI strings left unchanged."
+}

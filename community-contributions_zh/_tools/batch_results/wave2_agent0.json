@@ -1,0 +1,9 @@
+{
+  "agent": "wave2-agent0",
+  "done": [
+    "FarrasEzra/第1周_足球比赛综述.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "FarrasEzra/第1周_足球比赛综述.ipynb",
+  "notes": "Large single notebook (13 cells): teaching Chinese markdown expanded (goals/W1 mapping/how-to-run); near line-by-line Chinese # comments on all code cells. Prompts, model ids, URLs, identifiers unchanged. outputs/execution_count restored from pre-edit snapshot (exact match). ast.parse OK on all code cells."
+}

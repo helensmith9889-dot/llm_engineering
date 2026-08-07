@@ -1,0 +1,10 @@
+{
+  "agent": "wave10-agent0",
+  "done": [
+    "jpolonska/第1周练习.ipynb",
+    "juanr_studyHelperDay1/学习助手_第1天.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "jpolonska/第1周练习.ipynb",
+  "notes": "Annotated 2/2 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count preserved. ast.parse OK. Failed: none."
+}

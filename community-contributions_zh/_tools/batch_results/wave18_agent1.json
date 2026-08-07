@@ -1,0 +1,11 @@
+{
+  "agent": "wave18-agent1",
+  "done": [
+    "第1周第2天练习_职位帖分析器.ipynb",
+    "Ahmed-Hafez/Week-2/Day2.ipynb",
+    "Ahmed-Hafez/Week-2/day1.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "Ahmed-Hafez/Week-2/Day2.ipynb",
+  "notes": "Annotated 3/3: job-post analyzer (scraper+Ollama gpt-oss); BookFather Gradio bookstore advisor (pandas filter+stream); multi-agent vacation debate (OpenAI+Ollama llama3.2). Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/print strings/identifiers unchanged; outputs/execution_count/metadata/id preserved; ast.parse OK (shell magic cell skipped). Removed prior boilerplate-only # notes. No progress.json edit."
+}

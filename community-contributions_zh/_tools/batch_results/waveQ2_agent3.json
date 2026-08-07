@@ -1,0 +1,11 @@
+{
+  "agent": "waveQ2-agent3",
+  "done": [
+    "softgeey/第7周练习解答.ipynb",
+    "joxemi_works/week3/安全意识合成问答生成器.ipynb",
+    "larry/第8周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "joxemi_works/week3/安全意识合成问答生成器.ipynb",
+  "notes": "Annotated 3/3: Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged. softgeey has no MD cells—week7 intro in first code-cell comments. outputs/execution_count/metadata/id verified vs pre-edit snap. ast.parse OK; comment/docstring-stripped logic compare passed."
+}

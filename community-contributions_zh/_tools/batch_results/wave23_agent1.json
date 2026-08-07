@@ -1,0 +1,11 @@
+{
+  "agent": "wave23-agent1",
+  "done": [
+    "alexandre-nkurunziza/第3周练习.ipynb",
+    "ashutosh/Week3/第3周练习.ipynb",
+    "bmuk/第3周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "ashutosh/Week3/第3周练习.ipynb",
+  "notes": "Teaching-annotated 3 Week3 synthetic-data notebooks: Chinese near-line comments + markdown; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; AST logic fingerprint OK. ashutosh is the richest sample (planner JSON + tools + Gradio + HF open models)."
+}

@@ -1,0 +1,11 @@
+{
+  "agent": "wave15-agent0",
+  "done": [
+    "sf-patient-brochure/患者宣传册.ipynb",
+    "shabsi4u/Website_brochure_generator/网站宣传册生成器.ipynb",
+    "sharifKiberu/第1周_LLM提示器.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "sharifKiberu/第1周_LLM提示器.ipynb",
+  "notes": "Annotated 3/3: Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments; prompts/model ids/URLs/error strings kept; outputs/execution_count untouched. patient=Thuisarts scrape+cache brochure; shabsi=site brochure+translate+widgets; sharif=OpenRouter stream GPT prompt-engineer + Ollama llama3.2."
+}

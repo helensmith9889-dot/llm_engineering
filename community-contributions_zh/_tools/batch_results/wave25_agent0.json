@@ -1,0 +1,11 @@
+{
+  "agent": "wave25-agent0",
+  "done": [
+    "joxemi_works/week3/本地CPU测试.ipynb",
+    "kica/第3周解答.ipynb",
+    "larry/第3周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "larry/第3周练习.ipynb",
+  "notes": "Teaching-annotated 3/3 week3 notebooks: Chinese near line-by-line # comments + Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ast + comment/docstring-stripped logic compare passed. joxemi 本地CPU测试: HF_TOKEN check, nvidia-smi, transformers sentiment on CPU vs GPU. kica 第3周解答: OpenRouter Gradio ChatInterface seed-data generator with multi-model dropdown. larry 第3周练习: Gradio Blocks interview Q&A dataset generator with JSON extract + Examples. No progress.json edit."
+}

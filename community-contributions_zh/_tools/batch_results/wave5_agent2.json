@@ -1,0 +1,11 @@
+{
+  "agent": "wave5_agent2",
+  "done": [
+    "bmuk/第1周练习.ipynb",
+    "bojan-playwright-scraper/notebooks/deepmind_google_Summary.ipynb",
+    "bojan-playwright-scraper/notebooks/huggingface_co_Summary.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "bmuk/第1周练习.ipynb",
+  "notes": "Teaching-annotate complete for 3 notebooks. Only cell source edited; outputs/execution_count/metadata untouched (all code cells remain execution_count=null with empty outputs). Runnable English kept (prompts, model ids, URLs, print/input strings, api_key placeholder). bmuk: markdown expanded with goals/course mapping/run steps; code cells given line-by-line Chinese # comments; AST-equivalent after comment stripping. Two Playwright Summary notebooks are markdown-only: intro cells expanded in Chinese teaching style; analysis cells translated to Chinese with URL/entity names preserved."
+}

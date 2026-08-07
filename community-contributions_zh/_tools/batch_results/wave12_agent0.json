@@ -1,0 +1,11 @@
+{
+  "agent": "wave12-agent0",
+  "done": [
+    "mideseniordev/week1/第1周练习.ipynb",
+    "mideseniordev/week1/第1天.ipynb",
+    "mideseniordev/week1/第2天.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "mideseniordev/week1/第1周练习.ipynb",
+  "notes": "Teaching-annotated 3 week1 notebooks with Chinese markdown + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged. outputs/execution_count/metadata restored from snapshot. mideseniordev/week1/第1周练习.ipynb: 10 cells annotated; outputs/exec restored; ast OK; logic OK | mideseniordev/week1/第1天.ipynb: 8 cells annotated; outputs/exec restored; ast OK; logic OK | mideseniordev/week1/第2天.ipynb: 10 cells annotated; outputs/exec restored; ast OK; logic OK. No progress.json edit."
+}

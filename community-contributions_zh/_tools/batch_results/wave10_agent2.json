@@ -1,0 +1,11 @@
+{
+  "agent": "wave10-agent2",
+  "done": [
+    "juniardy_setiowidayoga/week1/第1周练习.ipynb",
+    "juniardy_setiowidayoga/week1/第1天练习.ipynb",
+    "juniardy_setiowidayoga/week1/第2天练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "juniardy_setiowidayoga/week1/第1周练习.ipynb",
+  "notes": "Annotated 3/3: juniardy week1 weekend (OpenRouter gpt-4o-mini stream + Ollama llama3.2:1b code explainer); day1 (scraper → OpenRouter gpt-4.1-mini snarky site summary); day2 (same pipeline on local Ollama llama3.2:1b). Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/error prints/identifiers unchanged; outputs/execution_count/metadata/id restored from snapshot; ast.parse + comment-stripped logic compare passed. No progress.json edit."
+}

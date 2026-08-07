@@ -1,0 +1,11 @@
+{
+  "agent": "wave1-agent0",
+  "done": [
+    "JonasThamane_第1周_PR评估.ipynb",
+    "Nithya_第1天_JIRA摘要.ipynb",
+    "P_ANIL_KUMAR_Ollama泰卢固语摘要.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "JonasThamane_第1周_PR评估.ipynb",
+  "notes": "Three notebooks annotated: teaching Chinese markdown + near line-by-line code comments; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved (all empty). Nithya fixed broken MT HTML (</表>, style attrs) and aligned with day1_zh teaching tone; filename mentions JIRA but body is Day1 summarizer + stub exercise."
+}

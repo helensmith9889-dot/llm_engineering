@@ -1,0 +1,11 @@
+{
+  "agent": "wave19-agent0",
+  "done": [
+    "NehaBhoi/第2周第2天实验.ipynb",
+    "NehaBhoi/第2周第3天实验.ipynb",
+    "NehaBhoi/第2周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "NehaBhoi/第2周第2天实验.ipynb",
+  "notes": "Annotated 3 NehaBhoi Week2 notebooks: Day2 Ollama+Gradio brochure generator (scraper+llama/phi streams), Day3 electronics-store ChatInterface with dynamic charger upsell in system prompt, Week2 exercise Blocks chatbot with history State and model dropdown. Only cell sources edited; outputs/execution_count untouched; prompts/model ids/URLs preserved; Chinese teaching markdown + near line-by-line # comments; ast.parse OK."
+}

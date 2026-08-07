@@ -1,0 +1,11 @@
+{
+  "agent": "wave17-agent1",
+  "done": [
+    "unnamedxaer/第1周第1天_英语时态老师.ipynb",
+    "vamsisaigarapati/第1周练习.ipynb",
+    "vanshika-mahajan/时尚网页摘要.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "unnamedxaer/第1周第1天_英语时态老师.ipynb",
+  "notes": "Annotated 3/3: unnamedxaer English-tense teacher pipeline (generate→simulate translate→validate); vamsisaigarapati DeepSeek+Ollama streaming tech explainer; vanshika-mahajan Ollama fashion/entertainment page summary scraper. Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/print troubleshooting strings/identifiers unchanged; outputs/execution_count/metadata/id preserved; ast.parse OK. No progress.json edit."
+}

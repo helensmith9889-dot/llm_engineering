@@ -1,0 +1,12 @@
+{
+  "agent": "wave34-agent1",
+  "done": [
+    "victorConqueror/week7_finetuning/notebooks/04_评估.ipynb",
+    "wakanda-okkerjohn/第7周练习.ipynb"
+  ],
+  "failed": [
+    "victorConqueror/week7_finetuning/notebooks/03_QLoRA训练.ipynb"
+  ],
+  "sample_for_review": "wakanda-okkerjohn/第7周练习.ipynb",
+  "notes": "Annotated 2/3. 03_QLoRA训练.ipynb is 0-byte empty (not valid JSON); sibling 03_Colab微调.ipynb already holds the QLoRA/Colab training flow and was not in this batch. 04_评估 + wakanda: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; ast.parse + comment-stripped logic compare passed."
+}

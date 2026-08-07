@@ -1,0 +1,11 @@
+{
+  "agent": "wave22-agent0",
+  "done": [
+    "muhammad_qasim_sheikh/Week 2/day 5/第5天_多模态助手.ipynb",
+    "muhammad_shahid/第2周练习.ipynb",
+    "multi-agent_gui_with_gradio/智能体语音文本客服.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "muhammad_shahid/第2周练习.ipynb",
+  "notes": "Annotated 3 notebooks via rewrite script: (1) Nova multimodal Gradio support assistant (SQLite tickets + intent routing + streaming chat + gpt-4o-mini-tts); (2) Week2 NL→SQL prototype (multi-provider OpenAI-compatible clients, system prompt, streaming, tool execute_sql_query on sql_demo.db, Whisper/TTS Gradio Blocks); (3) multi-LLM Gradio voice/text chatbot (sounddevice+speech_recognition, LLMHandler routing gpt/claude/ollama, memory toggle). Only cell sources edited; outputs/execution_count/metadata untouched; prompts/model ids/URLs preserved; Chinese teaching markdown + near line-by-line # comments; ast.parse OK; stripped-AST logic match vs pre-annotation snapshots."
+}

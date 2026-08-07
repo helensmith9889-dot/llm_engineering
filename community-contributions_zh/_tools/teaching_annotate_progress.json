@@ -1,0 +1,3649 @@
+{
+  "updated_at": "2026-08-07T07:26:06.136629+00:00",
+  "rules": "teaching_annotate_STYLE.md",
+  "pilot": "abdoul/第1周练习.ipynb",
+  "counts": {
+    "done": 423,
+    "pending": 0,
+    "in_progress": 0,
+    "failed": 0,
+    "skipped": 35,
+    "total": 458
+  },
+  "order": [
+    "JonasThamane_第1周_PR评估.ipynb",
+    "Nithya_第1天_JIRA摘要.ipynb",
+    "P_ANIL_KUMAR_Ollama泰卢固语摘要.ipynb",
+    "Vadiraj_第1天_playwright网页抓取.ipynb",
+    "Arjav014/Website_Summarizer/main.ipynb",
+    "CodeMaestroMS/擎天柱网站摘要器.ipynb",
+    "D/第1周第1天_网站摘要.ipynb",
+    "D/第1周练习.ipynb",
+    "Devika/每日新闻摘要器.ipynb",
+    "Dharma/伟大建筑与宣传册生成.ipynb",
+    "Emil/Week1/第1周练习_开发错误助手.ipynb",
+    "FarrasEzra/第1周_足球比赛综述.ipynb",
+    "Gyana/第1周练习_技术问答.ipynb",
+    "JasuTech/第1天.ipynb",
+    "Kalpesh_rajput/第1周练习.ipynb",
+    "Khaldoon-Ziad-Saqallah/使用Selenium抓取.ipynb",
+    "LKikwei/week1/第1周周末练习.ipynb",
+    "LKikwei/week1/第1周第2天_Ollama.ipynb",
+    "LLaVA-For-Visually-Impared-People/LLaVA图像描述_第1周.ipynb",
+    "Manideep-codes/第1天.ipynb",
+    "Mesoj8/week1/day1/第1天.ipynb",
+    "Muhammad_Bilal/Week1/Day2_excecise/练习.ipynb",
+    "NehaBhoi/第1周业务方案.ipynb",
+    "NehaBhoi/第1周第2天实验.ipynb",
+    "NehaBhoi/第1周练习.ipynb",
+    "NicholasDean/week1/第1周练习.ipynb",
+    "Nikhil/week1/实验1解答.ipynb",
+    "Prashanth/Week 1/day1_测试_ollama.ipynb",
+    "Prashanth/Week 1/day2_本地ollama.ipynb",
+    "Prashanth/Week 1/第1周我的解答.ipynb",
+    "Saransh_End_of_Week1/第1周练习.ipynb",
+    "Shafiq_Ur_Rehman/网站摘要器.ipynb",
+    "Shield01/Week1/第1周第2天练习.ipynb",
+    "Shield01/Week1/第1周练习.ipynb",
+    "Sylvie/第1周练习.ipynb",
+    "Vagz1216/week1-interactive-exercise/交互式视觉工具.ipynb",
+    "abdoul/第1周练习.ipynb",
+    "adeyemi-kayode/第1周练习.ipynb",
+    "aditya-soni-contributions/第1周第2天.ipynb",
+    "ahmed_sohail/day1.ipynb",
+    "akhilasaiteja/第1周_宣传册生成器.ipynb",
+    "akhilasaiteja/第1周_技术导师.ipynb",
+    "alexandre-nkurunziza/第1周练习.ipynb",
+    "anadi_sharma_15/day1.ipynb",
+    "ashu/week1/第1周练习1.ipynb",
+    "ashu/week1/解析GeekforGeeks教程.ipynb",
+    "ashutosh/Week1/第1周练习.ipynb",
+    "azam/week-1/day1.ipynb",
+    "azam/week-1/day2.ipynb",
+    "biomedical-article-summariser/文章摘要器.ipynb",
+    "bishara-selenium-fix/第1天_Selenium爬虫.ipynb",
+    "bjayzee_week1/第1周作业.ipynb",
+    "bmuk/第1周练习.ipynb",
+    "bojan-playwright-scraper/notebooks/deepmind_google_Summary.ipynb",
+    "bojan-playwright-scraper/notebooks/huggingface_co_Summary.ipynb",
+    "bojan-playwright-scraper/notebooks/runwayml_com_Summary.ipynb",
+    "bojan-playwright-scraper/notebooks/www_anthropic_com_Summary.ipynb",
+    "brandon_lopez/第1天_Brandon示例.ipynb",
+    "brunodietrich/第1周_个性化技术导师.ipynb",
+    "carl-grp/第1周第2天作业.ipynb",
+    "carl-grp/第1周练习.ipynb",
+    "cma/第1周练习.ipynb",
+    "damien_sa/week1/第1周练习.ipynb",
+    "damien_sa/week1/第5天_企业宣传册.ipynb",
+    "daniel-edim/网页摘要.ipynb",
+    "day1_Anthropic版_krispatel.ipynb",
+    "day1_Groq版.ipynb",
+    "day1_Ollama测试.ipynb",
+    "day1_Playwright网页抓取.ipynb",
+    "day1_产品对比_OpenAI与Ollama.ipynb",
+    "day1_社区版_网站摘要.ipynb",
+    "day1_高中经济学老师.ipynb",
+    "day2_Ollama开源模型.ipynb",
+    "day2_Ollama测试.ipynb",
+    "day5-compound-llm-calls/企业宣传册.ipynb",
+    "deepanshu-gaur/day1_博客摘要转LinkedIn帖子.ipynb",
+    "denis-mutuma/第1周练习.ipynb",
+    "divinebuddha/网站摘要.ipynb",
+    "dubala_lee/金融网页抓取器.ipynb",
+    "earljonas/第1周_职位帖分析.ipynb",
+    "earljonas/Week1/第1天_职位帖分析.ipynb",
+    "earljonas/Week1/第2天_本地模型职位分析.ipynb",
+    "emilyohnavarro/第1天_简历摘要器.ipynb",
+    "emmelie/第1周第1天_网站摘要器.ipynb",
+    "erybie222/week-1/第1周练习_技术问答.ipynb",
+    "erybie222/week-1/第2天作业.ipynb",
+    "eyosiyas/第1周练习_商业洞察讲解器.ipynb",
+    "fbrynmghni/第1天_课堂资产项目.ipynb",
+    "franzonia137/第2天_本地Ollama网页摘要.ipynb",
+    "gaurav-sha56/第1天练习1.ipynb",
+    "gaurisankar/普京演讲摘要示例.ipynb",
+    "global-market-news-summarizer/第1天作业_全球市场新闻摘要.ipynb",
+    "gonzalo_benito/第1周练习_技术问答助手.ipynb",
+    "gurender/第1周第1天_飞机性能对比.ipynb",
+    "ikemCodedIt/week 1/股票分析器.ipynb",
+    "jaden_anthony/第1周第2天作业.ipynb",
+    "jayman/week1/第1周练习.ipynb",
+    "jayman/week1/第1天练习.ipynb",
+    "jayman/week1/第2天练习.ipynb",
+    "jmanguru/week1/第1周练习.ipynb",
+    "jmanguru/week1/第1天.ipynb",
+    "joxemi_works/week1/Selenium网页抓取.ipynb",
+    "joxemi_works/week1/生成式GPT树.ipynb",
+    "joxemi_works/week1/第1周_LLM对比测试与评判器_v2.ipynb",
+    "jp/第1周第1天.ipynb",
+    "jp/第1周第2天.ipynb",
+    "jpolonska/第1周练习.ipynb",
+    "juanr_studyHelperDay1/学习助手_第1天.ipynb",
+    "juanr_youtubeVideoSummarizerDay2/YouTube视频摘要_第2天.ipynb",
+    "juanr_youtubeVideosSummarizerDay2/YouTube视频摘要_第2天.ipynb",
+    "juniardy_setiowidayoga/week1/第1周练习.ipynb",
+    "juniardy_setiowidayoga/week1/第1天练习.ipynb",
+    "juniardy_setiowidayoga/week1/第2天练习.ipynb",
+    "kaiyuwei/week1/第2天练习.ipynb",
+    "karam_sayed/paper-summarizer/论文摘要器.ipynb",
+    "keinda/week1/day1/邮件更正模型.ipynb",
+    "keshav_awasthi/Day 1/第1天_残酷真相.ipynb",
+    "kica/第1周解答.ipynb",
+    "kiharanjoroge/第1周练习.ipynb",
+    "larry/第1周练习.ipynb",
+    "lukas/week1/DND角色刻画.ipynb",
+    "madhurashinde/第1天_邮件主题行.ipynb",
+    "mani_bojja/第1周练习.ipynb",
+    "mani_bojja/第1周练习1.ipynb",
+    "mani_bojja/第1周练习2.ipynb",
+    "manish_tiwari/第1周练习解答.ipynb",
+    "mariam_janati_第1天_API示例.ipynb",
+    "meeting_summarizer/会议摘要器.ipynb",
+    "mideseniordev/week1/第1周练习.ipynb",
+    "mideseniordev/week1/第1天.ipynb",
+    "mideseniordev/week1/第2天.ipynb",
+    "mideseniordev/week1/第5天.ipynb",
+    "minhngoncoding/week1/第1周练习.ipynb",
+    "mjfrancoo/第1天.ipynb",
+    "mmaitsimwale/第1周练习.ipynb",
+    "mugisha_caleb_didier/week1/第1周练习.ipynb",
+    "mugisha_caleb_didier/week1/第1天_Playwright爬虫.ipynb",
+    "muhammad_mahmood/week_1/第1周练习.ipynb",
+    "muhammad_qasim_sheikh/Week 1/Day 5/宣传册生成.ipynb",
+    "muhammad_shahid/第1周练习.ipynb",
+    "najeeb/第1周解答.ipynb",
+    "nate-lev/week1/第1天_歌词创作.ipynb",
+    "nate-lev/week1/第2天作业.ipynb",
+    "ndahan/网页摘要.ipynb",
+    "oluwatosinjegede/第1周练习.ipynb",
+    "omer-gamie/week1/第1周练习.ipynb",
+    "omer-gamie/week1/第2天练习.ipynb",
+    "orthogonal/day1-YouTube视频摘要.ipynb",
+    "pacov/W1_第1天练习.ipynb",
+    "padmaja/day1/Google_API.ipynb",
+    "peter-retro/day1.ipynb",
+    "playwright-bojan/Playwright方案_Jupyter异步.ipynb",
+    "playwright-bojan/Playwright方案_格式化展示.ipynb",
+    "playwright-enhanced-scraper/增强网页爬虫.ipynb",
+    "pradeep1955/第1周练习.ipynb",
+    "pradeep1955/week1/第2天练习.ipynb",
+    "pranav_jain/week1/邮件主题生成器.ipynb",
+    "rexdavinci/week1/练习.ipynb",
+    "ronnyp/第1周第2天.ipynb",
+    "ruipinto/week1/第1周第1天_体育数据.ipynb",
+    "ruipinto/week1/第1周第2天_开源模型.ipynb",
+    "ruipinto/week1/第1周第5天练习.ipynb",
+    "sach91-bootcamp/第1周练习.ipynb",
+    "sanjana_madupoju/第1周练习.ipynb",
+    "selenium_丝芙兰美妆顾问.ipynb",
+    "sf-patient-brochure/患者宣传册.ipynb",
+    "shabsi4u/Website_brochure_generator/网站宣传册生成器.ipynb",
+    "sharifKiberu/第1周_LLM提示器.ipynb",
+    "shiva-week1project/第1天练习.ipynb",
+    "shivam/第1周练习.ipynb",
+    "simnsh/week1/第1周练习.ipynb",
+    "simnsh/week1/第1天实验.ipynb",
+    "simnsh/week1/第2天实验.ipynb",
+    "sneha/week1/用playwright与anthropic总结网站.ipynb",
+    "softgeey/第1周练习解答.ipynb",
+    "solarinayo/第1周练习.ipynb",
+    "soni_gh_(2jyo7)/第1天_ollama.ipynb",
+    "spasquier/week1/第1周练习.ipynb",
+    "spasquier/week1/第1天作业.ipynb",
+    "spasquier/week1/第2天作业.ipynb",
+    "spasquier/week1/第5天挑战.ipynb",
+    "steph_moyo/week_1/第1天.ipynb",
+    "steph_moyo/week_1/第2周第1天_自闭症四角色对话.ipynb",
+    "steve/第1周作业解答.ipynb",
+    "steve/第1周第1天任务.ipynb",
+    "steve/第1周第2天任务.ipynb",
+    "suman_day5/宣传册生成器.ipynb",
+    "taktaiev/Week1/第1周探索.ipynb",
+    "tarun/第1天任务.ipynb",
+    "tigeress/第1周练习.ipynb",
+    "tigeress/第1天邮件项目.ipynb",
+    "ugomichael33/第1周_解释堆栈跟踪.ipynb",
+    "unnamedxaer/第1周第1天_英语时态老师.ipynb",
+    "vamsisaigarapati/第1周练习.ipynb",
+    "vanshika-mahajan/时尚网页摘要.ipynb",
+    "victorConqueror/podcast_summarizer/播客摘要器.ipynb",
+    "vidit-jain/第1天作业.ipynb",
+    "vimal_ramnarain_week_1/第1天.ipynb",
+    "vireshh22/第1天.ipynb",
+    "vkovalenk0/week1/第2天.ipynb",
+    "vlalez/第1周练习.ipynb",
+    "vlalez/第1天.ipynb",
+    "wakanda-okkerjohn/第1周练习.ipynb",
+    "研究论文摘要器.ipynb",
+    "第1周第2天练习_职位帖分析器.ipynb",
+    "Ahmed-Hafez/Week-2/Day2.ipynb",
+    "Ahmed-Hafez/Week-2/day1.ipynb",
+    "D/第2周第1天_三角色对话.ipynb",
+    "D/第2周第2天_量子百科问答.ipynb",
+    "D/第2周第3天_樟宜免税店助手.ipynb",
+    "FarrasEzra/第2周_伦敦房价GPT.ipynb",
+    "LLaVA-For-Visually-Impared-People/LLaVA实时字幕生成链_第2周.ipynb",
+    "NehaBhoi/第2周票务预订.ipynb",
+    "NehaBhoi/第2周第1天实验.ipynb",
+    "NehaBhoi/第2周第2天实验.ipynb",
+    "NehaBhoi/第2周第3天实验.ipynb",
+    "NehaBhoi/第2周练习.ipynb",
+    "NicholasDean/week2/第2周练习.ipynb",
+    "Ragab0t/第2周第1天.ipynb",
+    "Ragab0t/第2周第4天.ipynb",
+    "Vagz1216/week2-exercise/第2周练习.ipynb",
+    "abdoul/第2周练习.ipynb",
+    "alessandro-fugazza/有状态聊天机器人.ipynb",
+    "alexandre-nkurunziza/第2周练习.ipynb",
+    "ashutosh/Week2/day4.ipynb",
+    "ashutosh/Week2/第2周练习.ipynb",
+    "bmuk/第2周练习.ipynb",
+    "denis-mutuma/第2周练习.ipynb",
+    "dhernandezgt/第2周第1天练习.ipynb",
+    "dhernandezgt/第2周第4天练习.ipynb",
+    "diljeet/week2/第1天.ipynb",
+    "dng/week2/第1天.ipynb",
+    "erybie222/week-2/第1天练习.ipynb",
+    "erybie222/week-2/第2周练习.ipynb",
+    "fbagire/第2周灵感项目.ipynb",
+    "gaurav-sha56/第2周第3天练习.ipynb",
+    "himanshu-ai-engineer/第2周作业.ipynb",
+    "joxemi_works/week2/多模型聊天机器人_第1天.ipynb",
+    "joxemi_works/week2/客服回复副驾驶_v2.ipynb",
+    "joxemi_works/week2/第4天_Pythonista.ipynb",
+    "kica/第2周解答.ipynb",
+    "kiharanjoroge/第2周练习.ipynb",
+    "larry/第2周练习.ipynb",
+    "lukas/week2/会说话的英雄_类版.ipynb",
+    "mani_bojja/第2周第1天实验.ipynb",
+    "mani_bojja/第2周第3天_股票信息.ipynb",
+    "minhngoncoding/week2/第1天_三方聊天机器人.ipynb",
+    "minhngoncoding/week2/第2周练习.ipynb",
+    "minhngoncoding/week2/第4天_工具调用.ipynb",
+    "mmaitsimwale/第2周练习.ipynb",
+    "mugisha_caleb_didier/week2/第1天练习_三方AI辩论.ipynb",
+    "mugisha_caleb_didier/week2/第2周练习.ipynb",
+    "muhammad_qasim_sheikh/Week 2/day 5/第5天_多模态助手.ipynb",
+    "muhammad_shahid/第2周练习.ipynb",
+    "multi-agent_gui_with_gradio/智能体语音文本客服.ipynb",
+    "nancieliu/三方聊天机器人.ipynb",
+    "oluwatosinjegede/第2周练习.ipynb",
+    "paleris/w2-d2-荷兰侨民新闻_gradio.ipynb",
+    "pradeep1955/week2/智能体对话_莎士比亚.ipynb",
+    "raheem_yaqub_adesola/AI航空助手.ipynb",
+    "sach91-bootcamp/第2周练习.ipynb",
+    "simnsh/week2/第1天实验.ipynb",
+    "softgeey/第2周练习解答.ipynb",
+    "solarinayo/第2周练习.ipynb",
+    "spasquier/week2/第1天作业.ipynb",
+    "spasquier/week2/第2周练习.ipynb",
+    "spasquier/week2/第2天作业.ipynb",
+    "spasquier/week2/第3天作业.ipynb",
+    "spasquier/week2/第4天作业.ipynb",
+    "steve/第2周作业解答.ipynb",
+    "suman_week2/day4/航空公司客服.ipynb",
+    "ugomichael33/第2周_API文档问答.ipynb",
+    "victorConqueror/airline_price_detection2/应用.ipynb",
+    "vnrtumu/第2周第1天_免费OpenRouter.ipynb",
+    "wakanda-okkerjohn/第2周练习.ipynb",
+    "Cosmus第3周练习_合成数据集生成器.ipynb",
+    "NehaBhoi/第3周练习.ipynb",
+    "NicholasDean/week3/第3周练习.ipynb",
+    "Vagz1216/week3-exercise/第3周练习.ipynb",
+    "abdoul/第3周练习.ipynb",
+    "alexandre-nkurunziza/第3周练习.ipynb",
+    "ashutosh/Week3/第3周练习.ipynb",
+    "bmuk/第3周练习.ipynb",
+    "denis-mutuma/第3周练习.ipynb",
+    "dhernandezgt/第3周练习.ipynb",
+    "dng/week3/课程生成器.ipynb",
+    "erybie222/week-3/第3周作业.ipynb",
+    "joxemi_works/week3/安全意识合成问答生成器.ipynb",
+    "joxemi_works/week3/本地CPU测试.ipynb",
+    "kica/第3周解答.ipynb",
+    "larry/第3周练习.ipynb",
+    "mideseniordev/week3/第3周练习.ipynb",
+    "minhngoncoding/week3/合成数据集生成.ipynb",
+    "minhngoncoding/week3/第5天_会议智能体.ipynb",
+    "mmaitsimwale/第3周练习.ipynb",
+    "muhammad_qasim_sheikh/Week 3/Day 5/合成数据生成器.ipynb",
+    "muhammad_shahid/第3周.ipynb",
+    "sach91-bootcamp/第3周练习.ipynb",
+    "samuel_remo/第3周练习_调用HuggingFace开源模型.ipynb",
+    "shabsi4u/synthetic-data-generator/合成数据生成器_colab.ipynb",
+    "softgeey/第3周练习解答.ipynb",
+    "solarinayo/week3/第3周练习.ipynb",
+    "spasquier/week3/第3周练习.ipynb",
+    "steve/第3周作业解答.ipynb",
+    "ugomichael33/第3周_分词器与提示预算.ipynb",
+    "victorConqueror/week7_finetuning/notebooks/03_Colab微调.ipynb",
+    "wakanda-okkerjohn/第3周练习.ipynb",
+    "NicholasDean/week4/第4周练习.ipynb",
+    "Vagz1216/week4-exercise/第4周练习.ipynb",
+    "abdoul/第4周练习.ipynb",
+    "alexandre-nkurunziza/第4周练习.ipynb",
+    "ashutosh/Week4/第4周练习.ipynb",
+    "bmuk/第4周练习.ipynb",
+    "denis-mutuma/第4周练习.ipynb",
+    "joxemi_works/week4/上传笔记本文档化.ipynb",
+    "joxemi_works/week4/上传笔记本文档化_基准测试.ipynb",
+    "kica/第4周解答.ipynb",
+    "larry/第4周练习.ipynb",
+    "mideseniordev/week4/第4周练习.ipynb",
+    "mugisha_caleb_didier/week4/OpenRouter笔记本转换器.ipynb",
+    "muhammad_qasim_sheikh/Week 4/Day 5/模型性能检查.ipynb",
+    "muhammad_shahid/第4周练习.ipynb",
+    "sach91-bootcamp/第4周练习.ipynb",
+    "samuel_remo/week4/第4周练习.ipynb",
+    "softgeey/第4周练习解答.ipynb",
+    "solarinayo/week4/第4周练习.ipynb",
+    "spasquier/week4/第4周练习.ipynb",
+    "steve/第4周作业解答.ipynb",
+    "uchebuzz/第4周_Python转C++转换器.ipynb",
+    "ugomichael33/第4周_Python转C++优化器.ipynb",
+    "NicholasDean/week5/第5周练习.ipynb",
+    "Vagz1216/week5-exercise/第5周练习.ipynb",
+    "abdoul/第5周练习.ipynb",
+    "alexandre-nkurunziza/第5周练习.ipynb",
+    "denis-mutuma/第5周练习.ipynb",
+    "kica/第5周解答.ipynb",
+    "larry/第5周练习.ipynb",
+    "mideseniordev/week5/第5周练习.ipynb",
+    "minhngoncoding/week5/简历冲浪助手.ipynb",
+    "mmaitsimwale/第5周练习.ipynb",
+    "muhammad_qasim_sheikh/Week 5/Day 5/RAG检索增强.ipynb",
+    "muhammad_shahid/第5周.ipynb",
+    "sach91-bootcamp/第5周练习.ipynb",
+    "samuel_remo/第5周练习.ipynb",
+    "softgeey/第5周练习解答.ipynb",
+    "solarinayo/week5/第5周练习.ipynb",
+    "spasquier/week5/第5周练习.ipynb",
+    "steve/第5周作业解答.ipynb",
+    "ugomichael33/第5周_公司知识库RAG.ipynb",
+    "NicholasDean/week6/第6周练习.ipynb",
+    "Vagz1216/week6-exercise/第6周练习.ipynb",
+    "abdoul/第6周练习.ipynb",
+    "alexandre-nkurunziza/第6周练习.ipynb",
+    "dng/week6/供应链.ipynb",
+    "eliza_zadura/synthetic_data_generator/REST用JSON.ipynb",
+    "kica/第6周解答.ipynb",
+    "larry/第6周练习.ipynb",
+    "mideseniordev/week6/第6周练习.ipynb",
+    "mmaitsimwale/第6周练习.ipynb",
+    "mugisha_caleb_didier/week6/第6周练习.ipynb",
+    "muhammad_qasim_sheikh/Week 6/Day 5/微调改进前沿模型.ipynb",
+    "muhammad_shahid/第6周.ipynb",
+    "sach91-bootcamp/第6周练习.ipynb",
+    "samuel_remo/第6周练习.ipynb",
+    "softgeey/第6周练习解答.ipynb",
+    "solarinayo/week6/第6周练习.ipynb",
+    "spasquier/week6/第6周练习.ipynb",
+    "steve/第6周作业解答.ipynb",
+    "synthetic-dataset-generator/合成数据生成.ipynb",
+    "ugomichael33/第6周_价格基线误差分析.ipynb",
+    "ugomichael33/第7周_置信度感知定价.ipynb",
+    "ugomichael33/第8周_智能体交易定价.ipynb",
+    "wakanda-okkerjohn/第6周练习.ipynb",
+    "合成数据生成器_PT.ipynb",
+    "NicholasDean/week7/第7周练习.ipynb",
+    "Vagz1216/week7-exercise/第7周练习.ipynb",
+    "abdoul/第7周练习.ipynb",
+    "alexandre-nkurunziza/第7周练习.ipynb",
+    "bmuk/第7周练习.ipynb",
+    "denis-mutuma/第7周练习_训练.ipynb",
+    "denis-mutuma/第7周练习_评估.ipynb",
+    "dng/week7/合适价格.ipynb",
+    "kica/第7周解答.ipynb",
+    "larry/第7周练习.ipynb",
+    "mideseniordev/week7/第7周练习.ipynb",
+    "mrpeski/第7周练习.ipynb",
+    "mugisha_caleb_didier/week7/第7周练习.ipynb",
+    "muhammad_qasim_sheikh/Week 7/微调开源模型.ipynb",
+    "muhammad_shahid/第7周.ipynb",
+    "sach91-bootcamp/第7周练习.ipynb",
+    "samuel_remo/第7周_微调模型测试.ipynb",
+    "softgeey/第7周练习解答.ipynb",
+    "solarinayo/week7/第7周练习.ipynb",
+    "spasquier/week7/第7周练习.ipynb",
+    "steve/第7周作业解答.ipynb",
+    "victorConqueror/week7_finetuning/notebooks/01_数据准备.ipynb",
+    "victorConqueror/week7_finetuning/notebooks/02_基座模型测试.ipynb",
+    "victorConqueror/week7_finetuning/notebooks/02_基线模型.ipynb",
+    "victorConqueror/week7_finetuning/notebooks/03_QLoRA训练.ipynb",
+    "victorConqueror/week7_finetuning/notebooks/04_评估.ipynb",
+    "wakanda-okkerjohn/第7周练习.ipynb",
+    "NicholasDean/week8/第8周练习.ipynb",
+    "Vagz1216/week8-exercise/第8周练习.ipynb",
+    "abdoul/第8周练习.ipynb",
+    "alexandre-nkurunziza/第8周练习.ipynb",
+    "denis-mutuma/第8周练习.ipynb",
+    "kica/第8周解答.ipynb",
+    "larry/第8周练习.ipynb",
+    "mideseniordev/week8/第8周练习.ipynb",
+    "mrpeski/week_eight_exercise/第8周练习.ipynb",
+    "muhammad_qasim_sheikh/Week 8/集成模型.ipynb",
+    "softgeey/第8周练习解答.ipynb",
+    "solarinayo/week8/第8周练习.ipynb",
+    "spasquier/week8/第8周练习.ipynb",
+    "steve/第8周作业解答.ipynb",
+    "书店助手.ipynb",
+    "代码讲解助手_psu.ipynb",
+    "商业.ipynb",
+    "市场调研智能体.ipynb",
+    "梵语翻译.ipynb",
+    "用llama3.2总结作品集网站.ipynb",
+    "电视剧推荐器.ipynb",
+    "营销手册生成.ipynb",
+    "诊所预约机器人.ipynb",
+    "预算旅行助手.ipynb",
+    "Suyash/python_teacher/Python老师.ipynb"
+  ],
+  "files": {
+    "JonasThamane_第1周_PR评估.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave1-agent0",
+      "note": "Three notebooks annotated: teaching Chinese markdown + near line-by-line code comments; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved (all empty). Nithya fixed broken",
+      "bytes": 4756
+    },
+    "Nithya_第1天_JIRA摘要.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave1-agent0",
+      "note": "Three notebooks annotated: teaching Chinese markdown + near line-by-line code comments; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved (all empty). Nithya fixed broken",
+      "bytes": 22690
+    },
+    "P_ANIL_KUMAR_Ollama泰卢固语摘要.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave1-agent0",
+      "note": "Three notebooks annotated: teaching Chinese markdown + near line-by-line code comments; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved (all empty). Nithya fixed broken",
+      "bytes": 4322
+    },
+    "Vadiraj_第1天_playwright网页抓取.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave1-agent1",
+      "note": "Annotated 3 notebooks: full teaching Chinese markdown + near line-by-line code comments; preserved outputs/execution_count; prompts/model ids/URLs kept English; ast.parse checked per code cell (await ",
+      "bytes": 31072
+    },
+    "Arjav014/Website_Summarizer/main.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave1-agent1",
+      "note": "Annotated 3 notebooks: full teaching Chinese markdown + near line-by-line code comments; preserved outputs/execution_count; prompts/model ids/URLs kept English; ast.parse checked per code cell (await ",
+      "bytes": 2876
+    },
+    "CodeMaestroMS/擎天柱网站摘要器.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave1-agent1",
+      "note": "Annotated 3 notebooks: full teaching Chinese markdown + near line-by-line code comments; preserved outputs/execution_count; prompts/model ids/URLs kept English; ast.parse checked per code cell (await ",
+      "bytes": 3313
+    },
+    "D/第1周第1天_网站摘要.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave1-agent2",
+      "note": "Deepened near-line-by-line teaching Chinese comments; expanded Devika markdown to full teaching intro (目标/对照表/怎么跑). Prompts, model ids, URLs, identifiers unchanged. outputs/execution_count verified id",
+      "bytes": 12504
+    },
+    "D/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave1-agent2",
+      "note": "Deepened near-line-by-line teaching Chinese comments; expanded Devika markdown to full teaching intro (目标/对照表/怎么跑). Prompts, model ids, URLs, identifiers unchanged. outputs/execution_count verified id",
+      "bytes": 8950
+    },
+    "Devika/每日新闻摘要器.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave1-agent2",
+      "note": "Deepened near-line-by-line teaching Chinese comments; expanded Devika markdown to full teaching intro (目标/对照表/怎么跑). Prompts, model ids, URLs, identifiers unchanged. outputs/execution_count verified id",
+      "bytes": 4836
+    },
+    "Dharma/伟大建筑与宣传册生成.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave1-agent3",
+      "note": "Both notebooks annotated: teaching Chinese markdown + near line-by-line code comments; prompts/model ids/URLs/Gradio labels kept English; outputs/execution_count preserved (all code cells had 0 output",
+      "bytes": 11484
+    },
+    "Emil/Week1/第1周练习_开发错误助手.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave1-agent3",
+      "note": "Both notebooks annotated: teaching Chinese markdown + near line-by-line code comments; prompts/model ids/URLs/Gradio labels kept English; outputs/execution_count preserved (all code cells had 0 output",
+      "bytes": 3953
+    },
+    "FarrasEzra/第1周_足球比赛综述.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave2-agent0",
+      "note": "Large single notebook (13 cells): teaching Chinese markdown expanded (goals/W1 mapping/how-to-run); near line-by-line Chinese # comments on all code cells. Prompts, model ids, URLs, identifiers unchan",
+      "bytes": 245936
+    },
+    "Gyana/第1周练习_技术问答.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave2-agent1",
+      "note": "Annotated 3 notebooks: teaching Chinese markdown + near line-by-line code comments; preserved outputs/execution_count/metadata; prompts/model ids/URLs/error strings kept English; ast.parse + comment-s",
+      "bytes": 6942
+    },
+    "JasuTech/第1天.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave2-agent1",
+      "note": "Annotated 3 notebooks: teaching Chinese markdown + near line-by-line code comments; preserved outputs/execution_count/metadata; prompts/model ids/URLs/error strings kept English; ast.parse + comment-s",
+      "bytes": 28820
+    },
+    "Kalpesh_rajput/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave2-agent1",
+      "note": "Annotated 3 notebooks: teaching Chinese markdown + near line-by-line code comments; preserved outputs/execution_count/metadata; prompts/model ids/URLs/error strings kept English; ast.parse + comment-s",
+      "bytes": 5105
+    },
+    "Khaldoon-Ziad-Saqallah/使用Selenium抓取.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave2-agent2",
+      "note": "Deepened near-line-by-line Chinese teaching comments; expanded markdown intros (目标/对照表/怎么跑). Prompts, model ids, URLs, identifiers, error strings unchanged. outputs/execution_count verified identical ",
+      "bytes": 4968
+    },
+    "LKikwei/week1/第1周周末练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave2-agent2",
+      "note": "Deepened near-line-by-line Chinese teaching comments; expanded markdown intros (目标/对照表/怎么跑). Prompts, model ids, URLs, identifiers, error strings unchanged. outputs/execution_count verified identical ",
+      "bytes": 4956
+    },
+    "LKikwei/week1/第1周第2天_Ollama.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave2-agent2",
+      "note": "Deepened near-line-by-line Chinese teaching comments; expanded markdown intros (目标/对照表/怎么跑). Prompts, model ids, URLs, identifiers, error strings unchanged. outputs/execution_count verified identical ",
+      "bytes": 4820
+    },
+    "LLaVA-For-Visually-Impared-People/LLaVA图像描述_第1周.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave2-agent3",
+      "note": "Annotated 3 notebooks: MD→中文教学说明；code 逐行中文旁注；prompts/URLs/model ids 保持英文可运行；outputs/execution_count 已对照改前快照还原（0/1/11）。AST 校验通过。",
+      "bytes": 7979
+    },
+    "Manideep-codes/第1天.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave2-agent3",
+      "note": "Annotated 3 notebooks: MD→中文教学说明；code 逐行中文旁注；prompts/URLs/model ids 保持英文可运行；outputs/execution_count 已对照改前快照还原（0/1/11）。AST 校验通过。",
+      "bytes": 2722
+    },
+    "Mesoj8/week1/day1/第1天.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave2-agent3",
+      "note": "Annotated 3 notebooks: MD→中文教学说明；code 逐行中文旁注；prompts/URLs/model ids 保持英文可运行；outputs/execution_count 已对照改前快照还原（0/1/11）。AST 校验通过。",
+      "bytes": 40089
+    },
+    "Muhammad_Bilal/Week1/Day2_excecise/练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave3-agent0",
+      "note": "Annotated 3/3 notebooks: teaching Chinese markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers unchanged. outputs/execution_count restored from snapshot. ast.parse OK. Failed: n",
+      "bytes": 1755
+    },
+    "NehaBhoi/第1周业务方案.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave3-agent0",
+      "note": "Annotated 3/3 notebooks: teaching Chinese markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers unchanged. outputs/execution_count restored from snapshot. ast.parse OK. Failed: n",
+      "bytes": 4751
+    },
+    "NehaBhoi/第1周第2天实验.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave3-agent0",
+      "note": "Annotated 3/3 notebooks: teaching Chinese markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers unchanged. outputs/execution_count restored from snapshot. ast.parse OK. Failed: n",
+      "bytes": 18563
+    },
+    "NehaBhoi/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave3-agent1",
+      "note": "Annotated 3 notebooks: teaching Chinese markdown + near line-by-line code comments; preserved outputs/execution_count/metadata/id via snapshot restore; prompts/model ids/URLs/error strings kept Englis",
+      "bytes": 3562
+    },
+    "NicholasDean/week1/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave3-agent1",
+      "note": "Annotated 3 notebooks: teaching Chinese markdown + near line-by-line code comments; preserved outputs/execution_count/metadata/id via snapshot restore; prompts/model ids/URLs/error strings kept Englis",
+      "bytes": 11736
+    },
+    "Nikhil/week1/实验1解答.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave3-agent1",
+      "note": "Annotated 3 notebooks: teaching Chinese markdown + near line-by-line code comments; preserved outputs/execution_count/metadata/id via snapshot restore; prompts/model ids/URLs/error strings kept Englis",
+      "bytes": 10679
+    },
+    "Prashanth/Week 1/day1_测试_ollama.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave3-agent2",
+      "note": "Near line-by-line Chinese teaching comments on all three Prashanth Week 1 notebooks. Prompts, model ids, URLs, identifiers unchanged. No cells added/removed. outputs/execution_count/metadata/id verifi",
+      "bytes": 7728
+    },
+    "Prashanth/Week 1/day2_本地ollama.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave3-agent2",
+      "note": "Near line-by-line Chinese teaching comments on all three Prashanth Week 1 notebooks. Prompts, model ids, URLs, identifiers unchanged. No cells added/removed. outputs/execution_count/metadata/id verifi",
+      "bytes": 9009
+    },
+    "Prashanth/Week 1/第1周我的解答.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave3-agent2",
+      "note": "Near line-by-line Chinese teaching comments on all three Prashanth Week 1 notebooks. Prompts, model ids, URLs, identifiers unchanged. No cells added/removed. outputs/execution_count/metadata/id verifi",
+      "bytes": 14083
+    },
+    "Saransh_End_of_Week1/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave3-agent3",
+      "note": "Annotated 3 notebooks: MD→中文教学说明；code 逐行中文旁注；prompts/URLs/model ids/env 名保持英文可运行；outputs/execution_count 已对照改前快照校验一致。Shield01 无 MD 格，教学说明压进代码顶部注释。AST + 去注释逻辑对比通过。",
+      "bytes": 10102
+    },
+    "Shafiq_Ur_Rehman/网站摘要器.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave3-agent3",
+      "note": "Annotated 3 notebooks: MD→中文教学说明；code 逐行中文旁注；prompts/URLs/model ids/env 名保持英文可运行；outputs/execution_count 已对照改前快照校验一致。Shield01 无 MD 格，教学说明压进代码顶部注释。AST + 去注释逻辑对比通过。",
+      "bytes": 6737
+    },
+    "Shield01/Week1/第1周第2天练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave3-agent3",
+      "note": "Annotated 3 notebooks: MD→中文教学说明；code 逐行中文旁注；prompts/URLs/model ids/env 名保持英文可运行；outputs/execution_count 已对照改前快照校验一致。Shield01 无 MD 格，教学说明压进代码顶部注释。AST + 去注释逻辑对比通过。",
+      "bytes": 3634
+    },
+    "Shield01/Week1/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave4-agent0",
+      "note": "Annotated 3/3 notebooks: teaching Chinese markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count restored from snapshot. ast.parse",
+      "bytes": 4770
+    },
+    "Sylvie/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave4-agent0",
+      "note": "Annotated 3/3 notebooks: teaching Chinese markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count restored from snapshot. ast.parse",
+      "bytes": 3491
+    },
+    "Vagz1216/week1-interactive-exercise/交互式视觉工具.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave4-agent0",
+      "note": "Annotated 3/3 notebooks: teaching Chinese markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count restored from snapshot. ast.parse",
+      "bytes": 4434
+    },
+    "abdoul/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "pilot",
+      "note": "教学注释试点",
+      "bytes": 22105
+    },
+    "adeyemi-kayode/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave4-agent1",
+      "note": "Annotated 3 notebooks: Chinese teaching markdown + near line-by-line code comments; preserved outputs/execution_count/metadata/id via snapshot restore; prompts/model ids/URLs/error print strings kept ",
+      "bytes": 7111
+    },
+    "aditya-soni-contributions/第1周第2天.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave4-agent1",
+      "note": "Annotated 3 notebooks: Chinese teaching markdown + near line-by-line code comments; preserved outputs/execution_count/metadata/id via snapshot restore; prompts/model ids/URLs/error print strings kept ",
+      "bytes": 5648
+    },
+    "ahmed_sohail/day1.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave4-agent1",
+      "note": "Annotated 3 notebooks: Chinese teaching markdown + near line-by-line code comments; preserved outputs/execution_count/metadata/id via snapshot restore; prompts/model ids/URLs/error print strings kept ",
+      "bytes": 27777
+    },
+    "akhilasaiteja/第1周_宣传册生成器.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave4_agent2",
+      "note": "Teaching-annotate complete for 3 week1 notebooks. Only cell source edited; outputs/execution_count/metadata untouched (alexandre cell1 execution_count=14 preserved). Runnable English kept (prompts, mo",
+      "bytes": 13739
+    },
+    "akhilasaiteja/第1周_技术导师.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave4_agent2",
+      "note": "Teaching-annotate complete for 3 week1 notebooks. Only cell source edited; outputs/execution_count/metadata untouched (alexandre cell1 execution_count=14 preserved). Runnable English kept (prompts, mo",
+      "bytes": 12107
+    },
+    "alexandre-nkurunziza/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave4_agent2",
+      "note": "Teaching-annotate complete for 3 week1 notebooks. Only cell source edited; outputs/execution_count/metadata untouched (alexandre cell1 execution_count=14 preserved). Runnable English kept (prompts, mo",
+      "bytes": 5676
+    },
+    "anadi_sharma_15/day1.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave4-agent3",
+      "note": "Annotated 3/3 notebooks: teaching Chinese markdown (目标/对照表/怎么跑) + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged (incl. prompt-interior # 【注】 in Ollama system",
+      "bytes": 2934
+    },
+    "ashu/week1/第1周练习1.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave4-agent3",
+      "note": "Annotated 3/3 notebooks: teaching Chinese markdown (目标/对照表/怎么跑) + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged (incl. prompt-interior # 【注】 in Ollama system",
+      "bytes": 11283
+    },
+    "ashu/week1/解析GeekforGeeks教程.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave4-agent3",
+      "note": "Annotated 3/3 notebooks: teaching Chinese markdown (目标/对照表/怎么跑) + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged (incl. prompt-interior # 【注】 in Ollama system",
+      "bytes": 22422
+    },
+    "ashutosh/Week1/day1.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 24504
+    },
+    "ashutosh/Week1/day2.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 13620
+    },
+    "ashutosh/Week1/day5.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 20350
+    },
+    "ashutosh/Week1/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave5-agent0",
+      "note": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count restored from snapshot. ast.parse",
+      "bytes": 7619
+    },
+    "asribhas/day1.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 23014
+    },
+    "azam/week-1/day1.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave5-agent0",
+      "note": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count restored from snapshot. ast.parse",
+      "bytes": 13757
+    },
+    "azam/week-1/day2.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave5-agent0",
+      "note": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count restored from snapshot. ast.parse",
+      "bytes": 6689
+    },
+    "biomedical-article-summariser/文章摘要器.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave5-agent1",
+      "note": "Annotated 3 notebooks: Chinese teaching markdown + near line-by-line code comments; preserved outputs/execution_count/metadata/id via snapshot restore; prompts/model ids/URLs/error print strings kept ",
+      "bytes": 9861
+    },
+    "biplabro/week1/day1.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 23371
+    },
+    "biplabro/week1/day2.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 15749
+    },
+    "biplabro/week1/day4.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 7248
+    },
+    "bishara-selenium-fix/第1天_Selenium爬虫.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave5-agent1",
+      "note": "Annotated 3 notebooks: Chinese teaching markdown + near line-by-line code comments; preserved outputs/execution_count/metadata/id via snapshot restore; prompts/model ids/URLs/error print strings kept ",
+      "bytes": 5782
+    },
+    "bjayzee_week1/第1周作业.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave5-agent1",
+      "note": "Annotated 3 notebooks: Chinese teaching markdown + near line-by-line code comments; preserved outputs/execution_count/metadata/id via snapshot restore; prompts/model ids/URLs/error print strings kept ",
+      "bytes": 10739
+    },
+    "bmuk/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave5_agent2",
+      "note": "Teaching-annotate complete for 3 notebooks. Only cell source edited; outputs/execution_count/metadata untouched (all code cells remain execution_count=null with empty outputs). Runnable English kept (",
+      "bytes": 5958
+    },
+    "bojan-playwright-scraper/notebooks/deepmind_google_Summary.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave5_agent2",
+      "note": "Teaching-annotate complete for 3 notebooks. Only cell source edited; outputs/execution_count/metadata untouched (all code cells remain execution_count=null with empty outputs). Runnable English kept (",
+      "bytes": 2349
+    },
+    "bojan-playwright-scraper/notebooks/huggingface_co_Summary.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave5_agent2",
+      "note": "Teaching-annotate complete for 3 notebooks. Only cell source edited; outputs/execution_count/metadata untouched (all code cells remain execution_count=null with empty outputs). Runnable English kept (",
+      "bytes": 2048
+    },
+    "bojan-playwright-scraper/notebooks/runwayml_com_Summary.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave5-agent3",
+      "note": "Annotated 3/3: two Playwright Summary notebooks are markdown-only — intro expanded with 这是什么/对照表/怎么读; analysis cells translated to Chinese (URLs/entity/product names preserved). brandon: empty MD→教学目标",
+      "bytes": 2753
+    },
+    "bojan-playwright-scraper/notebooks/www_anthropic_com_Summary.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave5-agent3",
+      "note": "Annotated 3/3: two Playwright Summary notebooks are markdown-only — intro expanded with 这是什么/对照表/怎么读; analysis cells translated to Chinese (URLs/entity/product names preserved). brandon: empty MD→教学目标",
+      "bytes": 3156
+    },
+    "brandon_lopez/第1天_Brandon示例.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave5-agent3",
+      "note": "Annotated 3/3: two Playwright Summary notebooks are markdown-only — intro expanded with 这是什么/对照表/怎么读; analysis cells translated to Chinese (URLs/entity/product names preserved). brandon: empty MD→教学目标",
+      "bytes": 5295
+    },
+    "brunodietrich/第1周_个性化技术导师.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave6-agent0",
+      "note": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count restored from snapshot. ast.parse",
+      "bytes": 6475
+    },
+    "carl-grp/第1周第2天作业.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave6-agent0",
+      "note": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count restored from snapshot. ast.parse",
+      "bytes": 4912
+    },
+    "carl-grp/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave6-agent0",
+      "note": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count restored from snapshot. ast.parse",
+      "bytes": 4434
+    },
+    "cma/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave6-agent1",
+      "note": "Annotated 3/3: cma Day1-style website summarizer (MD ZH + line-by-line code comments; chat-analysis exercise prompt preserved); damien_sa week1 GPT+Llama streaming explainer; damien_sa day5 brochure p",
+      "bytes": 34263
+    },
+    "damien_sa/week1/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave6-agent1",
+      "note": "Annotated 3/3: cma Day1-style website summarizer (MD ZH + line-by-line code comments; chat-analysis exercise prompt preserved); damien_sa week1 GPT+Llama streaming explainer; damien_sa day5 brochure p",
+      "bytes": 6545
+    },
+    "damien_sa/week1/第5天_企业宣传册.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave6-agent1",
+      "note": "Annotated 3/3: cma Day1-style website summarizer (MD ZH + line-by-line code comments; chat-analysis exercise prompt preserved); damien_sa week1 GPT+Llama streaming explainer; damien_sa day5 brochure p",
+      "bytes": 21181
+    },
+    "daniel-edim/网页摘要.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave6_agent2",
+      "note": "Teaching-annotate complete for 3 notebooks. Only cell source edited; outputs/execution_count/metadata restored from snapshot. Runnable English kept (prompts, model ids, URLs, print/error strings, iden",
+      "bytes": 71708
+    },
+    "day1_Anthropic版_krispatel.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave6_agent2",
+      "note": "Teaching-annotate complete for 3 notebooks. Only cell source edited; outputs/execution_count/metadata restored from snapshot. Runnable English kept (prompts, model ids, URLs, print/error strings, iden",
+      "bytes": 36854
+    },
+    "day1_Groq版.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave6_agent2",
+      "note": "Teaching-annotate complete for 3 notebooks. Only cell source edited; outputs/execution_count/metadata restored from snapshot. Runnable English kept (prompts, model ids, URLs, print/error strings, iden",
+      "bytes": 17788
+    },
+    "day1_Ollama测试.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave6-agent3",
+      "note": "Teaching-annotate 3/3. Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments on code. Runnable English kept: prompts, model ids (llama3.2, gpt-4o-mini, gpt-5-nano, gpt-4.1-mini, gpt-5)",
+      "bytes": 5970
+    },
+    "day1_Playwright网页抓取.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave6-agent3",
+      "note": "Teaching-annotate 3/3. Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments on code. Runnable English kept: prompts, model ids (llama3.2, gpt-4o-mini, gpt-5-nano, gpt-4.1-mini, gpt-5)",
+      "bytes": 28316
+    },
+    "day1_产品对比_OpenAI与Ollama.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave6-agent3",
+      "note": "Teaching-annotate 3/3. Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments on code. Runnable English kept: prompts, model ids (llama3.2, gpt-4o-mini, gpt-5-nano, gpt-4.1-mini, gpt-5)",
+      "bytes": 6341
+    },
+    "day1_偏执机器人马文摘要维基百科.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 39510
+    },
+    "day1_社区版_网站摘要.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave7-agent0",
+      "note": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count restored from snapshot. ast.parse",
+      "bytes": 26231
+    },
+    "day1_讲座摘要器_kasethuraman.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 22969
+    },
+    "day1_高中经济学老师.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave7-agent0",
+      "note": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count restored from snapshot. ast.parse",
+      "bytes": 6120
+    },
+    "day2_Ollama开源模型.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave7-agent0",
+      "note": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count restored from snapshot. ast.parse",
+      "bytes": 13254
+    },
+    "day2_Ollama测试.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave7-agent1",
+      "note": "Annotated 3/3: day2_Ollama测试 (Website scrape + ollama.chat llama3.2 summary); day5-compound-llm-calls/企业宣传册 (compound LLM: JSON link select → context → brochure/stream/audience-aware); deepanshu-gaur ",
+      "bytes": 2976
+    },
+    "day5-compound-llm-calls/企业宣传册.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave7-agent1",
+      "note": "Annotated 3/3: day2_Ollama测试 (Website scrape + ollama.chat llama3.2 summary); day5-compound-llm-calls/企业宣传册 (compound LLM: JSON link select → context → brochure/stream/audience-aware); deepanshu-gaur ",
+      "bytes": 22520
+    },
+    "deep_第1周第1天解答.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 30528
+    },
+    "deepanshu-gaur/day1_博客摘要转LinkedIn帖子.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave7-agent1",
+      "note": "Annotated 3/3: day2_Ollama测试 (Website scrape + ollama.chat llama3.2 summary); day5-compound-llm-calls/企业宣传册 (compound LLM: JSON link select → context → brochure/stream/audience-aware); deepanshu-gaur ",
+      "bytes": 4131
+    },
+    "denis-mutuma/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave7-agent2",
+      "note": "Annotated 3/3: denis-mutuma week1 technical Q&A (MD ZH + line-by-line code comments; stream+display path preserved; llama-branch / ollama provider strings unchanged); divinebuddha website scrape→gpt-4",
+      "bytes": 4798
+    },
+    "dinesh-contributions/week1/第1天.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 33836
+    },
+    "divinebuddha/网站摘要.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave7-agent2",
+      "note": "Annotated 3/3: denis-mutuma week1 technical Q&A (MD ZH + line-by-line code comments; stream+display path preserved; llama-branch / ollama provider strings unchanged); divinebuddha website scrape→gpt-4",
+      "bytes": 2506
+    },
+    "doreen_tumuhairwe/第1天.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 23435
+    },
+    "dubala_lee/金融网页抓取器.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave7-agent2",
+      "note": "Annotated 3/3: denis-mutuma week1 technical Q&A (MD ZH + line-by-line code comments; stream+display path preserved; llama-branch / ollama provider strings unchanged); divinebuddha website scrape→gpt-4",
+      "bytes": 4765
+    },
+    "earljonas/第1周_职位帖分析.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave7-agent3",
+      "note": "Teaching-annotate 3/3 earljonas Week1 job-post notebooks. Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments. Runnable English kept: system/user prompts, model ids (llama-3.1-8b-ins",
+      "bytes": 4240
+    },
+    "earljonas/Week1/第1天_职位帖分析.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave7-agent3",
+      "note": "Teaching-annotate 3/3 earljonas Week1 job-post notebooks. Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments. Runnable English kept: system/user prompts, model ids (llama-3.1-8b-ins",
+      "bytes": 4202
+    },
+    "earljonas/Week1/第2天_本地模型职位分析.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave7-agent3",
+      "note": "Teaching-annotate 3/3 earljonas Week1 job-post notebooks. Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments. Runnable English kept: system/user prompts, model ids (llama-3.1-8b-ins",
+      "bytes": 4820
+    },
+    "emilyohnavarro/第1天_简历摘要器.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave8-agent0",
+      "note": "fixed path from basename in results",
+      "bytes": 30856
+    },
+    "emmelie/第1周第1天_网站摘要器.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave8-agent0",
+      "note": "fixed path from basename in results",
+      "bytes": 3827
+    },
+    "erybie222/week-1/第1周练习_技术问答.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave8-agent0",
+      "note": "fixed path from basename in results",
+      "bytes": 3758
+    },
+    "erybie222/第1天.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 23558
+    },
+    "erybie222/week-1/第2天作业.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave8-agent1",
+      "note": "Annotated 3/3: erybie222 week-1 day2 AI journalist (BBC scrape + Ollama OpenAI-compat llama3.2); eyosiyas business-insight explainer (OpenRouter GPT-4o-mini vs Ollama /api/chat llama3.2); fbrynmghni d",
+      "bytes": 2272
+    },
+    "eyosiyas/第1周练习_商业洞察讲解器.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave8-agent1",
+      "note": "Annotated 3/3: erybie222 week-1 day2 AI journalist (BBC scrape + Ollama OpenAI-compat llama3.2); eyosiyas business-insight explainer (OpenRouter GPT-4o-mini vs Ollama /api/chat llama3.2); fbrynmghni d",
+      "bytes": 5274
+    },
+    "faraz/第1天.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 43086
+    },
+    "fbrynmghni/第1天_课堂资产项目.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave8-agent1",
+      "note": "Annotated 3/3: erybie222 week-1 day2 AI journalist (BBC scrape + Ollama OpenAI-compat llama3.2); eyosiyas business-insight explainer (OpenRouter GPT-4o-mini vs Ollama /api/chat llama3.2); fbrynmghni d",
+      "bytes": 22187
+    },
+    "franzonia137/第2天_本地Ollama网页摘要.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave8-agent2",
+      "note": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged (incl. gaurav reponse typo & Hinglish prints). outputs/exe",
+      "bytes": 5155
+    },
+    "gaurav-sha56/第1天练习1.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave8-agent2",
+      "note": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged (incl. gaurav reponse typo & Hinglish prints). outputs/exe",
+      "bytes": 2463
+    },
+    "gaurisankar/普京演讲摘要示例.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave8-agent2",
+      "note": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged (incl. gaurav reponse typo & Hinglish prints). outputs/exe",
+      "bytes": 3242
+    },
+    "global-market-news-summarizer/第1天作业_全球市场新闻摘要.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave8-agent3",
+      "note": "Teaching-annotate 3/3. Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments. Runnable English kept: prompts, model ids (gpt-4o-mini, llama3.2), URLs (Yahoo Finance, OpenRouter, Wikipe",
+      "bytes": 7869
+    },
+    "gonzalo_benito/第1周练习_技术问答助手.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave8-agent3",
+      "note": "Teaching-annotate 3/3. Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments. Runnable English kept: prompts, model ids (gpt-4o-mini, llama3.2), URLs (Yahoo Finance, OpenRouter, Wikipe",
+      "bytes": 4712
+    },
+    "gurender/第1周第1天_飞机性能对比.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave8-agent3",
+      "note": "Teaching-annotate 3/3. Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments. Runnable English kept: prompts, model ids (gpt-4o-mini, llama3.2), URLs (Yahoo Finance, OpenRouter, Wikipe",
+      "bytes": 10385
+    },
+    "hasnat/第1天.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 46529
+    },
+    "ikemCodedIt/week 1/股票分析器.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave9-agent0",
+      "note": "path-normalized from agent result",
+      "bytes": 5451
+    },
+    "jaden_anthony/第1周第2天作业.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave9-agent0",
+      "note": "path-normalized from agent result",
+      "bytes": 11319
+    },
+    "jasonkhaw/第1天.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 36239
+    },
+    "jayman/week1/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave9-agent0",
+      "note": "no result from agent",
+      "bytes": 4278
+    },
+    "jayman/week1/第1天练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave9-agent1",
+      "note": "path-normalized from agent result",
+      "bytes": 3869
+    },
+    "jayman/week1/第2天练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave9-agent1",
+      "note": "path-normalized from agent result",
+      "bytes": 2250
+    },
+    "jmanguru/week1/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave9-agent1",
+      "note": "path-normalized from agent result",
+      "bytes": 8159
+    },
+    "jmanguru/week1/第1天.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave9-agent2",
+      "note": "path-normalized from agent result",
+      "bytes": 10974
+    },
+    "joxemi_works/week1/Selenium网页抓取.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave9-agent2",
+      "note": "path-normalized from agent result",
+      "bytes": 9307
+    },
+    "joxemi_works/week1/生成式GPT树.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave9-agent2",
+      "note": "path-normalized from agent result",
+      "bytes": 12736
+    },
+    "joxemi_works/week1/第1周_LLM对比测试与评判器_v2.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave9-agent3",
+      "note": "path-normalized from agent result",
+      "bytes": 25262
+    },
+    "jp/第1周第1天.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave9-agent3",
+      "note": "path-normalized from agent result",
+      "bytes": 5605
+    },
+    "jp/第1周第2天.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave9-agent3",
+      "note": "path-normalized from agent result",
+      "bytes": 7564
+    },
+    "jpolonska/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave10-agent0",
+      "note": "Annotated 2/2 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count preserved. ast.parse OK. Failed: ",
+      "bytes": 9233
+    },
+    "juanr_studyHelperDay1/学习助手_第1天.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave10-agent0",
+      "note": "Annotated 2/2 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/identifiers/error strings unchanged. outputs/execution_count preserved. ast.parse OK. Failed: ",
+      "bytes": 7297
+    },
+    "juanr_youtubeVideoSummarizerDay2/YouTube视频摘要_第2天.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "waveQ1-agent1",
+      "note": "Annotated 1 notebook (24 cells): Chinese teaching markdown + near line-by-line code comments; preserved outputs/execution_count/metadata/id via snapshot restore; prompts/model ids/URLs/error strings k",
+      "bytes": 241309
+    },
+    "juanr_youtubeVideosSummarizerDay2/YouTube视频摘要_第2天.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave10-agent1",
+      "note": "Teaching-annotated juanr_youtubeVideosSummarizerDay2/YouTube视频摘要_第2天.ipynb (24 cells). Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments. Prompts/model ids/URLs/error strings/ident",
+      "bytes": 241309
+    },
+    "juniardy_setiowidayoga/week1/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave10-agent2",
+      "note": "Annotated 3/3: juniardy week1 weekend (OpenRouter gpt-4o-mini stream + Ollama llama3.2:1b code explainer); day1 (scraper → OpenRouter gpt-4.1-mini snarky site summary); day2 (same pipeline on local Ol",
+      "bytes": 4539
+    },
+    "juniardy_setiowidayoga/week1/第1天练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave10-agent2",
+      "note": "Annotated 3/3: juniardy week1 weekend (OpenRouter gpt-4o-mini stream + Ollama llama3.2:1b code explainer); day1 (scraper → OpenRouter gpt-4.1-mini snarky site summary); day2 (same pipeline on local Ol",
+      "bytes": 3918
+    },
+    "juniardy_setiowidayoga/week1/第2天练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave10-agent2",
+      "note": "Annotated 3/3: juniardy week1 weekend (OpenRouter gpt-4o-mini stream + Ollama llama3.2:1b code explainer); day1 (scraper → OpenRouter gpt-4.1-mini snarky site summary); day2 (same pipeline on local Ol",
+      "bytes": 3552
+    },
+    "kaiyuwei/week1/第2天练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave10-agent3",
+      "note": "Annotated 3/3: kaiyuwei week1 day2 (Ollama HTTP / ollama pkg / OpenAI-compat + Website summarizer via deepseek-r1:1.5b); karam_sayed paper-summarizer (Jina Reader + local llama3.2:3b structured paper ",
+      "bytes": 15193
+    },
+    "karam_sayed/paper-summarizer/论文摘要器.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave10-agent3",
+      "note": "Annotated 3/3: kaiyuwei week1 day2 (Ollama HTTP / ollama pkg / OpenAI-compat + Website summarizer via deepseek-r1:1.5b); karam_sayed paper-summarizer (Jina Reader + local llama3.2:3b structured paper ",
+      "bytes": 5810
+    },
+    "keinda/week1/day1/邮件更正模型.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave10-agent3",
+      "note": "Annotated 3/3: kaiyuwei week1 day2 (Ollama HTTP / ollama pkg / OpenAI-compat + Website summarizer via deepseek-r1:1.5b); karam_sayed paper-summarizer (Jina Reader + local llama3.2:3b structured paper ",
+      "bytes": 4004
+    },
+    "keshav_awasthi/Day 1/第1天_残酷真相.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave11-agent0",
+      "note": "Teaching-annotated 3 week1 notebooks with Chinese markdown + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged. outputs/execution_count/metadata restored from sn",
+      "bytes": 6263
+    },
+    "kica/第1周解答.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave11-agent0",
+      "note": "Teaching-annotated 3 week1 notebooks with Chinese markdown + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged. outputs/execution_count/metadata restored from sn",
+      "bytes": 3524
+    },
+    "kiharanjoroge/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave11-agent0",
+      "note": "Teaching-annotated 3 week1 notebooks with Chinese markdown + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged. outputs/execution_count/metadata restored from sn",
+      "bytes": 4275
+    },
+    "larry/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave11-agent1",
+      "note": "Teaching-annotated 3 notebooks: larry/第1周练习.ipynb, lukas/week1/DND角色刻画.ipynb, madhurashinde/第1天_邮件主题行.ipynb. Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/error stri",
+      "bytes": 6540
+    },
+    "lukas/week1/DND角色刻画.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave11-agent1",
+      "note": "Teaching-annotated 3 notebooks: larry/第1周练习.ipynb, lukas/week1/DND角色刻画.ipynb, madhurashinde/第1天_邮件主题行.ipynb. Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/error stri",
+      "bytes": 25143
+    },
+    "madhurashinde/第1天_邮件主题行.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave11-agent1",
+      "note": "Teaching-annotated 3 notebooks: larry/第1周练习.ipynb, lukas/week1/DND角色刻画.ipynb, madhurashinde/第1天_邮件主题行.ipynb. Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/error stri",
+      "bytes": 2936
+    },
+    "mani_bojja/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave11-agent2",
+      "note": "Annotated 3/3: mani_bojja week1 weekend (gpt-4o-mini stream + ollama.chat llama3.2 code explainer with analogy prompts); 练习1 (gpt-4.1-nano email→calendar JSON); 练习2 (ollama pull llama3.2:1b + scraper ",
+      "bytes": 8410
+    },
+    "mani_bojja/第1周练习1.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave11-agent2",
+      "note": "Annotated 3/3: mani_bojja week1 weekend (gpt-4o-mini stream + ollama.chat llama3.2 code explainer with analogy prompts); 练习1 (gpt-4.1-nano email→calendar JSON); 练习2 (ollama pull llama3.2:1b + scraper ",
+      "bytes": 3197
+    },
+    "mani_bojja/第1周练习2.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave11-agent2",
+      "note": "Annotated 3/3: mani_bojja week1 weekend (gpt-4o-mini stream + ollama.chat llama3.2 code explainer with analogy prompts); 练习1 (gpt-4.1-nano email→calendar JSON); 练习2 (ollama pull llama3.2:1b + scraper ",
+      "bytes": 2539
+    },
+    "manish/第1天.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 23564
+    },
+    "manish_tiwari/第1周练习解答.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave11-agent3",
+      "note": "Annotated 3/3: manish_tiwari week1 solution stub (constants + question; import/env/stream cells were comment-only headers — teaching notes added, no invented executable logic); mariam_janati day1 API ",
+      "bytes": 2297
+    },
+    "manish_tiwari/第1天练习.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 24850
+    },
+    "manish_tiwari/第2天练习_网页摘要.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 12775
+    },
+    "mariam_janati_第1天_API示例.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave11-agent3",
+      "note": "Annotated 3/3: manish_tiwari week1 solution stub (constants + question; import/env/stream cells were comment-only headers — teaching notes added, no invented executable logic); mariam_janati day1 API ",
+      "bytes": 2153
+    },
+    "meeting_summarizer/会议摘要器.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave11-agent3",
+      "note": "Annotated 3/3: manish_tiwari week1 solution stub (constants + question; import/env/stream cells were comment-only headers — teaching notes added, no invented executable logic); mariam_janati day1 API ",
+      "bytes": 6518
+    },
+    "mideseniordev/week1/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave12-agent0",
+      "note": "Teaching-annotated 3 week1 notebooks with Chinese markdown + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged. outputs/execution_count/metadata restored from sn",
+      "bytes": 8203
+    },
+    "mideseniordev/week1/第1天.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave12-agent0",
+      "note": "Teaching-annotated 3 week1 notebooks with Chinese markdown + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged. outputs/execution_count/metadata restored from sn",
+      "bytes": 8152
+    },
+    "mideseniordev/week1/第2天.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave12-agent0",
+      "note": "Teaching-annotated 3 week1 notebooks with Chinese markdown + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged. outputs/execution_count/metadata restored from sn",
+      "bytes": 5075
+    },
+    "mideseniordev/week1/第5天.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave12-agent1",
+      "note": "Annotated 3/3: mideseniordev week1 day5 ExpertSystem (OpenRouter gpt-4o-mini link-pick + gpt-5-nano streamed Q&A with cache); minhngoncoding week1 JD skill ranker (CareerViet scrape → llama3.2 via Oll",
+      "bytes": 12049
+    },
+    "minhngoncoding/week1/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave12-agent1",
+      "note": "Annotated 3/3: mideseniordev week1 day5 ExpertSystem (OpenRouter gpt-4o-mini link-pick + gpt-5-nano streamed Q&A with cache); minhngoncoding week1 JD skill ranker (CareerViet scrape → llama3.2 via Oll",
+      "bytes": 6913
+    },
+    "minhngoncoding/week1/第1天.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 11632
+    },
+    "minhngoncoding/week1/第2天.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 18965
+    },
+    "mjfrancoo/第1天.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave12-agent1",
+      "note": "Annotated 3/3: mideseniordev week1 day5 ExpertSystem (OpenRouter gpt-4o-mini link-pick + gpt-5-nano streamed Q&A with cache); minhngoncoding week1 JD skill ranker (CareerViet scrape → llama3.2 via Oll",
+      "bytes": 27345
+    },
+    "mmaitsimwale/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave12-agent2",
+      "note": "Annotated 3/3: mmaitsimwale week1 (OpenRouter gpt-4o-mini stream + Groq gpt-oss-120b + SmartLLMClient keyword router); mugisha week1 Chat class (stateful history, ask_stream, Ollama/OpenRouter Gemini)",
+      "bytes": 37798
+    },
+    "mugisha_caleb_didier/week1/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave12-agent2",
+      "note": "recovered",
+      "bytes": 9263
+    },
+    "mugisha_caleb_didier/week1/第1天_Playwright爬虫.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave12-agent2",
+      "note": "Annotated 3/3: mmaitsimwale week1 (OpenRouter gpt-4o-mini stream + Groq gpt-oss-120b + SmartLLMClient keyword router); mugisha week1 Chat class (stateful history, ask_stream, Ollama/OpenRouter Gemini)",
+      "bytes": 6121
+    },
+    "muhammad_mahmood/week_1/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave12-agent3",
+      "note": "Annotated 3/3: mahmood=system-design interview coach via Ollama OpenAI-compat phi3 (generate question + grade answer); qasim=Day5 research brief (link JSON filter → scrape → streamed Markdown brief; n",
+      "bytes": 10563
+    },
+    "muhammad_qasim_sheikh/Week 1/Day 5/宣传册生成.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave12-agent3",
+      "note": "Annotated 3/3: mahmood=system-design interview coach via Ollama OpenAI-compat phi3 (generate question + grade answer); qasim=Day5 research brief (link JSON filter → scrape → streamed Markdown brief; n",
+      "bytes": 7169
+    },
+    "muhammad_shahid/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave12-agent3",
+      "note": "recovered",
+      "bytes": 4642
+    },
+    "najeeb/第1周解答.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave13-agent0",
+      "note": "Teaching-annotated 2/3 notebooks with Chinese markdown + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged. outputs/execution_count/metadata restored from snapsh",
+      "bytes": 5204
+    },
+    "nancieliu/nancieliu_第1周第1天.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 13446
+    },
+    "nancieliu_第1周第1天.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 13587
+    },
+    "nate-lev/week1/第1天_歌词创作.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave13-agent0",
+      "note": "Teaching-annotated 2/3 notebooks with Chinese markdown + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged. outputs/execution_count/metadata restored from snapsh",
+      "bytes": 4064
+    },
+    "nate-lev/week1/第2天作业.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": "wave13-agent0",
+      "note": "empty 0-byte upstream; cannot annotate",
+      "bytes": 0
+    },
+    "ndahan/网页摘要.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": "wave13-agent1",
+      "note": "empty 0-byte upstream; cannot annotate",
+      "bytes": 0
+    },
+    "oluwatosinjegede/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave13-agent1",
+      "note": "Annotated 2/3: oluwatosinjegede week1 tech Q&A (gpt-5-nano stream + update_display; Llama cell stub only); omer-gamie week1 dual-client (gpt-4o-mini streaming + llama3.2 via Ollama /v1). Chinese teach",
+      "bytes": 6900
+    },
+    "omer-gamie/week1/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave13-agent1",
+      "note": "Annotated 2/3: oluwatosinjegede week1 tech Q&A (gpt-5-nano stream + update_display; Llama cell stub only); omer-gamie week1 dual-client (gpt-4o-mini streaming + llama3.2 via Ollama /v1). Chinese teach",
+      "bytes": 3847
+    },
+    "omer-gamie/week1/第2天练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave13-agent2",
+      "note": "Annotated 3/3: omer-gamie week1 day2 Ollama OpenAI-compat website summarizer (llama3.2 + week1.scraper); orthogonal day1 YouTube transcript→chunk→gpt-4o-mini summary; pacov W1 day1 Delivery/PM assista",
+      "bytes": 3398
+    },
+    "orthogonal/day1-YouTube视频摘要.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave13-agent2",
+      "note": "Annotated 3/3: omer-gamie week1 day2 Ollama OpenAI-compat website summarizer (llama3.2 + week1.scraper); orthogonal day1 YouTube transcript→chunk→gpt-4o-mini summary; pacov W1 day1 Delivery/PM assista",
+      "bytes": 9307
+    },
+    "pacov/W1_第1天练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave13-agent2",
+      "note": "Annotated 3/3: omer-gamie week1 day2 Ollama OpenAI-compat website summarizer (llama3.2 + week1.scraper); orthogonal day1 YouTube transcript→chunk→gpt-4o-mini summary; pacov W1 day1 Delivery/PM assista",
+      "bytes": 2901
+    },
+    "padmaja/day1/Google_API.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave13-agent3",
+      "note": "Annotated 3/3: padmaja day1 Google Gemini via google-genai list + OpenAI-compat gemini-2.5-flash; peter-retro day1 facilitator cluster problems→solutions by role (gpt-4.1-mini); playwright-bojan nest_",
+      "bytes": 3653
+    },
+    "peter-retro/day1.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave13-agent3",
+      "note": "Annotated 3/3: padmaja day1 Google Gemini via google-genai list + OpenAI-compat gemini-2.5-flash; peter-retro day1 facilitator cluster problems→solutions by role (gpt-4.1-mini); playwright-bojan nest_",
+      "bytes": 2737
+    },
+    "playwright-bojan/Playwright方案_Jupyter异步.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave13-agent3",
+      "note": "Annotated 3/3: padmaja day1 Google Gemini via google-genai list + OpenAI-compat gemini-2.5-flash; peter-retro day1 facilitator cluster problems→solutions by role (gpt-4.1-mini); playwright-bojan nest_",
+      "bytes": 7109
+    },
+    "playwright-bojan/Playwright方案_格式化展示.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave14-agent0",
+      "note": "Annotated 3/3: Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments; prompts/model ids/URLs/error strings kept; outputs/execution_count untouched. bojan=formatted Playwright summary M",
+      "bytes": 2712
+    },
+    "playwright-enhanced-scraper/增强网页爬虫.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave14-agent0",
+      "note": "Annotated 3/3: Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments; prompts/model ids/URLs/error strings kept; outputs/execution_count untouched. bojan=formatted Playwright summary M",
+      "bytes": 30985
+    },
+    "pradeep1955/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave14-agent0",
+      "note": "Annotated 3/3: Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments; prompts/model ids/URLs/error strings kept; outputs/execution_count untouched. bojan=formatted Playwright summary M",
+      "bytes": 4089
+    },
+    "pradeep1955/week1/第2天练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave14-agent1",
+      "note": "Annotated 3 week1 notebooks: near-line Chinese # comments on code; markdown teaching headers (目标/关系/怎么跑). Preserved outputs, execution_count, prompts, model ids, URLs. Logic-token compare vs 按周浏览 mirr",
+      "bytes": 14084
+    },
+    "pranav_jain/week1/邮件主题生成器.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave14-agent1",
+      "note": "Annotated 3 week1 notebooks: near-line Chinese # comments on code; markdown teaching headers (目标/关系/怎么跑). Preserved outputs, execution_count, prompts, model ids, URLs. Logic-token compare vs 按周浏览 mirr",
+      "bytes": 6954
+    },
+    "rexdavinci/week1/练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave14-agent1",
+      "note": "Annotated 3 week1 notebooks: near-line Chinese # comments on code; markdown teaching headers (目标/关系/怎么跑). Preserved outputs, execution_count, prompts, model ids, URLs. Logic-token compare vs 按周浏览 mirr",
+      "bytes": 7269
+    },
+    "ronnyp/第1周第2天.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave14-agent2",
+      "note": "Annotated 3/3: ronnyp W1D2 Kubernetes Pod docs summarizer (scraper + gpt-5-nano); ruipinto W1D1 Primeira Liga fake stats→gpt-5-nano analyst; ruipinto W1D2 Ollama OpenAI-compat website summarize (llama",
+      "bytes": 4986
+    },
+    "ruipinto/week1/第1周第1天_体育数据.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave14-agent2",
+      "note": "Annotated 3/3: ronnyp W1D2 Kubernetes Pod docs summarizer (scraper + gpt-5-nano); ruipinto W1D1 Primeira Liga fake stats→gpt-5-nano analyst; ruipinto W1D2 Ollama OpenAI-compat website summarize (llama",
+      "bytes": 10401
+    },
+    "ruipinto/week1/第1周第2天_开源模型.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave14-agent2",
+      "note": "Annotated 3/3: ronnyp W1D2 Kubernetes Pod docs summarizer (scraper + gpt-5-nano); ruipinto W1D1 Primeira Liga fake stats→gpt-5-nano analyst; ruipinto W1D2 Ollama OpenAI-compat website summarize (llama",
+      "bytes": 4175
+    },
+    "ruipinto/week1/第1周第5天练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave14-agent3",
+      "note": "Annotated 3 week1 notebooks: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/logic unchanged; outputs and execution_count preserved; ast.parse OK.",
+      "bytes": 18453
+    },
+    "sach91-bootcamp/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave14-agent3",
+      "note": "Annotated 3 week1 notebooks: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/logic unchanged; outputs and execution_count preserved; ast.parse OK.",
+      "bytes": 7796
+    },
+    "sanjana_madupoju/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave14-agent3",
+      "note": "Annotated 3 week1 notebooks: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/logic unchanged; outputs and execution_count preserved; ast.parse OK.",
+      "bytes": 3345
+    },
+    "selenium_丝芙兰美妆顾问.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "waveQ2-agent1",
+      "note": "Annotated 3 notebooks with Chinese teaching markdown + near line-by-line code comments; preserved outputs/execution_count/metadata/id via snapshot restore; prompts/model ids/URLs/UI strings/error prin",
+      "bytes": 51097
+    },
+    "sf-patient-brochure/患者宣传册.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave15-agent0",
+      "note": "Annotated 3/3: Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments; prompts/model ids/URLs/error strings kept; outputs/execution_count untouched. patient=Thuisarts scrape+cache broch",
+      "bytes": 24813
+    },
+    "shabsi4u/Website_brochure_generator/网站宣传册生成器.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave15-agent0",
+      "note": "Annotated 3/3: Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments; prompts/model ids/URLs/error strings kept; outputs/execution_count untouched. patient=Thuisarts scrape+cache broch",
+      "bytes": 36127
+    },
+    "sharifKiberu/第1周_LLM提示器.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave15-agent0",
+      "note": "Annotated 3/3: Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments; prompts/model ids/URLs/error strings kept; outputs/execution_count untouched. patient=Thuisarts scrape+cache broch",
+      "bytes": 8141
+    },
+    "sherin_第1天_翻译与摘要.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 24411
+    },
+    "shiva-week1project/第1天练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave15-agent1",
+      "note": "Annotated 3/3: shiva-week1project day1 entropy+OpenRouter Nemotron; shivam week1 Gemini Web3 Q&A; simnsh week1 dual GPT+Ollama streaming. Chinese teaching markdown + near line-by-line # comments; prom",
+      "bytes": 14761
+    },
+    "shivam/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave15-agent1",
+      "note": "Annotated 3/3: shiva-week1project day1 entropy+OpenRouter Nemotron; shivam week1 Gemini Web3 Q&A; simnsh week1 dual GPT+Ollama streaming. Chinese teaching markdown + near line-by-line # comments; prom",
+      "bytes": 12631
+    },
+    "simnsh/week1/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave15-agent1",
+      "note": "Annotated 3/3: shiva-week1project day1 entropy+OpenRouter Nemotron; shivam week1 Gemini Web3 Q&A; simnsh week1 dual GPT+Ollama streaming. Chinese teaching markdown + near line-by-line # comments; prom",
+      "bytes": 9433
+    },
+    "simnsh/week1/第1天实验.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave15-agent2",
+      "note": "Annotated 3/3. Source-only edits; outputs/execution_count preserved; prompts/model ids/URLs untouched. Replaced shallow 小白提示 with near line-by-line Chinese teaching comments; polished sneha markdown t",
+      "bytes": 4282
+    },
+    "simnsh/week1/第2天实验.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave15-agent2",
+      "note": "Annotated 3/3. Source-only edits; outputs/execution_count preserved; prompts/model ids/URLs untouched. Replaced shallow 小白提示 with near line-by-line Chinese teaching comments; polished sneha markdown t",
+      "bytes": 8198
+    },
+    "sneha/week1/用playwright与anthropic总结网站.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave15-agent2",
+      "note": "Annotated 3/3. Source-only edits; outputs/execution_count preserved; prompts/model ids/URLs untouched. Replaced shallow 小白提示 with near line-by-line Chinese teaching comments; polished sneha markdown t",
+      "bytes": 29982
+    },
+    "softgeey/第1周练习解答.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave15-agent3",
+      "note": "All three notebooks annotated with Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved. solarinayo GPT streaming c",
+      "bytes": 3959
+    },
+    "solarinayo/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave15-agent3",
+      "note": "All three notebooks annotated with Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved. solarinayo GPT streaming c",
+      "bytes": 4620
+    },
+    "soni_gh_(2jyo7)/第1天_ollama.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave15-agent3",
+      "note": "All three notebooks annotated with Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved. solarinayo GPT streaming c",
+      "bytes": 9994
+    },
+    "spasquier/week1/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave16-agent0",
+      "note": "Annotated 3/3: Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments; prompts/model ids/URLs/print strings kept; outputs/execution_count untouched; ast.dump logic matches pre-annotate ",
+      "bytes": 5140
+    },
+    "spasquier/week1/第1天作业.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave16-agent0",
+      "note": "Annotated 3/3: Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments; prompts/model ids/URLs/print strings kept; outputs/execution_count untouched; ast.dump logic matches pre-annotate ",
+      "bytes": 2620
+    },
+    "spasquier/week1/第2天作业.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave16-agent0",
+      "note": "Annotated 3/3: Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments; prompts/model ids/URLs/print strings kept; outputs/execution_count untouched; ast.dump logic matches pre-annotate ",
+      "bytes": 2652
+    },
+    "spasquier/week1/第5天挑战.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave16-agent1",
+      "note": "Annotated 3/3: spasquier week1 day5 brochure+Spanish stream translate; steph_moyo week1 day1 autism sleep Q&A + WHO scrape (TypeError path preserved); steph_moyo week2 day1 four-role autism dialogue (",
+      "bytes": 8201
+    },
+    "steph_moyo/week_1/第1天.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave16-agent1",
+      "note": "Annotated 3/3: spasquier week1 day5 brochure+Spanish stream translate; steph_moyo week1 day1 autism sleep Q&A + WHO scrape (TypeError path preserved); steph_moyo week2 day1 four-role autism dialogue (",
+      "bytes": 35512
+    },
+    "steph_moyo/week_1/第2周第1天_自闭症四角色对话.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave16-agent1",
+      "note": "Annotated 3/3: spasquier week1 day5 brochure+Spanish stream translate; steph_moyo week1 day1 autism sleep Q&A + WHO scrape (TypeError path preserved); steph_moyo week2 day1 four-role autism dialogue (",
+      "bytes": 7031
+    },
+    "steve/第1周作业解答.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave16-agent2",
+      "note": "Annotated 3/3. Source-only edits; outputs/execution_count preserved; prompts/model ids/URLs/print strings untouched. Replaced shallow 小白提示 with near line-by-line Chinese teaching comments. AST + logic",
+      "bytes": 4150
+    },
+    "steve/第1周第1天任务.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave16-agent2",
+      "note": "Annotated 3/3. Source-only edits; outputs/execution_count preserved; prompts/model ids/URLs/print strings untouched. Replaced shallow 小白提示 with near line-by-line Chinese teaching comments. AST + logic",
+      "bytes": 4556
+    },
+    "steve/第1周第2天任务.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave16-agent2",
+      "note": "Annotated 3/3. Source-only edits; outputs/execution_count preserved; prompts/model ids/URLs/print strings untouched. Replaced shallow 小白提示 with near line-by-line Chinese teaching comments. AST + logic",
+      "bytes": 4778
+    },
+    "suman_day5/宣传册生成器.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave16-agent3",
+      "note": "Teaching-annotated 3/3 notebooks with Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata restored fr",
+      "bytes": 10860
+    },
+    "taktaiev/Week1/第1周探索.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave16-agent3",
+      "note": "Teaching-annotated 3/3 notebooks with Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata restored fr",
+      "bytes": 43333
+    },
+    "tarun/第1天任务.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave16-agent3",
+      "note": "Teaching-annotated 3/3 notebooks with Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata restored fr",
+      "bytes": 25028
+    },
+    "tigeress/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave17-agent0",
+      "note": "Annotated 3/3: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/print strings kept; outputs/execution_count untouched; ast.dump matches pre-annotate. week1=GPT stream+O",
+      "bytes": 5171
+    },
+    "tigeress/第1天邮件项目.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave17-agent0",
+      "note": "Annotated 3/3: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/print strings kept; outputs/execution_count untouched; ast.dump matches pre-annotate. week1=GPT stream+O",
+      "bytes": 6406
+    },
+    "ugomichael33/第1周_解释堆栈跟踪.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave17-agent0",
+      "note": "Annotated 3/3: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/print strings kept; outputs/execution_count untouched; ast.dump matches pre-annotate. week1=GPT stream+O",
+      "bytes": 8724
+    },
+    "unnamedxaer/第1周第1天_英语时态老师.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave17-agent1",
+      "note": "Annotated 3/3: unnamedxaer English-tense teacher pipeline (generate→simulate translate→validate); vamsisaigarapati DeepSeek+Ollama streaming tech explainer; vanshika-mahajan Ollama fashion/entertainme",
+      "bytes": 9349
+    },
+    "vamsisaigarapati/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave17-agent1",
+      "note": "Annotated 3/3: unnamedxaer English-tense teacher pipeline (generate→simulate translate→validate); vamsisaigarapati DeepSeek+Ollama streaming tech explainer; vanshika-mahajan Ollama fashion/entertainme",
+      "bytes": 12718
+    },
+    "vanshika-mahajan/时尚网页摘要.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave17-agent1",
+      "note": "Annotated 3/3: unnamedxaer English-tense teacher pipeline (generate→simulate translate→validate); vamsisaigarapati DeepSeek+Ollama streaming tech explainer; vanshika-mahajan Ollama fashion/entertainme",
+      "bytes": 40705
+    },
+    "victorConqueror/podcast_summarizer/播客摘要器.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave17-agent2",
+      "note": "Annotated 3/3. Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers/error strings unchanged; outputs/execution_count/metadata/id preserved; ast/logic-fingerprin",
+      "bytes": 19663
+    },
+    "vidit-jain/第1天作业.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave17-agent2",
+      "note": "Annotated 3/3. Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers/error strings unchanged; outputs/execution_count/metadata/id preserved; ast/logic-fingerprin",
+      "bytes": 41122
+    },
+    "vimal_ramnarain_week_1/第1天.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave17-agent2",
+      "note": "Annotated 3/3. Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers/error strings unchanged; outputs/execution_count/metadata/id preserved; ast/logic-fingerprin",
+      "bytes": 5960
+    },
+    "vireshh22/第1天.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave17-agent3",
+      "note": "Teaching-annotated 3/3 notebooks with Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ",
+      "bytes": 12214
+    },
+    "vkovalenk0/week1/第1天.ipynb": {
+      "week": "week1",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 24382
+    },
+    "vkovalenk0/week1/第2天.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave17-agent3",
+      "note": "Teaching-annotated 3/3 notebooks with Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ",
+      "bytes": 14099
+    },
+    "vlalez/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave17-agent3",
+      "note": "Teaching-annotated 3/3 notebooks with Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ",
+      "bytes": 4438
+    },
+    "vlalez/第1天.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave18-agent0",
+      "note": "Annotated 3 notebooks: Day1 Anthropic website summarizer (vlalez), Week1 dual-backend streaming game-design Q&A via OpenRouter+Ollama (wakanda), and PDF literature-survey Excel pipeline (研究论文摘要器). Onl",
+      "bytes": 25221
+    },
+    "wakanda-okkerjohn/第1周练习.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave18-agent0",
+      "note": "Annotated 3 notebooks: Day1 Anthropic website summarizer (vlalez), Week1 dual-backend streaming game-design Q&A via OpenRouter+Ollama (wakanda), and PDF literature-survey Excel pipeline (研究论文摘要器). Onl",
+      "bytes": 6737
+    },
+    "研究论文摘要器.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave18-agent0",
+      "note": "Annotated 3 notebooks: Day1 Anthropic website summarizer (vlalez), Week1 dual-backend streaming game-design Q&A via OpenRouter+Ollama (wakanda), and PDF literature-survey Excel pipeline (研究论文摘要器). Onl",
+      "bytes": 12595
+    },
+    "第1周第2天练习_职位帖分析器.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "wave18-agent1",
+      "note": "Annotated 3/3: job-post analyzer (scraper+Ollama gpt-oss); BookFather Gradio bookstore advisor (pandas filter+stream); multi-agent vacation debate (OpenAI+Ollama llama3.2). Chinese teaching markdown +",
+      "bytes": 5295
+    },
+    "Ahmed-Hafez/Week-2/Day2.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave18-agent1",
+      "note": "Annotated 3/3: job-post analyzer (scraper+Ollama gpt-oss); BookFather Gradio bookstore advisor (pandas filter+stream); multi-agent vacation debate (OpenAI+Ollama llama3.2). Chinese teaching markdown +",
+      "bytes": 7684
+    },
+    "Ahmed-Hafez/Week-2/day1.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave18-agent1",
+      "note": "Annotated 3/3: job-post analyzer (scraper+Ollama gpt-oss); BookFather Gradio bookstore advisor (pandas filter+stream); multi-agent vacation debate (OpenAI+Ollama llama3.2). Chinese teaching markdown +",
+      "bytes": 6525
+    },
+    "D/第2周第1天_三角色对话.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave18-agent2",
+      "note": "Annotated 3/3. Added Chinese teaching intro markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers/error strings unchanged; outputs/execution_count/metadata/id preserved; ast OK (",
+      "bytes": 14468
+    },
+    "D/第2周第2天_量子百科问答.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave18-agent2",
+      "note": "Annotated 3/3. Added Chinese teaching intro markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers/error strings unchanged; outputs/execution_count/metadata/id preserved; ast OK (",
+      "bytes": 5921
+    },
+    "D/第2周第3天_樟宜免税店助手.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave18-agent2",
+      "note": "Annotated 3/3. Added Chinese teaching intro markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers/error strings unchanged; outputs/execution_count/metadata/id preserved; ast OK (",
+      "bytes": 7842
+    },
+    "FarrasEzra/第2周_伦敦房价GPT.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "waveQ1-agent0",
+      "note": "Teaching-annotated 22 cells (markdown→中文教学; code near line-by-line # comments). Prompts/model ids/URLs/identifiers unchanged. outputs+execution_count preserved (8 outputs total; sha256 match pre-edit ",
+      "bytes": 3003709
+    },
+    "LLaVA-For-Visually-Impared-People/LLaVA实时字幕生成链_第2周.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave18-agent3",
+      "note": "Teaching-annotated 3/3 notebooks with Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ",
+      "bytes": 15446
+    },
+    "NehaBhoi/第2周票务预订.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave18-agent3",
+      "note": "Teaching-annotated 3/3 notebooks with Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ",
+      "bytes": 7977
+    },
+    "NehaBhoi/第2周第1天实验.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave18-agent3",
+      "note": "Teaching-annotated 3/3 notebooks with Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ",
+      "bytes": 11465
+    },
+    "NehaBhoi/第2周第2天实验.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave19-agent0",
+      "note": "Annotated 3 NehaBhoi Week2 notebooks: Day2 Ollama+Gradio brochure generator (scraper+llama/phi streams), Day3 electronics-store ChatInterface with dynamic charger upsell in system prompt, Week2 exerci",
+      "bytes": 4590
+    },
+    "NehaBhoi/第2周第3天实验.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave19-agent0",
+      "note": "Annotated 3 NehaBhoi Week2 notebooks: Day2 Ollama+Gradio brochure generator (scraper+llama/phi streams), Day3 electronics-store ChatInterface with dynamic charger upsell in system prompt, Week2 exerci",
+      "bytes": 4100
+    },
+    "NehaBhoi/第2周第4天实验.ipynb": {
+      "week": "week2",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 20439
+    },
+    "NehaBhoi/第2周练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave19-agent0",
+      "note": "Annotated 3 NehaBhoi Week2 notebooks: Day2 Ollama+Gradio brochure generator (scraper+llama/phi streams), Day3 electronics-store ChatInterface with dynamic charger upsell in system prompt, Week2 exerci",
+      "bytes": 3195
+    },
+    "NicholasDean/week2/第2周练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave19-agent1",
+      "note": "Annotated 3/3. NicholasDean: Gradio technical tutor with OpenAI/Anthropic/Ollama streaming + model dropdown. Ragab0t day1: multi-provider APIs, reasoning_effort, prompt caching, dual/triple chatbot di",
+      "bytes": 6974
+    },
+    "Ragab0t/第2周第1天.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave19-agent1",
+      "note": "Annotated 3/3. NicholasDean: Gradio technical tutor with OpenAI/Anthropic/Ollama streaming + model dropdown. Ragab0t day1: multi-provider APIs, reasoning_effort, prompt caching, dual/triple chatbot di",
+      "bytes": 37565
+    },
+    "Ragab0t/第2周第4天.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave19-agent1",
+      "note": "Annotated 3/3. NicholasDean: Gradio technical tutor with OpenAI/Anthropic/Ollama streaming + model dropdown. Ragab0t day1: multi-provider APIs, reasoning_effort, prompt caching, dual/triple chatbot di",
+      "bytes": 19793
+    },
+    "Vagz1216/week2-exercise/第2周练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave19-agent2",
+      "note": "Annotated 3/3. Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers/error strings unchanged; outputs/execution_count/metadata preserved; ast OK. Vagz: Stayez Ch",
+      "bytes": 28457
+    },
+    "abdoul/第2周练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "waveQ3-agent0",
+      "note": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/tool schemas/error strings unchanged. outputs/execution_count restored from snapshot. uchebuzz",
+      "bytes": 12485
+    },
+    "alessandro-fugazza/有状态聊天机器人.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave19-agent2",
+      "note": "Annotated 3/3. Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers/error strings unchanged; outputs/execution_count/metadata preserved; ast OK. Vagz: Stayez Ch",
+      "bytes": 7653
+    },
+    "alexandre-nkurunziza/第2周练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave19-agent2",
+      "note": "Annotated 3/3. Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers/error strings unchanged; outputs/execution_count/metadata preserved; ast OK. Vagz: Stayez Ch",
+      "bytes": 7699
+    },
+    "ashutosh/Week2/day1.ipynb": {
+      "week": "week2",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 40402
+    },
+    "ashutosh/Week2/day3.ipynb": {
+      "week": "week2",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 13709
+    },
+    "ashutosh/Week2/day4.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave19-agent3",
+      "note": "Teaching-annotated 3/3 notebooks with Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ",
+      "bytes": 21890
+    },
+    "ashutosh/Week2/day5.ipynb": {
+      "week": "week2",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 31576
+    },
+    "ashutosh/Week2/第2周练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave19-agent3",
+      "note": "Teaching-annotated 3/3 notebooks with Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ",
+      "bytes": 18544
+    },
+    "bmuk/第2周练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave19-agent3",
+      "note": "Teaching-annotated 3/3 notebooks with Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ",
+      "bytes": 9388
+    },
+    "denis-mutuma/第2周练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave20-agent0",
+      "note": "Annotated 3 Week2 notebooks: denis-mutuma embedded-engineer Gradio assistant (SQLite component prices + suggest_project tools + DALL·E + TTS); dhernandezgt Day1 three-person A/B/C conversation (Ollama",
+      "bytes": 15119
+    },
+    "dhernandezgt/第2周第1天练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave20-agent0",
+      "note": "Annotated 3 Week2 notebooks: denis-mutuma embedded-engineer Gradio assistant (SQLite component prices + suggest_project tools + DALL·E + TTS); dhernandezgt Day1 three-person A/B/C conversation (Ollama",
+      "bytes": 11648
+    },
+    "dhernandezgt/第2周第4天练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave20-agent0",
+      "note": "Annotated 3 Week2 notebooks: denis-mutuma embedded-engineer Gradio assistant (SQLite component prices + suggest_project tools + DALL·E + TTS); dhernandezgt Day1 three-person A/B/C conversation (Ollama",
+      "bytes": 10884
+    },
+    "diljeet/week2/第1天.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave20-agent1",
+      "note": "Annotated 3/3. diljeet: three-bot debate (GPT Alex / Gemini Blake / Ollama Charlie) + conclusion round; markdown teaching + near line-by-line # comments. dng: OpenRouter multi-role coding pipeline (Pe",
+      "bytes": 46384
+    },
+    "dng/week2/第1天.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave20-agent1",
+      "note": "Annotated 3/3. diljeet: three-bot debate (GPT Alex / Gemini Blake / Ollama Charlie) + conclusion round; markdown teaching + near line-by-line # comments. dng: OpenRouter multi-role coding pipeline (Pe",
+      "bytes": 13780
+    },
+    "erybie222/week-2/第1天练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave20-agent1",
+      "note": "Annotated 3/3. diljeet: three-bot debate (GPT Alex / Gemini Blake / Ollama Charlie) + conclusion round; markdown teaching + near line-by-line # comments. dng: OpenRouter multi-role coding pipeline (Pe",
+      "bytes": 7034
+    },
+    "erybie222/week-2/第2周练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave20-agent2",
+      "note": "Annotated 3 notebooks: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/auth/tool schemas left in English; outputs and execution_count unchanged; ast.parse OK.",
+      "bytes": 10773
+    },
+    "fbagire/第2周灵感项目.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave20-agent2",
+      "note": "Annotated 3 notebooks: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/auth/tool schemas left in English; outputs and execution_count unchanged; ast.parse OK.",
+      "bytes": 9603
+    },
+    "gaurav-sha56/第2周第3天练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave20-agent2",
+      "note": "Annotated 3 notebooks: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/auth/tool schemas left in English; outputs and execution_count unchanged; ast.parse OK.",
+      "bytes": 2904
+    },
+    "himanshu-ai-engineer/第2周作业.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave20-agent3",
+      "note": "Teaching-annotated 3/3 notebooks with Chinese near line-by-line # comments. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ast + comment/docstr",
+      "bytes": 3473
+    },
+    "joxemi_works/week2/多模型聊天机器人_第1天.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave20-agent3",
+      "note": "Teaching-annotated 3/3 notebooks with Chinese near line-by-line # comments. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ast + comment/docstr",
+      "bytes": 25529
+    },
+    "joxemi_works/week2/客服回复副驾驶_v2.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "waveQ2-agent1",
+      "note": "Annotated 3 notebooks with Chinese teaching markdown + near line-by-line code comments; preserved outputs/execution_count/metadata/id via snapshot restore; prompts/model ids/URLs/UI strings/error prin",
+      "bytes": 43473
+    },
+    "joxemi_works/week2/第4天_Pythonista.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave20-agent3",
+      "note": "Teaching-annotated 3/3 notebooks with Chinese near line-by-line # comments. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ast + comment/docstr",
+      "bytes": 16878
+    },
+    "kica/第2周解答.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave21-agent0",
+      "note": "Annotated 3 Week2 notebooks: kica OpenRouter Gradio Q&A (GPT/Claude/Gemini switch + streaming); kiharanjoroge Code Explainer (Anthropic tools lookup_python_docs + Ollama llama3.2 stream + Blocks UI); ",
+      "bytes": 5081
+    },
+    "kiharanjoroge/第2周练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave21-agent0",
+      "note": "Annotated 3 Week2 notebooks: kica OpenRouter Gradio Q&A (GPT/Claude/Gemini switch + streaming); kiharanjoroge Code Explainer (Anthropic tools lookup_python_docs + Ollama llama3.2 stream + Blocks UI); ",
+      "bytes": 10778
+    },
+    "larry/第2周练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave21-agent0",
+      "note": "Annotated 3 Week2 notebooks: kica OpenRouter Gradio Q&A (GPT/Claude/Gemini switch + streaming); kiharanjoroge Code Explainer (Anthropic tools lookup_python_docs + Ollama llama3.2 stream + Blocks UI); ",
+      "bytes": 31449
+    },
+    "lukas/week2/会说话的英雄_类版.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave21-agent1",
+      "note": "Annotated 3/3. lukas: Chinese teaching markdown for Talking Heroes class/Gradio/LiteLLM multi-agent DnD demo + commented %run entry. mani day1: Anthropic Alex / GPT Blake / Gemini Charlie debate with ",
+      "bytes": 3965
+    },
+    "mani_bojja/第2周第1天实验.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave21-agent1",
+      "note": "Annotated 3/3. lukas: Chinese teaching markdown for Talking Heroes class/Gradio/LiteLLM multi-agent DnD demo + commented %run entry. mani day1: Anthropic Alex / GPT Blake / Gemini Charlie debate with ",
+      "bytes": 27055
+    },
+    "mani_bojja/第2周第3天_股票信息.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave21-agent1",
+      "note": "Annotated 3/3. lukas: Chinese teaching markdown for Talking Heroes class/Gradio/LiteLLM multi-agent DnD demo + commented %run entry. mani day1: Anthropic Alex / GPT Blake / Gemini Charlie debate with ",
+      "bytes": 26072
+    },
+    "minhngoncoding/week2/第1天_三方聊天机器人.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave21-agent2",
+      "note": "Annotated 3 notebooks: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/tool schemas left in English; outputs and execution_count unchanged; ast.parse OK (shell magics ",
+      "bytes": 43830
+    },
+    "minhngoncoding/week2/第2周练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave21-agent2",
+      "note": "Annotated 3 notebooks: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/tool schemas left in English; outputs and execution_count unchanged; ast.parse OK (shell magics ",
+      "bytes": 7451
+    },
+    "minhngoncoding/week2/第4天_工具调用.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave21-agent2",
+      "note": "Annotated 3 notebooks: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/tool schemas left in English; outputs and execution_count unchanged; ast.parse OK (shell magics ",
+      "bytes": 21113
+    },
+    "mmaitsimwale/第2周练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave21-agent3",
+      "note": "Teaching-annotated 3/3 notebooks with Chinese near line-by-line # comments and Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/met",
+      "bytes": 16643
+    },
+    "mugisha_caleb_didier/week2/第1天练习_三方AI辩论.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave21-agent3",
+      "note": "Teaching-annotated 3/3 notebooks with Chinese near line-by-line # comments and Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/met",
+      "bytes": 9675
+    },
+    "mugisha_caleb_didier/week2/第2周练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave21-agent3",
+      "note": "Teaching-annotated 3/3 notebooks with Chinese near line-by-line # comments and Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/met",
+      "bytes": 14374
+    },
+    "muhammad_qasim_sheikh/Week 2/day 5/第5天_多模态助手.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave22-agent0",
+      "note": "Annotated 3 notebooks via rewrite script: (1) Nova multimodal Gradio support assistant (SQLite tickets + intent routing + streaming chat + gpt-4o-mini-tts); (2) Week2 NL→SQL prototype (multi-provider ",
+      "bytes": 12457
+    },
+    "muhammad_shahid/第2周练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave22-agent0",
+      "note": "Annotated 3 notebooks via rewrite script: (1) Nova multimodal Gradio support assistant (SQLite tickets + intent routing + streaming chat + gpt-4o-mini-tts); (2) Week2 NL→SQL prototype (multi-provider ",
+      "bytes": 25251
+    },
+    "multi-agent_gui_with_gradio/智能体语音文本客服.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave22-agent0",
+      "note": "Annotated 3 notebooks via rewrite script: (1) Nova multimodal Gradio support assistant (SQLite tickets + intent routing + streaming chat + gpt-4o-mini-tts); (2) Week2 NL→SQL prototype (multi-provider ",
+      "bytes": 13317
+    },
+    "nancieliu/三方聊天机器人.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave22-agent1",
+      "note": "Annotated all 3 via _snap_wave22_agent1/annotate_wave22_agent1.py. Source-only edits; outputs/execution_count preserved; AST logic fingerprints match pre-annotation (including nancieliu literal \\\\n in",
+      "bytes": 10483
+    },
+    "oluwatosinjegede/第2周练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave22-agent1",
+      "note": "Annotated all 3 via _snap_wave22_agent1/annotate_wave22_agent1.py. Source-only edits; outputs/execution_count preserved; AST logic fingerprints match pre-annotation (including nancieliu literal \\\\n in",
+      "bytes": 8534
+    },
+    "paleris/w2-d2-荷兰侨民新闻_gradio.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave22-agent1",
+      "note": "Annotated all 3 via _snap_wave22_agent1/annotate_wave22_agent1.py. Source-only edits; outputs/execution_count preserved; AST logic fingerprints match pre-annotation (including nancieliu literal \\\\n in",
+      "bytes": 30205
+    },
+    "pradeep1955/week2/智能体对话_莎士比亚.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave22-agent2",
+      "note": "Annotated 3 notebooks: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/tool schemas left in English; outputs and execution_count unchanged; ast.parse OK; logic unchang",
+      "bytes": 11399
+    },
+    "raheem_yaqub_adesola/AI航空助手.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave22-agent2",
+      "note": "Annotated 3 notebooks: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/tool schemas left in English; outputs and execution_count unchanged; ast.parse OK; logic unchang",
+      "bytes": 18492
+    },
+    "sach91-bootcamp/第2周练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave22-agent2",
+      "note": "Annotated 3 notebooks: Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs/tool schemas left in English; outputs and execution_count unchanged; ast.parse OK; logic unchang",
+      "bytes": 8099
+    },
+    "simnsh/week2/第1天实验.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave22-agent3",
+      "note": "Teaching-annotated 3 notebooks: Chinese near-line comments + markdown; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; AST logic fingerprint OK. softgeey is the riches",
+      "bytes": 22750
+    },
+    "softgeey/第2周练习解答.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave22-agent3",
+      "note": "Teaching-annotated 3 notebooks: Chinese near-line comments + markdown; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; AST logic fingerprint OK. softgeey is the riches",
+      "bytes": 24869
+    },
+    "solarinayo/第2周练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "agent": "wave22-agent3",
+      "note": "Teaching-annotated 3 notebooks: Chinese near-line comments + markdown; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; AST logic fingerprint OK. softgeey is the riches",
+      "bytes": 11617
+    },
+    "spasquier/week2/第1天作业.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "note": "Teaching-annotated 3/3 spasquier week2 notebooks: Chinese near line-by-line # comments + Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution",
+      "bytes": 8939,
+      "agent": "wave24-agent0"
+    },
+    "spasquier/week2/第2周练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "note": "Teaching-annotated 3/3 spasquier week2 notebooks: Chinese near line-by-line # comments + Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution",
+      "bytes": 10265,
+      "agent": "wave24-agent0"
+    },
+    "spasquier/week2/第2天作业.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "note": "Teaching-annotated 3/3 spasquier week2 notebooks: Chinese near line-by-line # comments + Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution",
+      "bytes": 8718,
+      "agent": "wave24-agent0"
+    },
+    "spasquier/week2/第3天作业.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "note": "Annotated 3 notebooks with Chinese teaching markdown + near line-by-line # comments via rewrite script. Preserved outputs/execution_count; AST + comment-stripped logic checks passed. Prompts, model id",
+      "bytes": 3375,
+      "agent": "wave24-agent1"
+    },
+    "spasquier/week2/第4天作业.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "note": "Annotated 3 notebooks with Chinese teaching markdown + near line-by-line # comments via rewrite script. Preserved outputs/execution_count; AST + comment-stripped logic checks passed. Prompts, model id",
+      "bytes": 8589,
+      "agent": "wave24-agent1"
+    },
+    "steve/第2周作业解答.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "note": "Annotated 3 notebooks with Chinese teaching markdown + near line-by-line # comments via rewrite script. Preserved outputs/execution_count; AST + comment-stripped logic checks passed. Prompts, model id",
+      "bytes": 13790,
+      "agent": "wave24-agent1"
+    },
+    "suman_week2/day4/航空公司客服.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "note": "Teaching-annotated 3 notebooks: suman airline SQLite+tools+Gradio, ugomichael33 API docs Q&A with search_docs tool, victorConqueror Travelwings Playwright+function-calling Gradio. Chinese markdown + n",
+      "bytes": 10421,
+      "agent": "wave24-agent2"
+    },
+    "ugomichael33/第2周_API文档问答.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "note": "Teaching-annotated 3 notebooks: suman airline SQLite+tools+Gradio, ugomichael33 API docs Q&A with search_docs tool, victorConqueror Travelwings Playwright+function-calling Gradio. Chinese markdown + n",
+      "bytes": 9878,
+      "agent": "wave24-agent2"
+    },
+    "victorConqueror/airline_price_detection2/应用.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "note": "Teaching-annotated 3 notebooks: suman airline SQLite+tools+Gradio, ugomichael33 API docs Q&A with search_docs tool, victorConqueror Travelwings Playwright+function-calling Gradio. Chinese markdown + n",
+      "bytes": 11215,
+      "agent": "wave24-agent2"
+    },
+    "vnrtumu/第2周第1天_免费OpenRouter.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "note": "Annotated 3 notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip check",
+      "bytes": 10199,
+      "agent": "wave24-agent3"
+    },
+    "wakanda-okkerjohn/第2周练习.ipynb": {
+      "week": "week2",
+      "status": "done",
+      "note": "Annotated 3 notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip check",
+      "bytes": 14553,
+      "agent": "wave24-agent3"
+    },
+    "Cosmus第3周练习_合成数据集生成器.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "note": "Annotated 3 notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip check",
+      "bytes": 8884,
+      "agent": "wave24-agent3"
+    },
+    "NehaBhoi/第3周练习.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave23-agent0",
+      "note": "Teaching-annotated 3/3 Week3 notebooks: Chinese near line-by-line # comments + Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/met",
+      "bytes": 8061
+    },
+    "NicholasDean/week3/第3周练习.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave23-agent0",
+      "note": "Teaching-annotated 3/3 Week3 notebooks: Chinese near line-by-line # comments + Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/met",
+      "bytes": 5962
+    },
+    "Vagz1216/week3-exercise/第3周练习.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave23-agent0",
+      "note": "Teaching-annotated 3/3 Week3 notebooks: Chinese near line-by-line # comments + Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/met",
+      "bytes": 12124
+    },
+    "abdoul/第3周练习.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "waveQ2-agent0",
+      "note": "Annotated 3/3: dng/week3/课程生成器.ipynb, abdoul/第3周练习.ipynb, larry/第6周练习.ipynb. Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs kept English. outputs/execution_count rest",
+      "bytes": 57258
+    },
+    "alexandre-nkurunziza/第3周练习.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave23-agent1",
+      "note": "Teaching-annotated 3 Week3 synthetic-data notebooks: Chinese near-line comments + markdown; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; AST logic fingerprint OK. a",
+      "bytes": 13636
+    },
+    "ashutosh/Week3/第3周练习.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave23-agent1",
+      "note": "Teaching-annotated 3 Week3 synthetic-data notebooks: Chinese near-line comments + markdown; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; AST logic fingerprint OK. a",
+      "bytes": 25611
+    },
+    "bmuk/第3周练习.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave23-agent1",
+      "note": "Teaching-annotated 3 Week3 synthetic-data notebooks: Chinese near-line comments + markdown; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; AST logic fingerprint OK. a",
+      "bytes": 6131
+    },
+    "denis-mutuma/第3周练习.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave23-agent2",
+      "note": "Teaching-annotated denis-mutuma (Colab HF+Gradio sensor CSV generator: Chinese markdown + near line-by-line # comments; prompts/model ids/UI strings unchanged) and dhernandezgt (markdown-only PDF poet",
+      "bytes": 9542
+    },
+    "dhernandezgt/第3周练习.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave23-agent2",
+      "note": "Teaching-annotated denis-mutuma (Colab HF+Gradio sensor CSV generator: Chinese markdown + near line-by-line # comments; prompts/model ids/UI strings unchanged) and dhernandezgt (markdown-only PDF poet",
+      "bytes": 597
+    },
+    "dng/week3/课程生成器.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "waveQ2-agent0",
+      "note": "Annotated 3/3: dng/week3/课程生成器.ipynb, abdoul/第3周练习.ipynb, larry/第6周练习.ipynb. Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs kept English. outputs/execution_count rest",
+      "bytes": 57783
+    },
+    "erybie222/week-3/第3周作业.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave23-agent3",
+      "note": "Annotated erybie222/week-3/第3周作业.ipynb: Chinese teaching markdown + near line-by-line # comments on HF login, BitsAndBytes 4-bit load, chat-template generate, CSV parse, Gradio UI; preserved prompts/m",
+      "bytes": 94973
+    },
+    "joxemi_works/week3/安全意识合成问答生成器.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "waveQ2-agent3",
+      "note": "Annotated 3/3: Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged. softgeey has no MD cells—week7 intro in first code-cel",
+      "bytes": 32733
+    },
+    "joxemi_works/week3/本地CPU测试.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave25-agent0",
+      "note": "Teaching-annotated 3/3 week3 notebooks: Chinese near line-by-line # comments + Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/met",
+      "bytes": 8309
+    },
+    "kica/第3周解答.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave25-agent0",
+      "note": "Teaching-annotated 3/3 week3 notebooks: Chinese near line-by-line # comments + Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/met",
+      "bytes": 8448
+    },
+    "larry/第3周练习.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave25-agent0",
+      "note": "Teaching-annotated 3/3 week3 notebooks: Chinese near line-by-line # comments + Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/met",
+      "bytes": 18212
+    },
+    "mideseniordev/week3/第3周练习.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave25-agent1",
+      "note": "All 3 notebooks teaching-annotated via rewrite script; source-only edits; outputs/execution_count restored from snap; AST+logic strip checks passed. Empty trailing code cell in 第5天_会议智能体 left empty.",
+      "bytes": 9185
+    },
+    "minhngoncoding/week3/合成数据集生成.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave25-agent1",
+      "note": "All 3 notebooks teaching-annotated via rewrite script; source-only edits; outputs/execution_count restored from snap; AST+logic strip checks passed. Empty trailing code cell in 第5天_会议智能体 left empty.",
+      "bytes": 22146
+    },
+    "minhngoncoding/week3/第5天_会议智能体.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave25-agent1",
+      "note": "All 3 notebooks teaching-annotated via rewrite script; source-only edits; outputs/execution_count restored from snap; AST+logic strip checks passed. Empty trailing code cell in 第5天_会议智能体 left empty.",
+      "bytes": 2094
+    },
+    "mmaitsimwale/第3周练习.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave25-agent2",
+      "note": "Annotated 3 Week3 synthetic-data notebooks; source-only; outputs/execution_count preserved; prompts/model ids unchanged.",
+      "bytes": 9788
+    },
+    "muhammad_qasim_sheikh/Week 3/Day 5/合成数据生成器.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave25-agent2",
+      "note": "Annotated 3 Week3 synthetic-data notebooks; source-only; outputs/execution_count preserved; prompts/model ids unchanged.",
+      "bytes": 6051
+    },
+    "muhammad_shahid/第3周.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave25-agent2",
+      "note": "Annotated 3 Week3 synthetic-data notebooks; source-only; outputs/execution_count preserved; prompts/model ids unchanged.",
+      "bytes": 19754
+    },
+    "sach91-bootcamp/第3周练习.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave25-agent3",
+      "note": "Annotated 3 notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip check",
+      "bytes": 6845
+    },
+    "samuel_remo/第3周练习_调用HuggingFace开源模型.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave25-agent3",
+      "note": "Annotated 3 notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip check",
+      "bytes": 10182
+    },
+    "shabsi4u/synthetic-data-generator/合成数据生成器_colab.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave25-agent3",
+      "note": "Annotated 3 notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip check",
+      "bytes": 25159
+    },
+    "softgeey/第3周练习解答.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave26-agent0",
+      "note": "Teaching-annotated 3/3 week3 notebooks: Chinese near line-by-line # comments + Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/met",
+      "bytes": 10023
+    },
+    "solarinayo/week3/第3周练习.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave26-agent0",
+      "note": "Teaching-annotated 3/3 week3 notebooks: Chinese near line-by-line # comments + Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/met",
+      "bytes": 10685
+    },
+    "spasquier/week3/第3周练习.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave26-agent0",
+      "note": "Teaching-annotated 3/3 week3 notebooks: Chinese near line-by-line # comments + Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/met",
+      "bytes": 992
+    },
+    "steve/第3周作业解答.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave26-agent1",
+      "note": "All 3 notebooks teaching-annotated via rewrite script; source-only edits; outputs/execution_count restored from snap; AST+logic strip checks passed (UGO cell7 has historically invalid multiline string",
+      "bytes": 14639
+    },
+    "ugomichael33/第3周_分词器与提示预算.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave26-agent1",
+      "note": "All 3 notebooks teaching-annotated via rewrite script; source-only edits; outputs/execution_count restored from snap; AST+logic strip checks passed (UGO cell7 has historically invalid multiline string",
+      "bytes": 4962
+    },
+    "victorConqueror/week7_finetuning/notebooks/03_Colab微调.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave26-agent1",
+      "note": "All 3 notebooks teaching-annotated via rewrite script; source-only edits; outputs/execution_count restored from snap; AST+logic strip checks passed (UGO cell7 has historically invalid multiline string",
+      "bytes": 12623
+    },
+    "wakanda-okkerjohn/第3周练习.ipynb": {
+      "week": "week3",
+      "status": "done",
+      "agent": "wave26-agent2",
+      "note": "recovered: false failed (ast.Str in agent checker); annotated",
+      "bytes": 9566
+    },
+    "NicholasDean/week4/第4周练习.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave26-agent2",
+      "note": "NicholasDean/week4/第4周练习.ipynb: 8 cells; outputs=[0, 1, 0, 0, 0, 1, 0, 2]",
+      "bytes": 7304
+    },
+    "Vagz1216/week4-exercise/第4周练习.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave26-agent2",
+      "note": "recovered: false failed (ast.Str in agent checker); annotated",
+      "bytes": 11395
+    },
+    "abdoul/第4周练习.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave26-agent3",
+      "note": "Annotated 3 week4 notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip",
+      "bytes": 10275
+    },
+    "alexandre-nkurunziza/第4周练习.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave26-agent3",
+      "note": "Annotated 3 week4 notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip",
+      "bytes": 6391
+    },
+    "ashutosh/Week4/第4周练习.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave26-agent3",
+      "note": "Annotated 3 week4 notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip",
+      "bytes": 12550
+    },
+    "bmuk/第4周练习.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave27-agent0",
+      "note": "Teaching-annotated 3/3 week4 notebooks: Chinese near line-by-line # comments + Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/met",
+      "bytes": 5302
+    },
+    "denis-mutuma/第4周练习.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave27-agent0",
+      "note": "Teaching-annotated 3/3 week4 notebooks: Chinese near line-by-line # comments + Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/met",
+      "bytes": 5688
+    },
+    "joxemi_works/week4/上传笔记本文档化.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave27-agent0",
+      "note": "Teaching-annotated 3/3 week4 notebooks: Chinese near line-by-line # comments + Chinese markdown teaching frames. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/met",
+      "bytes": 8163
+    },
+    "joxemi_works/week4/上传笔记本文档化_基准测试.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave27-agent1",
+      "note": "Annotated 3 week4 notebooks with Chinese near line-by-line # comments; markdown cells translated; prompts/model ids/URLs/error strings preserved; outputs/execution_count untouched; ast + comment-strip",
+      "bytes": 15246
+    },
+    "kica/第4周解答.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave27-agent1",
+      "note": "Annotated 3 week4 notebooks with Chinese near line-by-line # comments; markdown cells translated; prompts/model ids/URLs/error strings preserved; outputs/execution_count untouched; ast + comment-strip",
+      "bytes": 8196
+    },
+    "larry/第4周练习.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave27-agent1",
+      "note": "Annotated 3 week4 notebooks with Chinese near line-by-line # comments; markdown cells translated; prompts/model ids/URLs/error strings preserved; outputs/execution_count untouched; ast + comment-strip",
+      "bytes": 17652
+    },
+    "mideseniordev/week4/第4周练习.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave27-agent2",
+      "note": "mideseniordev/week4/第4周练习.ipynb: 8 cells, outputs preserved [0, 0, 0, 0, 0, 0, 0, 0]; mugisha_caleb_didier/week4/OpenRouter笔记本转换器.ipynb: 13 cells, outputs preserved [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0",
+      "bytes": 14905
+    },
+    "mugisha_caleb_didier/week4/OpenRouter笔记本转换器.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave27-agent2",
+      "note": "mideseniordev/week4/第4周练习.ipynb: 8 cells, outputs preserved [0, 0, 0, 0, 0, 0, 0, 0]; mugisha_caleb_didier/week4/OpenRouter笔记本转换器.ipynb: 13 cells, outputs preserved [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0",
+      "bytes": 19191
+    },
+    "muhammad_qasim_sheikh/Week 4/Day 5/模型性能检查.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave27-agent2",
+      "note": "mideseniordev/week4/第4周练习.ipynb: 8 cells, outputs preserved [0, 0, 0, 0, 0, 0, 0, 0]; mugisha_caleb_didier/week4/OpenRouter笔记本转换器.ipynb: 13 cells, outputs preserved [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0",
+      "bytes": 15282
+    },
+    "muhammad_shahid/第4周练习.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave27-agent3",
+      "note": "Annotated 3 week4 notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip",
+      "bytes": 18757
+    },
+    "sach91-bootcamp/第4周练习.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave27-agent3",
+      "note": "Annotated 3 week4 notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip",
+      "bytes": 8896
+    },
+    "samuel_remo/week4/第4周练习.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave27-agent3",
+      "note": "Annotated 3 week4 notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip",
+      "bytes": 10506
+    },
+    "softgeey/第4周练习解答.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave28-agent0",
+      "note": "Teaching-annotated 3/3 week4 notebooks: Chinese near line-by-line # comments on code; markdown teaching intros; prompts/model ids/URLs/UI strings untouched; outputs/execution_count preserved. solarina",
+      "bytes": 9740
+    },
+    "solarinayo/week4/第4周练习.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave28-agent0",
+      "note": "Teaching-annotated 3/3 week4 notebooks: Chinese near line-by-line # comments on code; markdown teaching intros; prompts/model ids/URLs/UI strings untouched; outputs/execution_count preserved. solarina",
+      "bytes": 4128
+    },
+    "spasquier/week4/第4周练习.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave28-agent0",
+      "note": "Teaching-annotated 3/3 week4 notebooks: Chinese near line-by-line # comments on code; markdown teaching intros; prompts/model ids/URLs/UI strings untouched; outputs/execution_count preserved. solarina",
+      "bytes": 4818
+    },
+    "steve/第4周作业解答.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave28-agent1",
+      "note": "All 3 annotated with near line-by-line Chinese teaching comments; outputs/execution_count restored from snap; logic strip+ast checks passed. Steve Gradio docstring tool (Colab userdata+multi-model); u",
+      "bytes": 15418
+    },
+    "uchebuzz/第4周_Python转C++转换器.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "waveQ3-agent0",
+      "note": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/tool schemas/error strings unchanged. outputs/execution_count restored from snapshot. uchebuzz",
+      "bytes": 12587
+    },
+    "ugomichael33/第4周_Python转C++优化器.ipynb": {
+      "week": "week4",
+      "status": "done",
+      "agent": "wave28-agent1",
+      "note": "All 3 annotated with near line-by-line Chinese teaching comments; outputs/execution_count restored from snap; logic strip+ast checks passed. Steve Gradio docstring tool (Colab userdata+multi-model); u",
+      "bytes": 12282
+    },
+    "NicholasDean/week5/第5周练习.ipynb": {
+      "week": "week5",
+      "status": "done",
+      "agent": "wave28-agent1",
+      "note": "All 3 annotated with near line-by-line Chinese teaching comments; outputs/execution_count restored from snap; logic strip+ast checks passed. Steve Gradio docstring tool (Colab userdata+multi-model); u",
+      "bytes": 6338
+    },
+    "Vagz1216/week5-exercise/第5周练习.ipynb": {
+      "week": "week5",
+      "status": "done",
+      "agent": "wave28-agent2",
+      "note": "Teaching-annotated 3 week5 RAG notebooks: Chinese markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; ast.parse + comment-stripped",
+      "bytes": 21693
+    },
+    "abdoul/第5周练习.ipynb": {
+      "week": "week5",
+      "status": "done",
+      "agent": "waveQ2-agent2",
+      "note": "Teaching-annotate complete for 3 notebooks (larry week7 QLoRA severity classifier; mideseniordev week5 dynamic URL RAG; abdoul week5 local Drive Sage RAG). Only cell source edited; outputs/execution_c",
+      "bytes": 37394
+    },
+    "alexandre-nkurunziza/第5周练习.ipynb": {
+      "week": "week5",
+      "status": "done",
+      "agent": "wave28-agent2",
+      "note": "Teaching-annotated 3 week5 RAG notebooks: Chinese markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; ast.parse + comment-stripped",
+      "bytes": 21029
+    },
+    "denis-mutuma/第5周练习.ipynb": {
+      "week": "week5",
+      "status": "done",
+      "agent": "wave28-agent2",
+      "note": "Teaching-annotated 3 week5 RAG notebooks: Chinese markdown + near line-by-line # comments; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; ast.parse + comment-stripped",
+      "bytes": 12735
+    },
+    "kica/第5周解答.ipynb": {
+      "week": "week5",
+      "status": "done",
+      "agent": "wave28-agent3",
+      "note": "Annotated 3 week5 RAG notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-s",
+      "bytes": 6233
+    },
+    "larry/第5周练习.ipynb": {
+      "week": "week5",
+      "status": "done",
+      "agent": "wave28-agent3",
+      "note": "Annotated 3 week5 RAG notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-s",
+      "bytes": 22373
+    },
+    "mideseniordev/week5/第5周练习.ipynb": {
+      "week": "week5",
+      "status": "done",
+      "agent": "waveQ2-agent2",
+      "note": "Teaching-annotate complete for 3 notebooks (larry week7 QLoRA severity classifier; mideseniordev week5 dynamic URL RAG; abdoul week5 local Drive Sage RAG). Only cell source edited; outputs/execution_c",
+      "bytes": 39182
+    },
+    "minhngoncoding/week5/简历冲浪助手.ipynb": {
+      "week": "week5",
+      "status": "done",
+      "agent": "wave28-agent3",
+      "note": "Annotated 3 week5 RAG notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-s",
+      "bytes": 6657
+    },
+    "mmaitsimwale/第5周练习.ipynb": {
+      "week": "week5",
+      "status": "done",
+      "agent": "wave29-agent0",
+      "note": "Teaching-annotated 3/3 week5 notebooks: Chinese near line-by-line # comments on code; markdown polished to teaching Chinese; prompts/model ids/URLs untouched; outputs/execution_count preserved; ast lo",
+      "bytes": 31419
+    },
+    "muhammad_qasim_sheikh/Week 5/Day 5/RAG检索增强.ipynb": {
+      "week": "week5",
+      "status": "done",
+      "agent": "wave29-agent0",
+      "note": "Teaching-annotated 3/3 week5 notebooks: Chinese near line-by-line # comments on code; markdown polished to teaching Chinese; prompts/model ids/URLs untouched; outputs/execution_count preserved; ast lo",
+      "bytes": 5474
+    },
+    "muhammad_shahid/第5周.ipynb": {
+      "week": "week5",
+      "status": "done",
+      "agent": "wave29-agent0",
+      "note": "Teaching-annotated 3/3 week5 notebooks: Chinese near line-by-line # comments on code; markdown polished to teaching Chinese; prompts/model ids/URLs untouched; outputs/execution_count preserved; ast lo",
+      "bytes": 11238
+    },
+    "sach91-bootcamp/第5周练习.ipynb": {
+      "week": "week5",
+      "status": "done",
+      "agent": "wave29-agent1",
+      "note": "Annotated 3 week5 RAG notebooks: sach91 (Ollama+SQLite+Gradio), samuel_remo (LLM chunking+rerank+query rewrite, 50 cells), softgeey (Chroma+Claude personal KB). Source-only edits; outputs/execution_co",
+      "bytes": 17606
+    },
+    "samuel_remo/第5周练习.ipynb": {
+      "week": "week5",
+      "status": "done",
+      "agent": "wave29-agent1",
+      "note": "Annotated 3 week5 RAG notebooks: sach91 (Ollama+SQLite+Gradio), samuel_remo (LLM chunking+rerank+query rewrite, 50 cells), softgeey (Chroma+Claude personal KB). Source-only edits; outputs/execution_co",
+      "bytes": 24913
+    },
+    "softgeey/第5周练习解答.ipynb": {
+      "week": "week5",
+      "status": "done",
+      "agent": "wave29-agent1",
+      "note": "Annotated 3 week5 RAG notebooks: sach91 (Ollama+SQLite+Gradio), samuel_remo (LLM chunking+rerank+query rewrite, 50 cells), softgeey (Chroma+Claude personal KB). Source-only edits; outputs/execution_co",
+      "bytes": 22603
+    },
+    "solarinayo/week5/第5周练习.ipynb": {
+      "week": "week5",
+      "status": "done",
+      "agent": "wave29-agent2",
+      "note": "solarinayo cell0 had nested notebook JSON dumped into source; restored intended install/import from nested N0 then teaching-annotated.",
+      "bytes": 20393
+    },
+    "spasquier/week5/第5周练习.ipynb": {
+      "week": "week5",
+      "status": "done",
+      "agent": "wave29-agent2",
+      "note": "solarinayo cell0 had nested notebook JSON dumped into source; restored intended install/import from nested N0 then teaching-annotated.",
+      "bytes": 16846
+    },
+    "steve/第5周作业解答.ipynb": {
+      "week": "week5",
+      "status": "done",
+      "agent": "wave29-agent2",
+      "note": "solarinayo cell0 had nested notebook JSON dumped into source; restored intended install/import from nested N0 then teaching-annotated.",
+      "bytes": 29637
+    },
+    "ugomichael33/第5周_公司知识库RAG.ipynb": {
+      "week": "week5",
+      "status": "done",
+      "agent": "wave29-agent3",
+      "note": "Annotated 3 notebooks (week5 RAG + two week6 fine-tune/pricing) with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/m",
+      "bytes": 9129
+    },
+    "NicholasDean/week6/第6周练习.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave29-agent3",
+      "note": "Annotated 3 notebooks (week5 RAG + two week6 fine-tune/pricing) with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/m",
+      "bytes": 10041
+    },
+    "Vagz1216/week6-exercise/第6周练习.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave29-agent3",
+      "note": "Annotated 3 notebooks (week5 RAG + two week6 fine-tune/pricing) with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/m",
+      "bytes": 9872
+    },
+    "abdoul/第6周练习.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave30-agent0",
+      "note": "Annotated 3 week6 notebooks (abdoul pricing FT pipeline, alexandre OpenAI FT pricer, dng supply-chain FT) with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URL",
+      "bytes": 35776
+    },
+    "alexandre-nkurunziza/第6周练习.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave30-agent0",
+      "note": "Annotated 3 week6 notebooks (abdoul pricing FT pipeline, alexandre OpenAI FT pricer, dng supply-chain FT) with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URL",
+      "bytes": 8472
+    },
+    "bmuk/第6周练习.ipynb": {
+      "week": "week6",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 12089
+    },
+    "denis-mutuma/第6周练习.ipynb": {
+      "week": "week6",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 23329
+    },
+    "dng/week6/供应链.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave30-agent0",
+      "note": "Annotated 3 week6 notebooks (abdoul pricing FT pipeline, alexandre OpenAI FT pricer, dng supply-chain FT) with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URL",
+      "bytes": 14276
+    },
+    "eliza_zadura/synthetic_data_generator/REST用JSON.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave30-agent1",
+      "note": "Teaching-annotated 3 notebooks via rewrite scripts under _snap_wave30_agent1 (sources.json → annotated → apply). Source-only edits; outputs/execution_count restored from snap; logic strip + ast.parse ",
+      "bytes": 13018
+    },
+    "kica/第6周解答.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave30-agent1",
+      "note": "Teaching-annotated 3 notebooks via rewrite scripts under _snap_wave30_agent1 (sources.json → annotated → apply). Source-only edits; outputs/execution_count restored from snap; logic strip + ast.parse ",
+      "bytes": 16946
+    },
+    "larry/第6周练习.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "waveQ2-agent0",
+      "note": "Annotated 3/3: dng/week3/课程生成器.ipynb, abdoul/第3周练习.ipynb, larry/第6周练习.ipynb. Chinese teaching markdown + near line-by-line # comments; prompts/model ids/URLs kept English. outputs/execution_count rest",
+      "bytes": 55563
+    },
+    "mideseniordev/week6/第6周练习.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave30-agent1",
+      "note": "Teaching-annotated 3 notebooks via rewrite scripts under _snap_wave30_agent1 (sources.json → annotated → apply). Source-only edits; outputs/execution_count restored from snap; logic strip + ast.parse ",
+      "bytes": 16831
+    },
+    "mmaitsimwale/第6周练习.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave30-agent2",
+      "note": "Chinese teaching markdown + near line-by-line # comments; logic fingerprints unchanged; outputs/execution_count preserved.",
+      "bytes": 17607
+    },
+    "mugisha_caleb_didier/week6/第6周练习.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave30-agent2",
+      "note": "Chinese teaching markdown + near line-by-line # comments; logic fingerprints unchanged; outputs/execution_count preserved.",
+      "bytes": 16878
+    },
+    "muhammad_qasim_sheikh/Week 6/Day 5/微调改进前沿模型.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave30-agent2",
+      "note": "Chinese teaching markdown + near line-by-line # comments; logic fingerprints unchanged; outputs/execution_count preserved.",
+      "bytes": 11607
+    },
+    "muhammad_shahid/第6周.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave30-agent3",
+      "note": "Annotated 3 week6 notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip",
+      "bytes": 19889
+    },
+    "sach91-bootcamp/第6周练习.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave30-agent3",
+      "note": "Annotated 3 week6 notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip",
+      "bytes": 31304
+    },
+    "samuel_remo/第6周练习.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave30-agent3",
+      "note": "Annotated 3 week6 notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip",
+      "bytes": 8628
+    },
+    "softgeey/第6周练习解答.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave31-agent0",
+      "note": "Teaching annotate: Chinese near line-by-line # comments + teaching markdown; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; ast.parse + strip_logic checks passed.",
+      "bytes": 15835
+    },
+    "solarinayo/week6/第6周练习.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave31-agent0",
+      "note": "Teaching annotate: Chinese near line-by-line # comments + teaching markdown; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; ast.parse + strip_logic checks passed.",
+      "bytes": 25529
+    },
+    "spasquier/week6/第6周练习.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave31-agent0",
+      "note": "Teaching annotate: Chinese near line-by-line # comments + teaching markdown; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; ast.parse + strip_logic checks passed.",
+      "bytes": 11799
+    },
+    "steve/第6周作业解答.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave31-agent1",
+      "note": "Teaching-annotated 1 large notebook (21 cells) via _snap_wave31_agent1/annotate_wave31_agent1.py. Source-only edits; outputs/execution_count unchanged; logic strip + ast.parse verified; dense Chinese ",
+      "bytes": 103792
+    },
+    "synthetic-dataset-generator/合成数据生成.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave31-agent2",
+      "note": "Chinese teaching markdown + near line-by-line # comments on SynthGen Gradio+LLaMA notebook; logic fingerprints unchanged; outputs/execution_count preserved.",
+      "bytes": 151650
+    },
+    "ugomichael33/第6周_价格基线误差分析.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "waveQ2-agent1",
+      "note": "Annotated 3 notebooks with Chinese teaching markdown + near line-by-line code comments; preserved outputs/execution_count/metadata/id via snapshot restore; prompts/model ids/URLs/UI strings/error prin",
+      "bytes": 52353
+    },
+    "ugomichael33/第7周_置信度感知定价.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave31-agent3",
+      "note": "Annotated 3 notebooks (week7 confidence pricer, week8 agentic deal pricer, week6 publisher triage) with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error",
+      "bytes": 20055
+    },
+    "ugomichael33/第8周_智能体交易定价.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave31-agent3",
+      "note": "Annotated 3 notebooks (week7 confidence pricer, week8 agentic deal pricer, week6 publisher triage) with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error",
+      "bytes": 13915
+    },
+    "wakanda-okkerjohn/第6周练习.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave31-agent3",
+      "note": "Annotated 3 notebooks (week7 confidence pricer, week8 agentic deal pricer, week6 publisher triage) with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error",
+      "bytes": 21862
+    },
+    "合成数据生成器_PT.ipynb": {
+      "week": "week6",
+      "status": "done",
+      "agent": "wave32-agent0",
+      "note": "Annotated 3 notebooks (synthetic data generator PT, NicholasDean week7 QLoRA, Vagz1216 week7 price-bucket QLoRA) with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ",
+      "bytes": 4955
+    },
+    "NicholasDean/week7/第7周练习.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave32-agent0",
+      "note": "Annotated 3 notebooks (synthetic data generator PT, NicholasDean week7 QLoRA, Vagz1216 week7 price-bucket QLoRA) with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ",
+      "bytes": 10467
+    },
+    "Vagz1216/week7-exercise/第7周练习.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave32-agent0",
+      "note": "Annotated 3 notebooks (synthetic data generator PT, NicholasDean week7 QLoRA, Vagz1216 week7 price-bucket QLoRA) with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ",
+      "bytes": 30375
+    },
+    "abdoul/第7周练习.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave32-agent1",
+      "note": "Teaching-annotate complete for 3 week7 notebooks. Only cell source edited; outputs/execution_count/metadata preserved (pre-snap before_meta.json). Runnable English kept (model ids, HF repos, revision ",
+      "bytes": 14436
+    },
+    "alexandre-nkurunziza/第7周练习.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave32-agent1",
+      "note": "Teaching-annotate complete for 3 week7 notebooks. Only cell source edited; outputs/execution_count/metadata preserved (pre-snap before_meta.json). Runnable English kept (model ids, HF repos, revision ",
+      "bytes": 11596
+    },
+    "bmuk/第7周练习.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave32-agent1",
+      "note": "Teaching-annotate complete for 3 week7 notebooks. Only cell source edited; outputs/execution_count/metadata preserved (pre-snap before_meta.json). Runnable English kept (model ids, HF repos, revision ",
+      "bytes": 337
+    },
+    "denis-mutuma/第7周练习_训练.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave32-agent2",
+      "note": "Chinese teaching markdown + near line-by-line # comments on denis-mutuma week7 train/eval (Llama-3.2-3B QLoRA) and dng/week7 合适价格 (Qwen2.5 SFT+Tester); logic fingerprints unchanged; outputs/execution_",
+      "bytes": 12584
+    },
+    "denis-mutuma/第7周练习_评估.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave32-agent2",
+      "note": "Chinese teaching markdown + near line-by-line # comments on denis-mutuma week7 train/eval (Llama-3.2-3B QLoRA) and dng/week7 合适价格 (Qwen2.5 SFT+Tester); logic fingerprints unchanged; outputs/execution_",
+      "bytes": 7941
+    },
+    "dng/week7/合适价格.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave32-agent2",
+      "note": "Chinese teaching markdown + near line-by-line # comments on denis-mutuma week7 train/eval (Llama-3.2-3B QLoRA) and dng/week7 合适价格 (Qwen2.5 SFT+Tester); logic fingerprints unchanged; outputs/execution_",
+      "bytes": 19789
+    },
+    "kica/第7周解答.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave32-agent3",
+      "note": "Annotated 3 week7 QLoRA notebooks (kica solution, mideseniordev practice, mrpeski practice) with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error string",
+      "bytes": 14447
+    },
+    "larry/第7周练习.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "waveQ2-agent2",
+      "note": "Teaching-annotate complete for 3 notebooks (larry week7 QLoRA severity classifier; mideseniordev week5 dynamic URL RAG; abdoul week5 local Drive Sage RAG). Only cell source edited; outputs/execution_c",
+      "bytes": 41358
+    },
+    "mideseniordev/week7/第7周练习.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave32-agent3",
+      "note": "Annotated 3 week7 QLoRA notebooks (kica solution, mideseniordev practice, mrpeski practice) with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error string",
+      "bytes": 16790
+    },
+    "mrpeski/第7周练习.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave32-agent3",
+      "note": "Annotated 3 week7 QLoRA notebooks (kica solution, mideseniordev practice, mrpeski practice) with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error string",
+      "bytes": 12886
+    },
+    "mugisha_caleb_didier/week7/第7周练习.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave33-agent0",
+      "note": "Annotated 3 week7 notebooks (mugisha decoding tricks + frontier compare, qasim QLoRA SFT+TopK eval, shahid day2 prompts + MAE chart) with Chinese teaching markdown + near line-by-line # comments; pres",
+      "bytes": 18765
+    },
+    "muhammad_qasim_sheikh/Week 7/微调开源模型.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave33-agent0",
+      "note": "Annotated 3 week7 notebooks (mugisha decoding tricks + frontier compare, qasim QLoRA SFT+TopK eval, shahid day2 prompts + MAE chart) with Chinese teaching markdown + near line-by-line # comments; pres",
+      "bytes": 15285
+    },
+    "muhammad_shahid/第7周.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave33-agent0",
+      "note": "Annotated 3 week7 notebooks (mugisha decoding tricks + frontier compare, qasim QLoRA SFT+TopK eval, shahid day2 prompts + MAE chart) with Chinese teaching markdown + near line-by-line # comments; pres",
+      "bytes": 12716
+    },
+    "sach91-bootcamp/第7周练习.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave33-agent1",
+      "note": "Annotated 3 week7 notebooks: sach91 traditional ML price baselines (83 cells), samuel_remo QLoRA Peft evaluate, solarinayo medical SFT+OpenRouter+Gradio. Source-only edits; outputs/execution_count pre",
+      "bytes": 36591
+    },
+    "samuel_remo/第7周_微调模型测试.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave33-agent1",
+      "note": "Annotated 3 week7 notebooks: sach91 traditional ML price baselines (83 cells), samuel_remo QLoRA Peft evaluate, solarinayo medical SFT+OpenRouter+Gradio. Source-only edits; outputs/execution_count pre",
+      "bytes": 15804
+    },
+    "softgeey/第7周练习解答.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "waveQ2-agent3",
+      "note": "Annotated 3/3: Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged. softgeey has no MD cells—week7 intro in first code-cel",
+      "bytes": 34742
+    },
+    "solarinayo/week7/第7周练习.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave33-agent1",
+      "note": "Annotated 3 week7 notebooks: sach91 traditional ML price baselines (83 cells), samuel_remo QLoRA Peft evaluate, solarinayo medical SFT+OpenRouter+Gradio. Source-only edits; outputs/execution_count pre",
+      "bytes": 16917
+    },
+    "spasquier/week7/第7周练习.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave33-agent2",
+      "note": "Markdown-only Colab index stub (1 cell, no code). Expanded Chinese teaching (goals / Week7 map / how-to-run); both Colab drive URLs preserved verbatim. Note: assigned as LARGE but file is tiny (~737B)",
+      "bytes": 737
+    },
+    "steve/第7周作业解答.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave33-agent3",
+      "note": "Annotated steve/第7周作业解答.ipynb (18 code cells): QLoRA/SFT Llama-3.2-3B price prediction. Near line-by-line Chinese teaching comments; logic/outputs/execution_count unchanged; ast.parse + strip_logic OK",
+      "bytes": 102153
+    },
+    "victorConqueror/week7_finetuning/notebooks/01_数据准备.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave34-agent0",
+      "note": "Chinese teaching markdown + near line-by-line # comments; logic/outputs/execution_count unchanged; AST-checked.",
+      "bytes": 9254
+    },
+    "victorConqueror/week7_finetuning/notebooks/02_基座模型测试.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave34-agent0",
+      "note": "Chinese teaching markdown + near line-by-line # comments; logic/outputs/execution_count unchanged; AST-checked.",
+      "bytes": 7259
+    },
+    "victorConqueror/week7_finetuning/notebooks/02_基线模型.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave34-agent0",
+      "note": "Chinese teaching markdown + near line-by-line # comments; logic/outputs/execution_count unchanged; AST-checked.",
+      "bytes": 9435
+    },
+    "victorConqueror/week7_finetuning/notebooks/03_QLoRA训练.ipynb": {
+      "week": "week7",
+      "status": "skipped",
+      "agent": "wave34-agent1",
+      "note": "empty 0-byte upstream; cannot annotate",
+      "bytes": 0
+    },
+    "victorConqueror/week7_finetuning/notebooks/04_评估.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave34-agent1",
+      "note": "Annotated 2/3. 03_QLoRA训练.ipynb is 0-byte empty (not valid JSON); sibling 03_Colab微调.ipynb already holds the QLoRA/Colab training flow and was not in this batch. 04_评估 + wakanda: Chinese teaching mark",
+      "bytes": 10977
+    },
+    "wakanda-okkerjohn/第7周练习.ipynb": {
+      "week": "week7",
+      "status": "done",
+      "agent": "wave34-agent1",
+      "note": "Annotated 2/3. 03_QLoRA训练.ipynb is 0-byte empty (not valid JSON); sibling 03_Colab微调.ipynb already holds the QLoRA/Colab training flow and was not in this batch. 04_评估 + wakanda: Chinese teaching mark",
+      "bytes": 8638
+    },
+    "NicholasDean/week8/第8周练习.ipynb": {
+      "week": "week8",
+      "status": "done",
+      "agent": "wave34-agent2",
+      "note": "Teaching-annotate 3 week8 notebooks: Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/print strings; only cell source edited; outputs/execution_count/metadata",
+      "bytes": 8531
+    },
+    "Vagz1216/week8-exercise/第8周练习.ipynb": {
+      "week": "week8",
+      "status": "done",
+      "agent": "wave34-agent2",
+      "note": "Teaching-annotate 3 week8 notebooks: Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/print strings; only cell source edited; outputs/execution_count/metadata",
+      "bytes": 24660
+    },
+    "abdoul/第8周练习.ipynb": {
+      "week": "week8",
+      "status": "done",
+      "agent": "wave34-agent2",
+      "note": "Teaching-annotate 3 week8 notebooks: Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/print strings; only cell source edited; outputs/execution_count/metadata",
+      "bytes": 18206
+    },
+    "alexandre-nkurunziza/第8周练习.ipynb": {
+      "week": "week8",
+      "status": "done",
+      "agent": "wave34-agent3",
+      "note": "Annotated 3 week-8 notebooks: alexandre (lite scanner + OpenRouter estimator + Gradio timer), denis (full Modal/Ensemble/AutonomousPlanning stack), kica (real-estate domain-swap RAG tool loop). Near l",
+      "bytes": 20564
+    },
+    "denis-mutuma/第8周练习.ipynb": {
+      "week": "week8",
+      "status": "done",
+      "agent": "wave34-agent3",
+      "note": "Annotated 3 week-8 notebooks: alexandre (lite scanner + OpenRouter estimator + Gradio timer), denis (full Modal/Ensemble/AutonomousPlanning stack), kica (real-estate domain-swap RAG tool loop). Near l",
+      "bytes": 55183
+    },
+    "kica/第8周解答.ipynb": {
+      "week": "week8",
+      "status": "done",
+      "agent": "wave34-agent3",
+      "note": "Annotated 3 week-8 notebooks: alexandre (lite scanner + OpenRouter estimator + Gradio timer), denis (full Modal/Ensemble/AutonomousPlanning stack), kica (real-estate domain-swap RAG tool loop). Near l",
+      "bytes": 12658
+    },
+    "larry/第8周练习.ipynb": {
+      "week": "week8",
+      "status": "done",
+      "agent": "waveQ2-agent3",
+      "note": "Annotated 3/3: Chinese teaching markdown (目标/对照表/怎么跑) + near line-by-line # comments. Prompts/model ids/URLs/error strings/identifiers unchanged. softgeey has no MD cells—week7 intro in first code-cel",
+      "bytes": 31505
+    },
+    "mideseniordev/week8/第8周练习.ipynb": {
+      "week": "week8",
+      "status": "done",
+      "agent": "wave35-agent0",
+      "note": "Chinese teaching markdown + near line-by-line # comments; logic/outputs/execution_count unchanged; AST-checked.",
+      "bytes": 10105
+    },
+    "mrpeski/week_eight_exercise/第8周练习.ipynb": {
+      "week": "week8",
+      "status": "done",
+      "agent": "wave35-agent0",
+      "note": "Chinese teaching markdown + near line-by-line # comments; logic/outputs/execution_count unchanged; AST-checked.",
+      "bytes": 20180
+    },
+    "muhammad_qasim_sheikh/Week 8/集成模型.ipynb": {
+      "week": "week8",
+      "status": "done",
+      "agent": "wave35-agent0",
+      "note": "Chinese teaching markdown + near line-by-line # comments; logic/outputs/execution_count unchanged; AST-checked.",
+      "bytes": 17260
+    },
+    "softgeey/第8周练习解答.ipynb": {
+      "week": "week8",
+      "status": "done",
+      "agent": "wave35-agent1",
+      "note": "All 3 notebooks annotated source-only with near line-by-line Chinese # comments and improved Chinese markdown. Logic/AST checks passed; outputs and execution_count preserved. softgeey is the largest (",
+      "bytes": 33866
+    },
+    "solarinayo/week8/第8周练习.ipynb": {
+      "week": "week8",
+      "status": "done",
+      "agent": "wave35-agent1",
+      "note": "All 3 notebooks annotated source-only with near line-by-line Chinese # comments and improved Chinese markdown. Logic/AST checks passed; outputs and execution_count preserved. softgeey is the largest (",
+      "bytes": 18777
+    },
+    "spasquier/week8/第8周练习.ipynb": {
+      "week": "week8",
+      "status": "done",
+      "agent": "wave35-agent1",
+      "note": "All 3 notebooks annotated source-only with near line-by-line Chinese # comments and improved Chinese markdown. Logic/AST checks passed; outputs and execution_count preserved. softgeey is the largest (",
+      "bytes": 8995
+    },
+    "steve/第8周作业解答.ipynb": {
+      "week": "week8",
+      "status": "done",
+      "agent": "waveQ1-agent2",
+      "note": "Teaching-annotate complete for steve week8 multi-agent cyber threat notebook (23 cells). Only cell source edited; outputs/execution_count/cell metadata/notebook metadata untouched (snapshot+hash verif",
+      "bytes": 112198
+    },
+    "sharanya_第2天.ipynb": {
+      "week": "未分类",
+      "status": "skipped",
+      "agent": null,
+      "note": "removed as official-lab copy",
+      "bytes": 13070
+    },
+    "书店助手.ipynb": {
+      "week": "未分类",
+      "status": "done",
+      "agent": "wave35-agent2",
+      "note": "Teaching-annotate 3 unclassified root notebooks: Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs; source-only edits; outputs/execution_count/metadata untouch",
+      "bytes": 4962
+    },
+    "代码讲解助手_psu.ipynb": {
+      "week": "未分类",
+      "status": "done",
+      "agent": "wave35-agent2",
+      "note": "Teaching-annotate 3 unclassified root notebooks: Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs; source-only edits; outputs/execution_count/metadata untouch",
+      "bytes": 15255
+    },
+    "商业.ipynb": {
+      "week": "未分类",
+      "status": "done",
+      "agent": "wave35-agent2",
+      "note": "Teaching-annotate 3 unclassified root notebooks: Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs; source-only edits; outputs/execution_count/metadata untouch",
+      "bytes": 323
+    },
+    "市场调研智能体.ipynb": {
+      "week": "未分类",
+      "status": "done",
+      "agent": "wave35-agent3",
+      "note": "Teaching annotate for 3 unclassified root notebooks: denser Chinese # comments, markdown teaching polish; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; logic checked",
+      "bytes": 27765
+    },
+    "梵语翻译.ipynb": {
+      "week": "未分类",
+      "status": "done",
+      "agent": "wave35-agent3",
+      "note": "Teaching annotate for 3 unclassified root notebooks: denser Chinese # comments, markdown teaching polish; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; logic checked",
+      "bytes": 4486
+    },
+    "用llama3.2总结作品集网站.ipynb": {
+      "week": "未分类",
+      "status": "done",
+      "agent": "wave35-agent3",
+      "note": "Teaching annotate for 3 unclassified root notebooks: denser Chinese # comments, markdown teaching polish; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count preserved; logic checked",
+      "bytes": 4310
+    },
+    "电视剧推荐器.ipynb": {
+      "week": "未分类",
+      "status": "done",
+      "agent": "wave36-agent0",
+      "note": "Teaching-annotated 3 ROOT notebooks: near line-by-line Chinese # comments; markdown polished to teaching Chinese; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count/metadata preserv",
+      "bytes": 23827
+    },
+    "营销手册生成.ipynb": {
+      "week": "未分类",
+      "status": "done",
+      "agent": "waveQ1-agent3",
+      "note": "Teaching-annotated 营销手册生成.ipynb (22 cells): near line-by-line Chinese # comments on code; markdown expanded with Week1 concept table and run steps. Prompt/model/URL strings kept English. Snapshot-rest",
+      "bytes": 92269
+    },
+    "诊所预约机器人.ipynb": {
+      "week": "未分类",
+      "status": "done",
+      "agent": "wave36-agent0",
+      "note": "Teaching-annotated 3 ROOT notebooks: near line-by-line Chinese # comments; markdown polished to teaching Chinese; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count/metadata preserv",
+      "bytes": 12864
+    },
+    "预算旅行助手.ipynb": {
+      "week": "未分类",
+      "status": "done",
+      "agent": "wave36-agent0",
+      "note": "Teaching-annotated 3 ROOT notebooks: near line-by-line Chinese # comments; markdown polished to teaching Chinese; prompts/model ids/URLs/identifiers unchanged; outputs/execution_count/metadata preserv",
+      "bytes": 3744
+    },
+    "Suyash/python_teacher/Python老师.ipynb": {
+      "week": "week1",
+      "status": "done",
+      "agent": "waveQ3-agent0",
+      "note": "Annotated 3/3 notebooks: Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/tool schemas/error strings unchanged. outputs/execution_count restored from snapshot. uchebuzz",
+      "bytes": 6549
+    }
+  }
+}

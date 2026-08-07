@@ -1,0 +1,11 @@
+{
+  "agent": "wave28-agent3",
+  "done": [
+    "kica/第5周解答.ipynb",
+    "larry/第5周练习.ipynb",
+    "minhngoncoding/week5/简历冲浪助手.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "larry/第5周练习.ipynb",
+  "notes": "Annotated 3 week5 RAG notebooks with Chinese teaching markdown + near line-by-line # comments; preserved prompts/model ids/URLs/error strings; outputs/execution_count/metadata untouched; ast + logic-strip checks passed."
+}

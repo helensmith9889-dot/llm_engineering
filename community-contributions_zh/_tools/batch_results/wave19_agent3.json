@@ -1,0 +1,11 @@
+{
+  "agent": "wave19-agent3",
+  "done": [
+    "ashutosh/Week2/day4.ipynb",
+    "ashutosh/Week2/第2周练习.ipynb",
+    "bmuk/第2周练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "ashutosh/Week2/day4.ipynb",
+  "notes": "Teaching-annotated 3/3 notebooks with Chinese teaching markdown + near line-by-line # comments. Prompts/model ids/URLs/print strings/identifiers unchanged. outputs/execution_count/metadata preserved; ast/logic compare (comment/docstring-stripped) passed. day4: FlightAI Gradio+tools+SQLite get/set price; ashutosh week2: code gen/exec tools+voice+plot; bmuk week2: OpenRouter stream Q&A + Whisper + Groq TTS. No progress.json edit."
+}

@@ -1,0 +1,11 @@
+{
+  "agent": "wave20-agent1",
+  "done": [
+    "diljeet/week2/第1天.ipynb",
+    "dng/week2/第1天.ipynb",
+    "erybie222/week-2/第1天练习.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "diljeet/week2/第1天.ipynb",
+  "notes": "Annotated 3/3. diljeet: three-bot debate (GPT Alex / Gemini Blake / Ollama Charlie) + conclusion round; markdown teaching + near line-by-line # comments. dng: OpenRouter multi-role coding pipeline (Peter/Paul/Cody/Ren/Rob) with streaming display and refactor loop on English trigger phrases. erybie222: same three-persona debate via OpenAI/Ollama/Gemini clients. Prompts/model ids/URLs/identifiers/print strings unchanged; outputs/execution_count/metadata/id preserved; ast.parse OK. No progress.json edit."
+}

@@ -1,0 +1,9 @@
+{
+  "agent": "waveQ1-agent0",
+  "done": [
+    "FarrasEzra/第2周_伦敦房价GPT.ipynb"
+  ],
+  "failed": [],
+  "sample_for_review": "FarrasEzra/第2周_伦敦房价GPT.ipynb",
+  "notes": "Teaching-annotated 22 cells (markdown→中文教学; code near line-by-line # comments). Prompts/model ids/URLs/identifiers unchanged. outputs+execution_count preserved (8 outputs total; sha256 match pre-edit snapshot). Cell 21 streaming draft left syntactically incomplete as in original (no logic fix). Cell 16 commented trial lines restored to English identifiers (maps/display) per runnable-English rule."
+}
